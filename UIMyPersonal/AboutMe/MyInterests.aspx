@@ -15,8 +15,8 @@
                                                    <div class="grid no-margin">
                                                         <div class="row accordion-frame">
                                                             <div class="span4 no-tablet-portrait no-phone">
-                                                                <div class="notice marker-on-right bg-orange  text-center" style="height: 100px">
-                                                                    <p class="subheader-secondary fg-white"><h2>Movies</h2></p>
+                                                                <div class="notice marker-on-right bg-orange  text-center" style="height: 70px">
+                                                                    <p class="subheader-secondary fg-white">Movies</p>
                                                                 </div>
                                                             </div>
 
@@ -108,8 +108,8 @@
                                                     <div class="grid no-margin">
                                                         <div class="row">
                                                             <div class="span4 no-tablet-portrait no-phone">
-                                                                <div class="notice marker-on-right bg-reg padding20 text-center" style="height: 100px">
-                                                                    <p class="subheader-secondary fg-white"><h2>Songs</h2></p>
+                                                                <div class="notice marker-on-right bg-reg padding20 text-center" style="height: 70px">
+                                                                    <p class="subheader-secondary fg-white">Songs</p>
                                                                 </div>
                                                             </div>
 
@@ -264,8 +264,8 @@
                                                     <div class="grid no-margin">
                                                         <div class="row">
                                                             <div class="span4 no-tablet-portrait no-phone">
-                                                                <div class="notice marker-on-right bg-green padding20 text-center" style="height: 100px">
-                                                                    <p class="subheader-secondary fg-white"><h2>Places</h2></p>
+                                                                <div class="notice marker-on-right bg-green padding0 text-center" style="height: 70px">
+                                                                    <p class="subheader-secondary fg-white">Places</p>
                                                                 </div>
                                                             </div>
 
@@ -273,14 +273,35 @@
                                                             <div class="accordion with-marker span9 padding place-left" data-role="accordion" data-closeany="false">
 
                                                             <div class="accordion-frame" >
-                                                                <a class="heading">Hyderabad ( I love everything in hyderabad )</a>
+                                                                <a class="heading">Hyderabad (I love everything in hyderabad )</a>
                                                                 <div class="content" >
                                                                     <%--<iframe width="640" height="480"src="//www.youtube.com/embed/dTUU9JKtQYU"></iframe>--%>
                                                                 </div>
                                                             </div>
 
                                                             <div class="accordion-frame" >
-                                                                <a class="heading">Mumbai(Back waters at New Bombay,Banstand)</a>
+                                                                <a class="heading">Mumbai (Back waters at New Bombay,Banstand)</a>
+                                                                <div class="content" >
+                                                                    <%--<iframe width="640" height="480"src="//www.youtube.com/embed/dTUU9JKtQYU"></iframe>--%>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="accordion-frame" >
+                                                                <a class="heading">Ooty (Shooting Spot, Doddabetta Peak) </a>
+                                                                <div class="content" >
+                                                                    <%--<iframe width="640" height="480"src="//www.youtube.com/embed/dTUU9JKtQYU"></iframe>--%>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="accordion-frame" >
+                                                                <a class="heading">Kodaikanal (Suicide Point, Coakers Walk, Dolphin Nose)</a>
+                                                                <div class="content" >
+                                                                    <%--<iframe width="640" height="480"src="//www.youtube.com/embed/dTUU9JKtQYU"></iframe>--%>
+                                                                </div>
+                                                            </div>
+
+                                                             <div class="accordion-frame" >
+                                                                <a class="heading">Darjeeling (Tiger Hill, Toy Train, Tea Gardens)</a>
                                                                 <div class="content" >
                                                                     <%--<iframe width="640" height="480"src="//www.youtube.com/embed/dTUU9JKtQYU"></iframe>--%>
                                                                 </div>
@@ -294,7 +315,14 @@
                                                             </div>
 
                                                             <div class="accordion-frame" >
-                                                                <a class="heading">Vizag(Borra caves, Araku, Gangavaram beach)</a>
+                                                                <a class="heading">Vizag (Borra caves, Araku, Gangavaram beach)</a>
+                                                                <div class="content" >
+                                                                    <%--<iframe width="640" height="480"src="//www.youtube.com/embed/dTUU9JKtQYU"></iframe>--%>
+                                                                </div>
+                                                            </div>
+
+                                                                 <div class="accordion-frame" >
+                                                                <a class="heading">Mahabaleshwar (Elephant’s Head Point, Sunrise Point)</a>
                                                                 <div class="content" >
                                                                     <%--<iframe width="640" height="480"src="//www.youtube.com/embed/dTUU9JKtQYU"></iframe>--%>
                                                                 </div>
