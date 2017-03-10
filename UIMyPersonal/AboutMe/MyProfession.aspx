@@ -69,7 +69,7 @@
                                                             </div>
                                                          
                                                               <div class ="span10">
-                                                             <a href="../../docs/Gopala_Profile_PM.doc" class="place-left button bg-red bg-hover-red fg-black fg-hover-white bd-orange" style="margin-top: 10px">
+                                                             <a href="../../docs/Gopala_Profile.pdf" class="place-left button bg-red bg-hover-red fg-black fg-hover-white bd-orange" style="margin-top: 10px">
                                                              <h6 style="margin: 5px 10px"> Download <span class="icon-download-2 on-right"></span></h6></a>
                                                              </div>
 
