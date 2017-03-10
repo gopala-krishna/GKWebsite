@@ -32,7 +32,7 @@ Passionate about hiring, building, expanding, retaining, managing teams and mark
 product to generate revenue. Highly passionate in keeping track of latest advancements in
 technology, platforms and products in both enterprise and consumer market space.<br /><br />
 Have 11 years of experience which includes 18 months of entrepreneurial experience.
-I had stints with companies like Microsoft, JPMC and startups. My educational background includes
+I had stints with companies like Microsoft (Full time (FTE)), JPMC and startups. My educational background includes
 B.Tech in Mechanical Engineering from IIT Bombay (2005 pass out)
                                                                  </div>
 
