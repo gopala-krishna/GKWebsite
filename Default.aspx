@@ -303,25 +303,25 @@
 
                                             my bouncing back attitude and my questioning attitdue always fetched me big
 
-                                            rewards. Presently i work for <a href="http://www.microsoft.com/"><font color="blue">Microsoft</font></a> in Hyderabad.
+                                            rewards. Recently i worked for <a href="http://www.microsoft.com/"><font color="blue">Microsoft</font></a> in Hyderabad.
 
                                             Before stepping into this whole wide world i
 
                                             went to <a href="http://www.iitb.ac.in/"><font color="blue">IIT Mumbai</font></a> and earned B.Tech in mechanical
 
-                                            engineering. Besides earning an engineering degree
+                                            engineering. </p>
 
-                                            the qualities/traits which i learnt at IIT : (i am really
+                                                <p>Product management and technology are my core passions and I believe if passion matches 
+                                                with profession we enjoy our work and don’t get tired. I know how to leverage technology and 
+                                                algorithms to build innovative products.My strengths - questioning attitude, research orientation, 
+                                                curiosity and honesty.</p>
 
-                                            proud to say that i learnt these just bcoz of getting
+                                               <p> I maintain my own  <a href="http://subtlegopalweb.com"><font color="blue">Personal Website</font></a>, <a href="http://subtlegopalweb.com"><font color="blue">Personal Blog</font></a> and <a href="http://subtlegopalweb.com"><font color="blue">Technical Blog</font></a>. 
+                                                Mostly I share interesting facts which raise curiosity among readers. 
+                                                I'm official mentor for the students at IIT Bombay.
 
-                                            into IIT)Never giveup attitude,structured way of logical
 
-                                            thinking,focus on continuous learning,Love to do
-
-                                            challenging work,problem solving skills,
-
-                                            Helping/Sharing.</p>
+                                            </p>
 
 
 
