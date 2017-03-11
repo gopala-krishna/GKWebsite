@@ -338,7 +338,7 @@
                                                                               <div class="grid no-margin">
                                                         <div class="row">
                                                             <div class="span4 no-tablet-portrait no-phone">
-                                                                <div class="notice marker-on-right bg-green padding0 text-center" style="height: 70px">
+                                                                <div class="notice marker-on-right bg-yellow padding0 text-center" style="height: 70px">
                                                                     <p class="subheader-secondary fg-white">Others</p>
                                                                 </div>
                                                             </div>
@@ -395,7 +395,7 @@
                                                                 <a class="heading">Favorite Singers(Male)</a>
                                                                 <div class="content" >
                                                                     <u>Die Hard Fan Of</u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Kumar_Sanu">Kumar Sanu</a><br /><br />
-                                                                    <a href="https://en.wikipedia.org/wiki/A._R._Rahman">A. R. Rahman</a><br />
+                                                                    <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/A._R._Rahman">A. R. Rahman</a><br />
                                                                     <a href="https://en.wikipedia.org/wiki/Karthik_(singer)">Karthik</a><br />
                                                                 </div>
                                                             </div>
