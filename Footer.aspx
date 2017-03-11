@@ -60,7 +60,7 @@
                 <footer>
                     <div class="bottom-menu-wrapper fg-white" >
                         <ul class="horizontal-menu compact fg-white">
-                            <li>&copy; 2015 Gopala Krishna</li>
+                            <li>&copy; 2017 Gopala Krishna</li>
                             <li><a href="#">Privacy</a></li>
                             <li><a href="#">Legal</a></li>
                             <li><a href="#">Advertise</a></li>

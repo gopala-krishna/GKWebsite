@@ -309,16 +309,16 @@
 
                                             went to <a href="http://www.iitb.ac.in/"><font color="blue">IIT Mumbai</font></a> and earned B.Tech in mechanical
 
-                                            engineering. </p>
+                                            engineering. I'm official mentor for the students at IIT Bombay. </p>
 
                                                 <p>Product management and technology are my core passions and I believe if passion matches 
-                                                with profession we enjoy our work and don’t get tired. I know how to leverage technology and 
+                                                with profession we enjoy our work and don’t get bored. I know how to leverage technology and 
                                                 algorithms to build innovative products.My strengths - questioning attitude, research orientation, 
-                                                curiosity and honesty.</p>
+                                                curiosity and honesty.
 
-                                               <p> I maintain my own  <a href="http://subtlegopalweb.com"><font color="blue">Personal Website</font></a>, <a href="http://subtlegopalweb.com"><font color="blue">Personal Blog</font></a> and <a href="http://subtlegopalweb.com"><font color="blue">Technical Blog</font></a>. 
+                                               I maintain my own <a href="http://subtlegopalweb.com"><font color="blue">Personal Website</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Technical Blog</font></a>. 
                                                 Mostly I share interesting facts which raise curiosity among readers. 
-                                                I'm official mentor for the students at IIT Bombay.
+                                                
 
 
                                             </p>
@@ -336,7 +336,9 @@
                                             queries. Sign my guestbook with ur valuble
 
                                             suggestions/comments</p>
-
+                                        <div class ="text-bold text-center text-italic text-shadow ">
+                                        <h4><font color="black">"Dream as if you will live for ever... live as if you die today"</font></h4>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

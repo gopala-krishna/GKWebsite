@@ -329,21 +329,159 @@
                                                             </div>
 
 
-
-
-                                                            <%--<div class="span8">
-                                                                <ul >
-                                                                    <li style="width: 90%">Hyderabad ( I love everything in hyderabad )</li>
-                                                                    <li style="width: 90%">Mumbai(Back waters at New Bombay,Banstand)</li>
-                                                                    <li style="width: 90%">Banglore and Mysore (Brundavan Gardens, Shivaji palace)</li>
-                                                                    <li style="width: 90%">Vizag(Borra caves, Araku, Gangavaram beach)</li>
-                                                                </ul>
-                                                            </div>--%>
                                                         </div>
                                                     </div>
-                                
                         </div>
                     </div>
+
+
+                                                                              <div class="grid no-margin">
+                                                        <div class="row">
+                                                            <div class="span4 no-tablet-portrait no-phone">
+                                                                <div class="notice marker-on-right bg-green padding0 text-center" style="height: 70px">
+                                                                    <p class="subheader-secondary fg-white">Others</p>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class =" span2 padding15 " >                          
+                                                            <div class="accordion with-marker span9 padding place-left" data-role="accordion" data-closeany="false">
+
+                                                             <div class="accordion-frame active" >
+                                                                <a class="heading">My Passions</a>
+                                                                
+                                                                <div class="content"  >
+                                                                    <u>Extreme</u> <br /><br /> <a href="">Dreaming</a><br /><br />
+                                                                    <u>Normal<br /><br /></u><a href="">Technology (Platforms, Distributed Systems)</a><br />
+                                                                    <a href="">Music (Research on Bach's and Ilaiyaraja's Work)</a><br />
+                                                                    <a href="">Movies (Screenplay)</a><br />
+                                                                    <a href="">Neurology</a><br />
+                                                                </div>
+                                                                     
+                                                            </div>
+
+
+                                                            <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Actress</a>
+                                                                <div class="content" >
+                                                                    <u>Die Hard Fan Of</u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Kamalinee_Mukherjee">Kamalinee Mukherjee</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/Samantha_Ruth_Prabhu">Samantha Ruth</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Smita_Patil">Smita Patil</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Charlize_Theron">Charlize Theron</a><br />
+                                                                </div>
+                                                            </div>
+
+                                                                
+                                                                <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Actors</a>
+                                                                <div class="content" >
+                                                                    <u>Die Hard Fan Of</u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Nani_(actor)">Nani</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/Rajendra_Prasad_(actor)">Rajendra Prasad</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Keanu_Reeves">Keanu Reeves</a><br />
+                                                                </div>
+                                                            </div>
+
+                                                                 <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Music</a>
+                                                                <div class="content">
+                                                                    <u>Die Hard Fan Of</u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Ilaiyaraaja">Ilaiyaraaja</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/Johann_Sebastian_Bach">Johann Sebastian Bach</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/A._R._Rahman">A. R. Rahman</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/K._M._Radha_Krishnan">K. M. Radha Krishnan</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/R._D._Burman">R. D. Burman</a><br />
+                                                                </div>
+                                                            </div>
+
+                                                                 <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Singers(Male)</a>
+                                                                <div class="content" >
+                                                                    <u>Die Hard Fan Of</u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Kumar_Sanu">Kumar Sanu</a><br /><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/A._R._Rahman">A. R. Rahman</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Karthik_(singer)">Karthik</a><br />
+                                                                </div>
+                                                            </div>
+
+                                                                 <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Singers(Female)</a>
+                                                                <div class="content" >
+                                                                    <u>Die Hard Fan Of</u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Anjana_Sowmya">Anjana Sowmya</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/Chinmayi">Chinmayi</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/S._Janaki">S. Janaki</a><br />
+                                                                </div>
+                                                            </div>
+
+                                                                <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Cricketers</a>
+                                                                <div class="content" >
+                                                                    <u>Die Hard Fan Of</u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Shahid_Afridi">Shahid Afridi</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/Mohammad_Azharuddin">Mohammad Azharuddin</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/AB_de_Villiers">AB de Villiers</a><br />
+                                                                </div>
+                                                            </div>
+
+
+                                                            <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Food</a>
+                                                                <div class="content" >
+                                                                    <u>Love to eat</u> <br /><br /> <a href="">Intelligent Girl's Brain</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="">Hyderabadi Mutton Biryani</a><br />
+                                                                    <a href="">Hyderabadi Roadside Panipoori</a><br />
+                                                                </div>
+                                                            </div>
+
+                                                                 
+                                                        <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Sports</a>
+                                                                <div class="content" >
+                                                                    <u>Love </u> <br /><br /> <a href="">Kicking Stupid People's A**</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="">Badminton</a><br />
+                                                                    <a href="">Chess</a><br />
+                                                                    <a href="">Volleyball</a><br />
+                                                                </div>
+                                                            </div>
+                                                                
+                                                         <div class="accordion-frame active" >
+                                                                <a class="heading">Can't Live Without</a>
+                                                                <div class="content" >
+                                                                    <u>My Breath </u> <br /><br /> <a href="">Laptop with Internet</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="">Jyothi Saroja</a><br />
+                                                                    <a href="">Ilaiyaraaja's Music</a><br />
+                                                                    <a href="">Stupid Friends</a><br />
+                                                                    <a href="">Thinking</a><br />
+                                                                </div>
+                                                            </div>
+                                                        
+                                                            <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Movie Directors</a>
+                                                                <div class="content" >
+                                                                    <u>Die Hard Fan of </u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Ram_Gopal_Varma">Ram Gopal Verma</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/Mani_Ratnam">Mani Ratnam</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Akira_Kurosawa"></a>Akira Kurosawa<br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Chandra_Sekhar_Yeleti">Chandra Sekhar Yeleti</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Kathir">Kathir</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Imtiaz_Ali_(director)">Imtiaz Ali</a><br />
+                                                                </div>
+                                                            </div>
+                                                        
+                                                    <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Philosophers</a>
+                                                                <div class="content" >
+                                                                    <u>Die Hard Fan of </u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Ram_Gopal_Varma">Ram Gopal Verma</a><br /><br />
+                                                                    <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/Ayn_Rand">Ayn Rand</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Paulo_Coelho">Paulo Coelho</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Gautama_Buddha">Gautama Buddha</a><br />
+                                                                </div>
+                                                            </div>
+ 
+                                                            
+
+                                                     
+
+
+                                                          </div>
+                                                    </div>
+                        </div>
+                    </div>
+
 
                                           </div>
                                  </div>
