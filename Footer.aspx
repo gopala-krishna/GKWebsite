@@ -15,8 +15,8 @@
                             <h3 class="fg-white">Follow Me</h3>
                             <a class="icon-blogger on-right on-left" href ="http://gopalakrishnaiitb.blogspot.in/" style="background: orange;color: white; padding: 10px; border-radius: 50%"></a>
                             <a class="icon-blogger on-right on-left" href ="http://gopalakrishnatech.blogspot.in/" style="background: red;color: white; padding: 10px; border-radius: 50%"></a>
-                            <a class="icon-facebook on-right on-left" href ="https://www.facebook.com/gopalakrishna.iitb" style="background: blue;color: white; padding: 10px; border-radius: 50%"></a>
-                            <a class="icon-linkedin on-right on-left" href ="https://www.linkedin.com/profile/view?id=97684873&trk=nav_responsive_tab_profile" style="background: magenta;color: white; padding: 10px; border-radius: 50%"></a>
+                            <a class="icon-facebook on-right on-left" href ="https://www.facebook.com/subtlegopala" style="background: blue;color: white; padding: 10px; border-radius: 50%"></a>
+                            <a class="icon-linkedin on-right on-left" href ="https://www.linkedin.com/in/gopala-krishna-72186a28/" style="background: magenta;color: white; padding: 10px; border-radius: 50%"></a>
 
                             <h3 class="fg-white">Contact Me</h3>
                             <a class="icon-phone on-right on-left" href ="tel:918978556611" style="background: orange;color: white; padding: 10px; border-radius: 50%"></a>
