@@ -459,7 +459,7 @@
                                                                     <a href="https://en.wikipedia.org/wiki/Chandra_Sekhar_Yeleti">Chandra Sekhar Yeleti</a><br />
                                                                     <a href="https://en.wikipedia.org/wiki/Kathir">Kathir</a><br />
                                                                     <a href="https://en.wikipedia.org/wiki/Imtiaz_Ali_(director)">Imtiaz Ali</a><br />
-                                                                    <a href="https://en.wikipedia.org/wiki/Imtiaz_Ali_(director)">Vamsy</a><br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Vamsy">Vamsy</a><br />
                                                                 </div>
                                                             </div>
                                                         
