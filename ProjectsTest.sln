@@ -3,10 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Projects", "..\..\..\..\..\..\", "{68F3DF17-D916-4C0A-A812-4C993C56064E}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Projects", "..", "{68F3DF17-D916-4C0A-A812-4C993C56064E}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		SlnRelativePath = "..\..\..\..\..\..\"
+                Debug.AspNetCompiler.VirtualPath = "/localhost_4108"
+		Debug.AspNetCompiler.PhysicalPath = ".."
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4108\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4108"
+		Release.AspNetCompiler.PhysicalPath = ".."
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4108\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4108"
+		SlnRelativePath = ".."
 	EndProjectSection
 EndProject
 Global
@@ -24,3 +39,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+
+
+
