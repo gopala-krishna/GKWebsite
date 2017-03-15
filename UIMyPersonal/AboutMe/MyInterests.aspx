@@ -425,7 +425,7 @@
                                                                     <u>Love to eat</u> <br /><br /> <a href="">Intelligent Girl's Brain</a><br /><br />
                                                                     <u>Others<br /><br /></u><a href="">Hyderabadi Mutton Biryani</a><br />
                                                                     <a href="">Hyderabadi Roadside Panipoori</a><br />
-                                                                    <a href="">Tulsi Chicken Biryani</a><br />
+                                                                    <a href="">Hill Stations Tulsi Chicken Biryani</a><br />
                                                                 </div>
                                                             </div>
 
