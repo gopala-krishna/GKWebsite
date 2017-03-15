@@ -455,7 +455,7 @@
                                                                 <div class="content" >
                                                                     <u>Die Hard Fan of </u> <br /><br /> <a href="https://en.wikipedia.org/wiki/Ram_Gopal_Varma">Ram Gopal Verma</a><br /><br />
                                                                     <u>Others<br /><br /></u><a href="https://en.wikipedia.org/wiki/Mani_Ratnam">Mani Ratnam</a><br />
-                                                                    <a href="https://en.wikipedia.org/wiki/Akira_Kurosawa"></a>Akira Kurosawa<br />
+                                                                    <a href="https://en.wikipedia.org/wiki/Akira_Kurosawa">Akira Kurosawa</a><br />
                                                                     <a href="https://en.wikipedia.org/wiki/Chandra_Sekhar_Yeleti">Chandra Sekhar Yeleti</a><br />
                                                                     <a href="https://en.wikipedia.org/wiki/Kathir">Kathir</a><br />
                                                                     <a href="https://en.wikipedia.org/wiki/Imtiaz_Ali_(director)">Imtiaz Ali</a><br />
