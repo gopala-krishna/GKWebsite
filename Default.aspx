@@ -239,10 +239,8 @@
 
                                         <li>
                                         <a class="dropdown-toggle  fg-blue no-marker " href="#">Product Management</a>
-                                        <ul class="dropdown-menu fg-blue " data-show="hover">
-                                           <%-- <li><a href="#">Sublink 1</a></li>
-                                            <li><a href="#">Sublink 2</a></li>
-                                            <li><a href="#">Sublink 3</a></li>--%> 
+                                       <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover"">
+                                            <li><a href="../../../UIProductManagement/HowSystemsWork.aspx ">How Systems Work</a></li>
                                         </ul>
                                     </li><br /><br /><br />
 
