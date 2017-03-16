@@ -27,10 +27,10 @@
                                           <br />
                                       </div>
                                             
-                                       <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href="../docs/HowProductsWork/whatsapp.pdf"><img src="../images/whatsapp.jpg"/></a>
-                                       <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href="../docs/HowProductsWork/atm.pdf"><img src="../images/atm.jpg"/></a>
-                                       <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href=" https://www.google.co.in/insidesearch/howsearchworks/thestory/"><img src="../images/google.jpg"/></a>
-                                       <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href=" ../docs/HowProductsWork/facebook.pdf"><img src="../images/facebook.jpg"/></a>
+                                       <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href="../docs/HowProductsWork/whatsapp.pdf"><img src="../images/HowSystemsWork/whatsapp.jpg"/></a>
+                                       <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href="../docs/HowProductsWork/atm.pdf"><img src="../images/HowSystemsWork/atm.jpg"/></a>
+                                       <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href=" https://www.google.co.in/insidesearch/howsearchworks/thestory/"><img src="../images/HowSystemsWork/google.jpg"/></a>
+                                       <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href=" ../docs/HowProductsWork/facebook.pdf"><img src="../images/HowSystemsWork/facebook.jpg"/></a>
                                        <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href=" http://sysinternals.com"></a>
                                        <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href=" http://sysinternals.com"></a>
                                        <a class="button bg-white fg-white" style="width:360px;height: 170px;margin-bottom: 10px" href=" http://sysinternals.com"></a>
