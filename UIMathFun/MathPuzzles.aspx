@@ -172,6 +172,25 @@
                                                     </div>
                                                  </div>
 
+                                                    <div class="accordion-frame" >
+                                                    <a class="heading bg-blue text-shadow"> Ramanujam's Number</a>
+                                                    <div class="content" >
+                                                        <p>
+
+                                                            1. Find the numbers which can be expressed in two ways as sum of two cubes<br />
+                                                            2. For eg. 1729 = 1 cube + 12 cube = 9 cube + 10 cube  (this is the least numer called ramanujam's number)<br />
+                                                            3. 1729 can also be expressed as product of three prime numbers i.e. 1729 = 7 * 13 * 19<br />
+                                                            4. Another such number is 885623890831 = 7511 cube + 7730 cube = 8759 cube + 5978 cube <br />
+                                                            5. 885623890831 can also be expressed as 885623890831 = 3943 * 14737 * 15241<br />
+                                                            6. Find this kind of unique numbers <br /><br />
+
+
+                                                            Solution: Please ping me at: Gopala.Krishna@iitbombay.org (or)Gopala.Krishna@outlook.com<br />
+
+                                                        </p>
+                                                    </div>
+                                                 </div>
+
 
 
                                                  <div class="accordion-frame active " >
