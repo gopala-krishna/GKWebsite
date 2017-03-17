@@ -142,7 +142,7 @@ Mathematicians still don't know whether PI belongs in the club of so-called norm
                                                
 
                                                  <div class="accordion-frame active " >
-                                                        <a class="heading text-center text-bold bg-red fg-white">Comment on Facebook about this page</a>
+                                                        <a class="heading text-center text-bold bg-blue fg-white">Comment on Facebook about this page</a>
                                                         <div class="content " >
                                                         <div class="fb-comments" data-href="http://subtlegopalweb.com/" data-width="915" data-numposts="10" data-colorscheme=""></div>
                                                         </div>
