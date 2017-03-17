@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true"  CodeFile="Guestbook.aspx.cs"  Inherits="Guestbook" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Guestbook.aspx.cs"  Inherits="Guestbook" %>
 
 <html>
     <head runat="server">

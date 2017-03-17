@@ -47,6 +47,10 @@
 
              <li>
                 <a href="#" class="dropdown-toggle">Math Fun</a>
+                  <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover"">
+                    <li><a href="../../../UIMathFun/MathPuzzles.aspx ">Mathematics Puzzles</a></li>
+                    <li><a href="../../../UIMathFun/InterestingFactsAboutPI.aspx ">Facts About PI</a></li>
+                </ul>
             </li>
              <li>
                 <a href="#" class="dropdown-toggle">Music</a>
@@ -210,6 +214,9 @@
            
             <li>
                 <a class="dropdown-toggle"  href="#">Product Management</a>
+                <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover"">
+                    <li><a href="../../../UIProductManagement/HowSystemsWork.aspx ">How Systems Work</a></li>
+                </ul>
             </li>
              <li>
                 <a href="#" class="dropdown-toggle">Entrepreneurship</a>
