@@ -62,11 +62,11 @@
                                     </li><br /><br /><br />
                                         <li>
                                         <a class="dropdown-toggle fg-blue no-marker " href="#">Math Fun</a>
-                                        <ul class="dropdown-menu fg-blue" data-show="hover">
-                                           <%-- <li><a href="#">Sublink 1</a></li>
-                                            <li><a href="#">Sublink 2</a></li>
-                                            <li><a href="#">Sublink 3</a></li>--%>
-                                        </ul>
+                                       <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover"">
+                    <li><a href="../../../UIMathFun/MathPuzzles.aspx ">Mathematics Puzzles</a></li>
+                    <li><a href="../../../UIMathFun/InterestingFactsAboutPI.aspx ">Facts About PI</a></li>
+                </ul>
+
                                     </li><br /><br /><br />
 
                                         <li>
