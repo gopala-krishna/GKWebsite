@@ -139,7 +139,7 @@
                                                  <div class="accordion-frame active " >
                                                         <a class="heading text-center text-bold bg-red fg-white">Comment on Facebook about this page</a>
                                                         <div class="content " >
-                                                        <div class="fb-comments" data-href="http://geekgopalakrishna.com/" data-width="915" data-numposts="10" data-colorscheme=""></div>
+                                                        <div class="fb-comments" data-href="http://subtlegopalweb.com/" data-width="915" data-numposts="10" data-colorscheme=""></div>
                                                         </div>
                                                   </div>
 
