@@ -25,7 +25,7 @@
                         <div class="span16 padding20">
                             <div class="tile-content">
                                 <div class="panel no-border">
-                                    <div class="panel-header bg-orange fg-white text-center">Background Scores of  Maestro Ilaiyaraja</div>  
+                                    <div class="panel-header bg-blue fg-white text-center">Background Scores of  Maestro Ilaiyaraja</div>  
 
 
 
@@ -90,10 +90,10 @@
                     },
                     columns: [
                         { field: "Title", title: " Song Title" },
-                        { field: "Url", title: "Url" },
                         {
                             field: "Play", titile: "Play", template: '<audio controls><source src="#=Url#">#=Title#</audio>'
-                        }
+                        },
+                        { field: "Url", title: "Url", template: '<a href="#=Url#">Download</a>' }
                     ]
                 });
 
