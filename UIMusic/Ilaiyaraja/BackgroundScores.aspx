@@ -36,7 +36,7 @@
                                         <a class="dropdown-toggle fg-white  no-marker"></a>
                                     </li>
                                     <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist()">Songs</a>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">Songs</a>
                                     </li>
 
                                    <%-- <li>
@@ -57,15 +57,17 @@
     <script src="<%= ResolveUrl("~js/jszip.min.js")%>"></script>
     <script src="<%= ResolveUrl("~js/kendo.all.min.js")%>"></script>
 <script type="text/JavaScript">
-    function ViewPlaylist() {
-        ViewPlaylist.textContent = "Playlist One";
-        var obj = {};
-        obj.name = "gopala";
+    function ViewPlaylist(strLabelText) {
+
+        ViewPlaylist.textContent = "Playlist";
+
+        var params = {};
+        params.folderName = JSON.stringify(strLabelText.innerHTML);
 
         $.ajax({
             type: "post",
             url: "BackgroundScores.aspx/GetPlaylist",
-            data: JSON.stringify(obj),
+            data: JSON.stringify(params),
             contentType: "application/json; charset=utf-8",
             dataType: "json",
             success: function (result) {
