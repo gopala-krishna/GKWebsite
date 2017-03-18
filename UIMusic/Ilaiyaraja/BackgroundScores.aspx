@@ -59,9 +59,13 @@
 <script type="text/JavaScript">
     function ViewPlaylist() {
         ViewPlaylist.textContent = "Playlist One";
+        var obj = {};
+        obj.name = "gopala";
+
         $.ajax({
             type: "post",
             url: "BackgroundScores.aspx/GetPlaylist",
+            data: JSON.stringify(obj),
             contentType: "application/json; charset=utf-8",
             dataType: "json",
             success: function (result) {

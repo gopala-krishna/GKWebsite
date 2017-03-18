@@ -17,8 +17,9 @@ public partial class BackgroundScores : System.Web.UI.Page
 
     [WebMethod]
     [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
-    public static string GetPlaylist()
+    public static string GetPlaylist(string name)
     {
+        string a = name;
         Song o1 = new Song { Title = "Saare Sapne", Url = "http://subtlegopalweb.com/docs/Saare.mp3", Play = "" };
         Song o2 = new Song { Title = "Anand", Url = "http://subtlegopalweb.com/docs/Anand.mp3", Play = "" };
         List<Song> songs = new List<Song>();
@@ -29,6 +30,22 @@ public partial class BackgroundScores : System.Web.UI.Page
         string s = JsonConvert.SerializeObject(obj);
         return s;
     }
+
+    //[WebMethod]
+    //[ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+    //public static string GetPlaylist(string str)
+    //{
+    //    string a = str;
+    //    Song o1 = new Song { Title = "Saare Sapne", Url = "http://subtlegopalweb.com/docs/Saare.mp3", Play = "" };
+    //    Song o2 = new Song { Title = "Anand", Url = "http://subtlegopalweb.com/docs/Anand.mp3", Play = "" };
+    //    List<Song> songs = new List<Song>();
+    //    songs.Add(o1); songs.Add(o2);
+
+    //    JsonPlayList obj = new JsonPlayList { Message = "Succesful", messageCode = 1004, Songs = songs };
+
+    //    string s = JsonConvert.SerializeObject(obj);
+    //    return s;
+    //}
 
 }
 
