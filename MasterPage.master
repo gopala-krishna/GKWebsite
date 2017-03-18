@@ -17,6 +17,12 @@
     <link href="css/iconFont.css" rel="stylesheet"/>
     <link href="css/docs.css" rel="stylesheet"/>
 
+    <link href="css/gridstyle/kendo.common.min.css" rel="stylesheet">
+    <link href="css/gridstyle/kendo.default.min.css" rel="stylesheet">
+    <link href="css/gridstyle/kendo.rtl.min.css" rel="stylesheet">
+    <link href="css/gridstyle/kendo.default.min.css" rel="stylesheet">
+    <link href="css/gridstyle/kendo.dataviz.min.css" rel="stylesheet">
+    <link href="css/gridstyle/kendo.dataviz.default.min.css" rel="stylesheet">
 
 
 
@@ -36,7 +42,12 @@
     <!-- Local JavaScript -->
     <script src="<%= ResolveUrl("~/js/docs.js")%>"></script>
 
-  <title> Gopala Krishna's Website</title>
+ <!-- Kendo JavaScript -->
+    <script src="<%= ResolveUrl("~/js/jszip.min.js")%>"></script>
+    <script src="<%= ResolveUrl("~/js/kendo.all.min.js")%>"></script>
+
+
+ <title> Gopala Krishna's Website</title>
 </head>
 <body class="metro" style="background-color: black"" >
     <form id="form1" runat="server">
@@ -138,7 +149,7 @@
                                             <li><a href="../../../UITechnology/OpenSource/Linux/LinuxBasics.aspx">LinuxBasics</a></li>
                                             <li></li>
                                          </ul>
-                            </li>--%>
+                            </li>
                         </ul>
                  </li>
 
