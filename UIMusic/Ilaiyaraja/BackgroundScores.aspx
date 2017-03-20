@@ -39,18 +39,12 @@
 
 
 
-                   <div class="span16">
+                   <div class="span20 padding20">
                     <nav class="horizontal-menu">
                                 <ul>
-                                    <li>
+                                    <%--<li>
                                         <a class="dropdown-toggle fg-white  no-marker"></a>
-                                    </li>
-                                    <li>
-                                        <%--<a onclick ="LoadPlaylists()">Playlists</a>--%>
-<%--                                 <a href="#"  onclick ="ViewPlaylist(this)">Playlists</a>--%>
-<%--                                 <button onclick ="ViewPlaylist(this)">Playlists</button>--%>
-                                    </li>
-
+                                    </li>--%>
                                     <li>
                                     <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">A</a>
                                     </li>
@@ -58,8 +52,78 @@
                                         <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">B</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist()">C</a>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">C</a>
                                     </li>
+                                    <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">D</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">E</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">F</a>
+                                    </li>
+                                    <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">G</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">H</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">I</a>
+                                    </li>
+                                      <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">J</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">K</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">L</a>
+                                    </li>
+                                    <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">M</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">N</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">O</a>
+                                    </li>
+                                    <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">P</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">Q</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">R</a>
+                                    </li>
+                                    <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">S</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">T</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">U</a>
+                                    </li>
+                                    <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">V</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">W</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">X</a>
+                                    </li>
+                                    <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">Y</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">Z</a>
+                                    </li>
+                                   
                             </ul>
                             </nav>
                         </div>
