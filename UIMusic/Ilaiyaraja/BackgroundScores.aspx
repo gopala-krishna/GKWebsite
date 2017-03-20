@@ -43,7 +43,7 @@
                     <nav class="horizontal-menu" >
                                 <ul>
                                     <li>
-                                    <a href="#" class="dropdown-toggle fg-blue bg-yellow no-marker text-shadow" onclick ="ViewPlaylist(this)">A</a>
+                                    <a href="#" class="dropdown-toggle fg-blue  no-marker text-shadow" onclick ="ViewPlaylist(this)">A</a>
                                     </li>
                                     <li>
                                         <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">B</a>
