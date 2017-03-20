@@ -261,6 +261,12 @@
                                                  </div>
                                              </div>    
 
+
+                                     
+
+
+
+
                                                     <div class="grid no-margin">
                                                         <div class="row">
                                                             <div class="span4 no-tablet-portrait no-phone">
@@ -325,6 +331,79 @@
                                                                 <a class="heading">Mahabaleshwar (Elephant’s Head Point, Sunrise Point)</a>
                                                                 <div class="content" >
                                                                     <%--<iframe width="640" height="480"src="//www.youtube.com/embed/dTUU9JKtQYU"></iframe>--%>
+                                                                </div>
+                                                            </div>
+
+
+                                                        </div>
+                                                    </div>
+                        </div>
+                    </div>
+
+
+                                             <div class="grid no-margin  " >
+                                                        <div class="row">
+                                                            <div class="span4 no-tablet-portrait no-phone">
+                                                                <div class="notice marker-on-right bg-red padding0 text-center" style="height: 70px">
+                                                                    <p class="subheader-secondary fg-white">BGM</p>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class =" span2 padding15 " >                          
+                                                            <div class="accordion with-marker span9 padding place-left" data-role="accordion" data-closeany="false">
+
+                                                            <div class="accordion-frame active" >
+                                                                <a class="heading">Favorite Background Music</a>
+                                                                <div class="content" >
+                                                                    
+                                                                        <p>Geetanjali</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Geetanjali.mp3">
+                                                                        </audio><br /><br />
+                                                                    
+                                                                        <p>Em Maaya Chesave</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/EmMaayaChesave.mp3">
+                                                                        </audio><br /><br />
+
+                                                                      <p>Hrudayam</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Hrudayam.mp3">
+                                                                        </audio><br /><br />
+                                                                    
+                                                                        <p>Mouna Raagam</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/MounaRaagam.mp3">
+                                                                        </audio><br /><br />
+                                                                          <p>Sankeertana</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Sankeertana.mp3">
+                                                                        </audio><br /><br />
+                                                                    
+                                                                        <p>Anand</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Anand.mp3">
+                                                                        </audio><br /><br />
+                                                                        <p>Prema Desam</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/PremaDesam.mp3">
+                                                                        </audio><br /><br />
+                                                                    
+                                                                        <p>Maharshi</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Maharshi.mp3">
+                                                                        </audio><br /><br />
+                                                                        <p>Alapana</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Alapana.mp3">
+                                                                        </audio><br /><br />
+                                                                    
+                                                                        <p>Abhinandana</p>
+                                                                        <audio controls>
+                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Abhinandana.mp3">
+                                                                        </audio><br /><br />
+
+                                                                    
                                                                 </div>
                                                             </div>
 

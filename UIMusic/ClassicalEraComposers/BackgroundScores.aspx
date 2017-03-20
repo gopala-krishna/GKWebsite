@@ -181,7 +181,8 @@
 
          var params = {};
          params.folderName = JSON.stringify(strLabelText.innerHTML);
-
+         //if (jsonResult.BScores == null)
+         //    alert("No Data");
          $.ajax({
              type: "post",
              url: "BackgroundScores.aspx/GetPlaylist",

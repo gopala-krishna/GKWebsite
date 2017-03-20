@@ -90,6 +90,12 @@
                                 <li><a href="">Favorite Links</a></li>
                             </ul>
                         </li>
+                    <li>
+                            <a href="#" class="dropdown-toggle">Classical Era Composers</a>
+                            <ul class="dropdown-menu bg-blue" data-role="dropdown" data-show="hover">
+                            <li><a href="../../../UIMusic/ClassicalEraComposers/BackgroundScores.aspx">Background Scores</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </li>
                                     
