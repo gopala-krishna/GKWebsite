@@ -52,9 +52,30 @@
                     <li><a href="../../../UIMathFun/InterestingFactsAboutPI.aspx ">Facts About PI</a></li>
                 </ul>
             </li>
-             <li>
+
+            <li>
                 <a href="#" class="dropdown-toggle">Music</a>
-            </li>
+                <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                        <li>
+                            <a href="#" class="dropdown-toggle">Ilaiyaraja</a>
+                            <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                <li><a href="">About Ilaiyaraja</a></li>
+                                <li><a href="../../../UIMusic/Ilaiyaraja/BackgroundScores.aspx">Background Scores</a></li>
+                                <li><a href="">Interesing Songs</a></li>
+                                <li><a href="">Favorite Links</a></li>
+                            </ul>
+                        </li>
+                         <li>
+                            <a href="#" class="dropdown-toggle">A.R.Rehman</a>
+                            <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                            <li><a href="">About A.R Rehman</a></li>
+                                <li><a href="">Background Scores</a></li>
+                                <li><a href="">Interesing Songs</a></li>
+                                <li><a href="">Favorite Links</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
 
 
              

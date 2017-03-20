@@ -83,8 +83,8 @@ public partial class BackgroundScores : System.Web.UI.Page
             }
         }
 
-        string s1 =folderName.Remove(0, 1);string s2 = s1.Remove(1, 1);
-        string strJson = GetFileListing(ls.FindAll(i=>i.StartsWith(s2.ToString())));
+        string s1 =folderName.Remove(0, 1);string s2 = s1.Remove(1, 1);string s3 = s2.ToLower();
+        string strJson = GetFileListing(ls.FindAll((i => i.StartsWith(s3.ToString()))));
         return strJson;
     }
 

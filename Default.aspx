@@ -70,13 +70,30 @@
                                     </li><br /><br /><br />
 
                                         <li>
-                                        <a class="dropdown-toggle fg-blue no-marker" href="#">Music</a>
-                                        <ul class="dropdown-menu fg-blue" data-show="hover">
-                                           <%-- <li><a href="#">Sublink 1</a></li>
-                                            <li><a href="#">Sublink 2</a></li>
-                                            <li><a href="#">Sublink 3</a></li>--%>
-                                        </ul>
-                                    </li><br /><br /><br />
+                <a href="#" class="dropdown-toggle fg-blue no-marker">Music</a>
+                <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
+                        <li>
+                            <a href="#" class="dropdown-toggle fg-blue">Ilaiyaraja</a>
+                            <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
+                                <li><a href="">About Ilaiyaraja</a></li>
+                                <li><a href="../../../UIMusic/Ilaiyaraja/BackgroundScores.aspx">Background Scores</a></li>
+                                <li><a href="">Interesing Songs</a></li>
+                                <li><a href="">Favorite Links</a></li>
+                            </ul>
+                        </li>
+                         <li>
+                            <a href="#" class="dropdown-toggle fg-blue">A.R.Rehman</a>
+                            <ul class="dropdown-menu  fg-blue" data-role="dropdown" data-show="hover">
+                            <li><a href="">About A.R Rehman</a></li>
+                                <li><a href="">Background Scores</a></li>
+                                <li><a href="">Interesing Songs</a></li>
+                                <li><a href="">Favorite Links</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                                    
+                                    <br /><br /><br />
 
                                           
              <li>
