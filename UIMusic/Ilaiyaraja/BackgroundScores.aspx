@@ -39,14 +39,11 @@
 
 
 
-                   <div class="span20 padding20">
-                    <nav class="horizontal-menu">
+                  <%-- <div class="span16 padding20">--%>
+                    <nav class="horizontal-menu" >
                                 <ul>
-                                    <%--<li>
-                                        <a class="dropdown-toggle fg-white  no-marker"></a>
-                                    </li>--%>
                                     <li>
-                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">A</a>
+                                    <a href="#" class="dropdown-toggle fg-blue bg-yellow no-marker text-shadow" onclick ="ViewPlaylist(this)">A</a>
                                     </li>
                                     <li>
                                         <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">B</a>
@@ -87,6 +84,9 @@
                                     <li>
                                         <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">N</a>
                                     </li>
+                                     </ul>
+                      
+                                    <ul>
                                     <li>
                                         <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">O</a>
                                     </li>
@@ -126,13 +126,14 @@
                                    
                             </ul>
                             </nav>
-                        </div>
+                        <%--</div>--%>
+
+
+
 
 <!-- Kendo JavaScript -->
 <script src="<%= ResolveUrl("~js/jszip.min.js")%>"></script>
 <script src="<%= ResolveUrl("~js/kendo.all.min.js")%>"></script>
-
-   
 
 
 <div id="grid"></div>              
