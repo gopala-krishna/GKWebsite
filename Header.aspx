@@ -16,7 +16,7 @@
                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                             <li><a href="../../../UIMyPersonal/AboutMe/MyInterests.aspx">My Interests</a></li>
                             <li><a href="../../../UIMyPersonal/AboutMe/MyProfession.aspx">My Profession</a></li>
-                            <li><a href="">My Family</a></li>
+                            <li><a href="" style ="color: gray">My Family</a></li>
                         </ul>
                     </li>
                   <li>
@@ -59,19 +59,19 @@
                         <li>
                             <a href="#" class="dropdown-toggle">Ilaiyaraja</a>
                             <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                                <li><a href="">About Ilaiyaraja</a></li>
+                                <li><a href="" style ="color: gray">About Ilaiyaraja</a></li>
                                 <li><a href="../../../UIMusic/Ilaiyaraja/BackgroundScores.aspx">Background Scores</a></li>
-                                <li><a href="">Interesing Songs</a></li>
-                                <li><a href="">Favorite Links</a></li>
+                                <li><a href="" style ="color: gray">Interesing Songs</a></li>
+                                <li><a href="" style ="color: gray">Favorite Links</a></li>
                             </ul>
                         </li>
                          <li>
                             <a href="#" class="dropdown-toggle">A.R.Rehman</a>
                             <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                            <li><a href="">About A.R Rehman</a></li>
+                            <li><a href="" style ="color: gray">About A.R Rehman</a></li>
                             <li><a href="../../../UIMusic/ARRehman/BackgroundScores.aspx">Background Scores</a></li>
-                                <li><a href="">Interesing Songs</a></li>
-                                <li><a href="">Favorite Links</a></li>
+                                <li><a href="" style ="color: gray">Interesing Songs</a></li>
+                                <li><a href="" style ="color: gray">Favorite Links</a></li>
                             </ul>
                         </li>
                        <li>

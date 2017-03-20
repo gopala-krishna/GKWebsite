@@ -83,8 +83,8 @@ public partial class BackgroundScores : System.Web.UI.Page
             }
         }
 
-        string s1 =folderName.Remove(0, 1);string s2 = s1.Remove(1, 1);string s3 = s2.ToLower();
-        string strJson = GetFileListing(ls.FindAll((i => i.StartsWith(s3.ToString()))));
+        string s1 =folderName.Remove(0, 1);string s2 = s1.Remove(1, 1);
+        string strJson = GetFileListing(ls.FindAll((i => i.StartsWith(s2.ToString()))));
         return strJson;
     }
 
@@ -93,7 +93,7 @@ public partial class BackgroundScores : System.Web.UI.Page
         List<BScore> bscoresList = new List<BScore>();
         foreach (string dirName in dirNames)
         {
-            string url = "http://www.subtlegopalweb.com/Media/BScores/Ilaiyaraja/" + dirName;
+            string url = "http://www.subtlegopalweb.com/Media/Ilaiyaraja/BScores/" + dirName;
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
