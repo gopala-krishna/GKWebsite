@@ -15,31 +15,60 @@ public partial class BackgroundScores : System.Web.UI.Page
 
     }
 
+    //[WebMethod]
+    //[ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+    //public static string LoadPlaylists()
+    //{
+    //    Playlist p1 = new Playlist { Url = "A" };
+    //    Playlist p2 = new Playlist { Url = "B" };
+    //    List<Playlist> playlists = new List<Playlist>();
+    //    playlists.Add(p1); playlists.Add(p2);
+
+    //    JsonPlayLists obj = new JsonPlayLists { Message = "Succesful", messageCode = 1004, Playlists = playlists };
+
+    //    string s = JsonConvert.SerializeObject(obj);
+    //    return s;
+    //}
+
     [WebMethod]
     [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
     public static string GetPlaylist(string folderName)
     {
-        Song o1 = new Song { Title = "Saare Sapne", Url = "http://subtlegopalweb.com/docs/Saare.mp3", Play = "" };
-        Song o2 = new Song { Title = "Anand", Url = "http://subtlegopalweb.com/docs/Anand.mp3", Play = "" };
-        List<Song> songs = new List<Song>();
-        songs.Add(o1); songs.Add(o2);
+        BScore o1 = new BScore { Movie ="Test",BScoreTitle = "Saare Sapne", DownloadUrl = "http://subtlegopalweb.com/docs/Saare.mp3", Play = "" };
+        BScore o2 = new BScore { Movie = "Test", BScoreTitle = "Anand", DownloadUrl = "http://subtlegopalweb.com/docs/Anand.mp3", Play = "" };
+        List<BScore> bscores = new List<BScore>();
+        bscores.Add(o1); bscores.Add(o2);
 
-        JsonPlayList obj = new JsonPlayList { Message = "Succesful", messageCode = 1004, Songs = songs };
+        JsonPlayList obj = new JsonPlayList { Message = "Succesful", messageCode = 1004, BScores = bscores };
 
         string s = JsonConvert.SerializeObject(obj);
         return s;
     }
 }
 
-public class Song
+//public class Playlist
+//{
+//    public object Url { get; set; }
+//}
+//public class JsonPlayLists
+//{
+//    public int messageCode { get; set; }
+//    public string Message { get; set; }
+//    public List<Playlist> Playlists { get; set; }
+//}
+
+
+public class BScore
 {
-    public string Title { get; set; }
-    public object Url { get; set; }
+    public string Movie { get; set; }
+    public string BScoreTitle { get; set; }
     public string Play { get; set; }
+    public object DownloadUrl { get; set; }
+
 }
 public class JsonPlayList
 {
     public int messageCode { get; set; }
     public string Message { get; set; }
-    public List<Song> Songs { get; set; }
+    public List<BScore> BScores { get; set; }
 }

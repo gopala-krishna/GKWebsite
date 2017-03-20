@@ -14,11 +14,6 @@
 </script>
 
 
-     
-
-
-    
-
         <div class ="bg-white">
           <div class="container">
                 <div class="row">
@@ -29,6 +24,21 @@
 
 
 
+                                 <%--   <div id ="testlistView"></div>
+                                    <script>
+                                        var dataSource = new kendo.data.DataSource({
+                                            data: [{ name: "Jane Doe" }, { name: "John Doe" }]
+                                        });
+                                        $("#testlistView").kendoListView({
+                                            dataSource: dataSource,
+                                            template: "<div>#:name#</div>",
+                                            autoBind: false
+                                        });
+                                        dataSource.read(); // "read()" will fire the "change" event of the dataSource and the widget will be bound
+                                    </script>--%>
+
+
+
                    <div class="span16">
                     <nav class="horizontal-menu">
                                 <ul>
@@ -36,34 +46,89 @@
                                         <a class="dropdown-toggle fg-white  no-marker"></a>
                                     </li>
                                     <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">Songs</a>
+                                        <%--<a onclick ="LoadPlaylists()">Playlists</a>--%>
+<%--                                 <a href="#"  onclick ="ViewPlaylist(this)">Playlists</a>--%>
+<%--                                 <button onclick ="ViewPlaylist(this)">Playlists</button>--%>
                                     </li>
 
-                                   <%-- <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist()">Songs</a>
+                                    <li>
+                                    <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">A</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist()">Songs</a>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">B</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist()">Songs</a>
-                                    </li>--%>
+                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist()">C</a>
+                                    </li>
                             </ul>
                             </nav>
                         </div>
-                     <div id="grid"></div>              
 
 <!-- Kendo JavaScript -->
-    <script src="<%= ResolveUrl("~js/jszip.min.js")%>"></script>
-    <script src="<%= ResolveUrl("~js/kendo.all.min.js")%>"></script>
-<script type="text/JavaScript">
+<script src="<%= ResolveUrl("~js/jszip.min.js")%>"></script>
+<script src="<%= ResolveUrl("~js/kendo.all.min.js")%>"></script>
+
+   
+
+
+<div id="grid"></div>              
+
+<%--<script type="text/JavaScript">
+   function LoadPlaylists() {
+        LoadPlaylists.textContent = "Playlists";
+        alert("test2");
+        $.ajax({
+            type: "post",
+            url: "BackgroundScores.aspx/LoadPlaylists",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (result) {
+                var jsonResult = JSON.parse(result.d);
+                alert(jsonResult.Playlists);
+                $("#listView").kendoGrid({
+                    dataSource: {
+                        data: jsonResult.Playlists,
+                        schema: {
+                            model: {
+                                fields: {
+                                    Url: { type: "string" },
+                                }
+                            }
+                        },
+                        pageSize: 20
+                    },
+                    height: 550,
+                    scrollable: true,
+                    sortable: true,
+                    filterable: true,
+                    pageable: {
+                        input: true,
+                        numeric: false
+                    },
+                    columns: [
+                        //{ field: "Url", title: "Url", template: '<button onclck =" ViewPlaylist(#=Url#)">#=Url#<a>' } // NW
+                        //{ field: "Url", title: "Url", template: '<button>#= ViewPlaylist(#=Url#)#>#=Url#<button>' } // NW
+                        //{ field: "Url", title: "Url", template: '<a>#= ViewPlaylist(#=Url#)#>#=Url#<a>' } // NW
+                        //{ field: "Url", title: "Url", template: '<a onclick = "ViewPlaylist(#=Url#)">#=Url#</a>' }//NW
+                        { field: "Url", title: "Url", template: '<a href = "http://google.com">google</a>' }//NW
+                        //{ field: "Url", title: "Url", template: '<a href = "#" onclick = "ViewPlaylist(#=Url#)">#=Url#</a>' }//NW
+                    ]
+                });
+
+            },
+            error: function (xhr, status, error) {
+                OnFailure(error);
+            }
+        });
+    }
+
     function ViewPlaylist(strLabelText) {
 
         ViewPlaylist.textContent = "Playlist";
 
         var params = {};
         params.folderName = JSON.stringify(strLabelText.innerHTML);
-
+        alert('test1');
         $.ajax({
             type: "post",
             url: "BackgroundScores.aspx/GetPlaylist",
@@ -109,16 +174,65 @@
             }
         });
     }
+</script>--%>
+ 
+  
+ <script type="text/JavaScript">
+     function ViewPlaylist(strLabelText) {
+
+         ViewPlaylist.textContent = "Playlist";
+
+         var params = {};
+         params.folderName = JSON.stringify(strLabelText.innerHTML);
+
+         $.ajax({
+             type: "post",
+             url: "BackgroundScores.aspx/GetPlaylist",
+             data: JSON.stringify(params),
+             contentType: "application/json; charset=utf-8",
+             dataType: "json",
+             success: function (result) {
+                 var jsonResult = JSON.parse(result.d);
+                 $("#grid").kendoGrid({
+                     dataSource: {
+                         data: jsonResult.BScores,
+                         schema: {
+                             model: {
+                                 fields: {
+                                     Movie: { type: "string" },
+                                     BScoreTitle: { type: "string" },
+                                     Play: { type: "audio\mp3" },
+                                     DownloadUrl: { type: "string" },
+                                 }
+                             }
+                         },
+                         pageSize: 20
+                     },
+                     height: 550,
+                     scrollable: true,
+                     sortable: true,
+                     filterable: true,
+                     pageable: {
+                         input: true,
+                         numeric: false
+                     },
+                     columns: [
+                         { field: "Movie", title: " Movie" },
+                         { field: "BScoreTitle", title: " Background Score" },
+                         {
+                             field: "Play", titile: "Play", template: '<audio controls><source src="#=DownloadUrl#">#=BScoreTitle#</audio>'
+                         },
+                         { field: "DownloadUrl", title: "DownloadUrl", template: '<a href="#=DownloadUrl#">Download</a>' }
+                     ]
+                 });
+
+             },
+             error: function (xhr, status, error) {
+                 OnFailure(error);
+             }
+         });
+     }
 </script>
- 
- 
-
-
-
-
-
-
-
 
 
                                        
@@ -140,12 +254,7 @@
                                                         <div class="fb-comments" data-href="http://subtlegopalweb.com/" data-width="915" data-numposts="10" data-colorscheme=""></div>
                                                         </div>
                                                   </div>
-
-
-
-                                        
                                                </div>
-
                                              </div>
                                          </div>
 
