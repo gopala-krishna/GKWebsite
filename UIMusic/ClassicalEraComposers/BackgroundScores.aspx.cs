@@ -53,7 +53,7 @@ public partial class BackgroundScores : System.Web.UI.Page
 
     //public static string GetDirectoryListingRegexForUrl(string url)
     //{
-    //    if (url.Equals("http://www.subtlegopalweb.com/Media//BScores"))
+    //    if (url.Equals("http://www.subtlegopalweb.com/Media/BScores/Ilaiyaraja/"))
     //    {
     //        return "<a href=\".*\">(?<A>.*)</a>";
     //    }
@@ -64,7 +64,7 @@ public partial class BackgroundScores : System.Web.UI.Page
     public static string GetPlaylist(string folderName)
     {
         List<string> ls = new List<string>();
-        string url = "http://www.subtlegopalweb.com/Media/ARRehman/BScores/";
+        string url = "http://www.subtlegopalweb.com/Media/ClassicalEraComposers/BScores";
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
         using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
         {
@@ -76,16 +76,15 @@ public partial class BackgroundScores : System.Web.UI.Page
                 if (matches.Count > 0)
                 {
                     foreach (Match match in matches)
-                    {
+                    { 
                         ls.Add(match.Groups["1"].ToString());
                     }
                 }
             }
         }
 
-        string s1 = folderName.Remove(0, 1); string s2 = s1.Remove(1, 1);
-        //string s3 = s2.ToLower();
-        string strJson = GetFileListing(ls.FindAll((i => i.StartsWith(s2.ToString()))));
+        string s1 =folderName.Remove(0, 1);string s2 = s1.Remove(1, 1);string s3 = s2.ToLower();
+        string strJson = GetFileListing(ls.FindAll((i => i.StartsWith(s3.ToString()))));
         return strJson;
     }
 
@@ -94,7 +93,7 @@ public partial class BackgroundScores : System.Web.UI.Page
         List<BScore> bscoresList = new List<BScore>();
         foreach (string dirName in dirNames)
         {
-            string url = "http://www.subtlegopalweb.com/Media/ARRehman/BScores/" + dirName;
+            string url = "http://www.subtlegopalweb.com/Media/BScores/Ilaiyaraja/" + dirName;
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
@@ -110,7 +109,7 @@ public partial class BackgroundScores : System.Web.UI.Page
                         {
                             BScore bscore = new BScore();
                             bscore.Movie = dirName;
-                            bscore.BScoreTitle = matches[i].Groups["1"].ToString().Trim();
+                            bscore.BScoreTitle = matches[i].Groups["1"].ToString();
                             bscore.DownloadUrl = url +"\\"+ matches[i].Groups["1"].ToString();
                             bscore.Play = "";
                             bscoresList.Add(bscore);

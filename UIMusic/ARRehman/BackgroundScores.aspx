@@ -287,7 +287,7 @@
                          {
                              field: "Play", titile: "Play", template: '<audio controls><source src="#=DownloadUrl#">#=BScoreTitle#</audio>'
                          },
-                         { field: "DownloadUrl", title: "DownloadUrl", template: '<a href="#=DownloadUrl#">Download</a>' }
+                         { field: "DownloadUrl", title: "Download", template: '<a href="#=DownloadUrl#">Download</a>' }
                      ]
                  });
 

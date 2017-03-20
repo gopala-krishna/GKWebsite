@@ -64,7 +64,7 @@ public partial class BackgroundScores : System.Web.UI.Page
     public static string GetPlaylist(string folderName)
     {
         List<string> ls = new List<string>();
-        string url = "http://www.subtlegopalweb.com/Media/BScores/Ilaiyaraja/";
+        string url = "http://www.subtlegopalweb.com/Media/Ilaiyaraja/BScores";
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
         using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
         {
@@ -76,7 +76,7 @@ public partial class BackgroundScores : System.Web.UI.Page
                 if (matches.Count > 0)
                 {
                     foreach (Match match in matches)
-                    {
+                    { 
                         ls.Add(match.Groups["1"].ToString());
                     }
                 }
