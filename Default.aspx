@@ -267,14 +267,30 @@
                                         </ul>
                                     </li><br /><br /><br />
 
-                                        <li>
-                                        <a class="dropdown-toggle  fg-blue no-marker " href="#">Entrepreneurship</a>
-                                        <ul class="dropdown-menu fg-blue " data-show="hover">
-                                           <%-- <li><a href="#">Sublink 1</a></li>
-                                            <li><a href="#">Sublink 2</a></li>
-                                            <li><a href="#">Sublink 3</a></li>--%>
-                                        </ul>
-                                    </li><br /><br /><br />
+                                       <li>
+                <a class="dropdown-toggle fg-blue no-marker" href ="#">Entrepreneurship</a>
+                <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
+                    <li>
+                        <a href="#" class="dropdown-toggle">Start a Startup</a>
+                        <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
+                            <li><a href="" style = "color:gray">How To Start A Company</a></li>
+                            <li><a href="http://www.subtlegopalweb.com/docs/StartupGuide.pdf">Startup Guide</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" class="dropdown-toggle">Startup Resources</a>
+                        <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
+<%--                    <li><a href="../../../UIEntrepreneurship/StartupResources/ImpBooks.aspx">Important Books</a></li>--%>
+                            <li><a href="" style = "color:gray">Other Books</a></li>
+                            <li><a href="" style = "color:gray">Blogs</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+
+                                    
+                                    
+                                    <br /><br /><br />
 
                                        <li>
                                         <a href="#" class="dropdown-toggle fg-blue no-marker ">GuestBook</a>

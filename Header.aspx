@@ -245,9 +245,29 @@
                     <li><a href="../../../UIProductManagement/HowSystemsWork.aspx ">How Systems Work</a></li>
                 </ul>
             </li>
+
              <li>
-                <a href="#" class="dropdown-toggle">Entrepreneurship</a>
+                <a class="dropdown-toggle " href ="#">Entrepreneurship</a>
+                <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                    <li>
+                        <a href="#" class="dropdown-toggle">Start a Startup</a>
+                        <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                            <li><a href="" style = "color:gray">How To Start A Company</a></li>
+                            <li><a href="http://www.subtlegopalweb.com/docs/StartupGuide.pdf">Startup Guide</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" class="dropdown-toggle">Startup Resources</a>
+                        <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                            <%--<li><a href="../../../UIEntrepreneurship/StartupResources/ImpBooks.aspx">Important Books</a></li>--%>
+                            <li><a href="" style = "color:gray">Other Books</a></li>
+                            <li><a href="" style = "color:gray">Blogs</a></li>
+                        </ul>
+                    </li>
+                </ul>
             </li>
+
+
              <li>
                 <a href="#" class="dropdown-toggle">GuestBook</a>
                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover"">
