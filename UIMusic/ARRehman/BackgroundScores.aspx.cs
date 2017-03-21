@@ -110,7 +110,8 @@ public partial class BackgroundScores : System.Web.UI.Page
                         {
                             BScore bscore = new BScore();
                             bscore.Movie = dirName;
-                            bscore.BScoreTitle = matches[i].Groups["1"].ToString().Trim();
+                            string title = matches[i].Groups["1"].ToString().Trim();
+                            bscore.BScoreTitle = title.Remove(title.Length - 4, 4);
                             bscore.DownloadUrl = url +"\\"+ matches[i].Groups["1"].ToString();
                             bscore.Play = "";
                             bscoresList.Add(bscore);
