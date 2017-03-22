@@ -330,7 +330,7 @@
 
                                             interpret binary and those who cannot.
 
-                                            (Please don't ask me in which categeory i will fit in)</P>
+                                            (Please don't ask me in which categeory i fit in)</P>
 
 
                                             <p>My passion for technology and my passion for music
