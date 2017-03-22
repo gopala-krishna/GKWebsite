@@ -29,6 +29,7 @@
                                         <li>
                                             <a href="#" class="dropdown-toggle fg-blue ">About Me</a>
                                             <ul class="dropdown-menu fg-blue " data-role="dropdown" data-show="hover">
+                                                <li><a href="../../../UIMyPersonal/AboutMe/AboutMe.aspx">My Timeline</a></li>                                             
                                                 <li><a href="../../../UIMyPersonal/AboutMe/MyInterests.aspx">My Interests</a></li>
                                                 <li><a href="../../../UIMyPersonal/AboutMe/MyProfession.aspx">My Profession</a></li>
                                                 <li><a href="" style ="color: gray">My Family</a></li>

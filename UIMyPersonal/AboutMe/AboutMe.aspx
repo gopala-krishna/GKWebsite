@@ -253,7 +253,7 @@ margin: 0 auto;
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
 			<h1 style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; color: #000000;"><strong>First Year Intermediate</strong></span></h1>
-<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">Studied first year intermediate at shadan junior college, khairatabad, Hyderabad </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">Studied first year intermediate at Shadan Junior College, Khairatabad, Hyderabad </span></p>
 
 		</div> 
 	</div> 
@@ -461,7 +461,7 @@ margin: 0 auto;
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
 			<h2 style="text-align: center;"><span style="color: #000000;"><strong><span style="font-family: 'Segoe UI', helvetica, sans-serif;">Microsoft, Hyderabad</span></strong></span></h2>
-<p style="text-align:justify;"><span style="font-family: 'Segoe UI', helvetica, sans-serif; font-size: medium; color: #000000;"> This is the place where i learnt about a real corporate culture.<br /> <br />
+<p style="text-align:justify;"><span style="font-family: 'Segoe UI', helvetica, sans-serif; font-size: medium; color: #000000;"> This is the place where i learnt about the real corporate culture. Met few of my lifetime buddies.<br /> <br />
    </span></p>
 
 		</div> 
