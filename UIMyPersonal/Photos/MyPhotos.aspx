@@ -117,6 +117,26 @@
 						<div class="content">
 							<div><a href="#"><img src="MyPhotos/thumbs/4.jpg" alt="MyPhotos/4.jpg" class="thumb" /></a></div>
 						</div>
+                        <div class="content">
+							<div><a href="#"><img src="MyPhotos/thumbs/5.jpg" alt="MyPhotos/5.jpg" class="thumb" /></a></div>
+						</div>
+						<div class="content">
+							<div><a href="#"><img src="MyPhotos/thumbs/6.jpg" alt="MyPhotos/6.jpg" class="thumb" /></a></div>
+						</div>
+						<div class="content">
+							<div><a href="#"><img src="MyPhotos/thumbs/7.jpg" alt="MyPhotos/7.jpg" class="thumb" /></a></div>
+						</div>
+						<div class="content">
+							<div><a href="#"><img src="MyPhotos/thumbs/8.jpg" alt="MyPhotos/8.jpg" class="thumb" /></a></div>
+						</div>
+                        <div class="content">
+							<div><a href="#"><img src="MyPhotos/thumbs/9.jpg" alt="MyPhotos/9.jpg" class="thumb" /></a></div>
+						</div>
+						<div class="content">
+							<div><a href="#"><img src="MyPhotos/thumbs/10.jpg" alt="MyPhotos/10.jpg" class="thumb" /></a></div>
+						</div>
+						
+
 					</div>
 				</div>
 			</div>
