@@ -476,6 +476,26 @@
                         <h2 class="fg-white   text-shadow ntm">Which country does not have night?</h2>
                     </div>
 
+                    <div class="slide">
+                        <div class="place-right">
+                            <img src="/images/Banners/whatsapp.jpg"
+                                 alt="" class="span4" />
+                        </div>
+                        <h2 class="fg-white   text-shadow ntm">How systems work : WhatsApp Internals</h2>
+                    </div>
+
+                    <div class="slide">
+                        <div class="place-right">
+                            <img src="/images/Banners/chariotsofire.jpg"
+                                 alt="" class="span4" />
+                        </div>
+                        <h2 class="fg-white   text-shadow ntm">Rarely found background scores </h2>
+                        <br /><br />
+                        <audio controls>
+                        <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Chariotsoffire.mp3">
+                        </audio>
+                    </div>
+
                      <div class="slide">
                         <div class="place-right">
                             <img src="/images/Banners/cerebellum.jpg"
