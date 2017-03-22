@@ -138,10 +138,16 @@ margin: 0 auto;
               </div>
         </div>
     </header>
+
+   <%-- <span class="reference">
+				  <a class="icon-home on-right " href ="../../Default.aspx" style="background: red;color: white; padding: 10px; border-radius: 100%"></a>
+            </span>--%>
     <div class="header-top-p  ">
         <div class="header-top-p header-top-bg"></div>
         <div id="ss-container" class="ss-container">
-            <div id="ytbgvideo"></div> 
+         <div id="ytbgvideo"></div> 
+                
+
     <div id="ct_tt_logo" class="ct_tt_logo" >
         <a href="http://www.ilaiyaraajalive.com/bio" data-ot='&lt;h2 style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;strong&gt;ilaiyaraaja, Raaja&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;'   data-ot-fixed="true"  data-ot-background="rgba(154,140,128,0.95)" data-ot-border-color="rgba(154,140,128,1)" data-ot-offset="[ 0, 0]" data-ot-shadow="false" data-ot-auto-offset="true" data-ot-tip-joint="top left" data-ot-group="rightnav" data-ot-target="true" data-ot-border-radius="0" data-ot-stem-length="12" >
             <img class="ct_tt_logo_img" src="http://subtlegopalweb.com/images/Gopala_iit.jpg" alt="logo">
