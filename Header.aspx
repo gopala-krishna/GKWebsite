@@ -59,7 +59,7 @@
                         <li>
                             <a href="#" class="dropdown-toggle">Ilaiyaraja</a>
                             <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                                <li><a href="" style ="color: gray">About Ilaiyaraja</a></li>
+                                <li><a href="../../../UIMusic/Ilaiyaraja/AboutIlaiyaraja.aspx">About Ilaiyaraja</a></li>
                                 <li><a href="../../../UIMusic/Ilaiyaraja/BackgroundScores.aspx">Background Scores</a></li>
                                 <li><a href="" style ="color: gray">Interesing Songs</a></li>
                                 <li><a href="" style ="color: gray">Favorite Links</a></li>
