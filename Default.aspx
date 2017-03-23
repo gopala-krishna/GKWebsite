@@ -371,7 +371,7 @@
 
                                             website.Feel free to contact me for any type of
 
-                                            queries. Sign my <a href ="http://subtlegopalweb.com/UIGuestbook/Guestbook.aspx">Guestbook</a> with ur valuble
+                                            queries. Sign my <a href ="http://subtlegopalweb.com/UIGuestbook/Guestbook.aspx"><font color="blue">Guestbook</font></a> with ur valuble
 
                                             suggestions/comments</p>
                                         <div class ="text-bold text-center text-italic text-shadow ">
