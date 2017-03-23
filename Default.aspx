@@ -365,13 +365,13 @@
 
                                             <p>If you feel like knowing more about me then do go
 
-                                            ahead and explore the other setions of my website
+                                            ahead and explore the other setions of my website.
 
                                              I will keep on updating the content of this
 
                                             website.Feel free to contact me for any type of
 
-                                            queries. Sign my guestbook with ur valuble
+                                            queries. Sign my <a href ="http://subtlegopalweb.com/UIGuestbook/Guestbook.aspx">Guestbook</a> with ur valuble
 
                                             suggestions/comments</p>
                                         <div class ="text-bold text-center text-italic text-shadow ">
