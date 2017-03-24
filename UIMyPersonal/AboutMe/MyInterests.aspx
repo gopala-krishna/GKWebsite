@@ -355,6 +355,12 @@
                                                             <div class="accordion-frame active" >
                                                                 <a class="heading">Favorite Background Music</a>
                                                                 <div class="content" >
+
+                                                                        <p>Love Theme</p>
+                                                                        <audio controls>
+                                                                        <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/LoveTheme.mp3">
+                                                                        </audio><br /><br />
+
                                                                         <p>Chariots of Fire</p>
                                                                         <audio controls>
                                                                         <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Chariotsoffire.mp3">

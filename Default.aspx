@@ -487,15 +487,21 @@
 
                     <div class="slide">
                         <div class="place-right">
-                            <img src="/images/Banners/chariotsofire.jpg"
+                           <%-- <img src="/images/Banners/chariotsofire.jpg"--%>
                                  alt="" class="span4" />
                         </div>
                         <h2 class="fg-white   text-shadow ntm">Rarely found background scores </h2>
                         <br /><br />
                         <audio controls>
+                        <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/LoveTheme.mp3">
+                        </audio>
+                        
+                        <audio controls>
                         <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Chariotsoffire.mp3">
                         </audio>
+                        <br /><br />
                     </div>
+
 
                      <div class="slide">
                         <div class="place-right">
