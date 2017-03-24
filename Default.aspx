@@ -488,7 +488,7 @@
                     <div class="slide">
                         <div class="place-right">
                            <%-- <img src="/images/Banners/chariotsofire.jpg"--%>
-                                 alt="" class="span4" />
+<%--                                 alt="" class="span4" />--%>
                         </div>
                         <h2 class="fg-white   text-shadow ntm">Rarely found background scores </h2>
                         <br /><br />
