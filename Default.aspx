@@ -107,6 +107,16 @@
                 <a class="dropdown-toggle fg-blue no-marker"  href="#">Technology</a>
 
                 <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
+
+                     <li>
+                            <a href="#" class="dropdown-toggle">Algorithms</a>
+                            <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
+                                <li><a href="../docs/Technology/Algorithms/AlgorithmsDesign.docx">Getting Started</a></li>
+                                <li><a href="" style ="color: gray">C# Code</a></li>
+                                <li><a href="" style ="color: gray">Books</a></li>
+                                <li><a href="" style ="color: gray">Favorite Links</a></li>
+                            </ul>
+                        </li>
                    
                      <li>
                         <a href="#" class="dropdown-toggle fg-blue">Open Source</a>
@@ -275,7 +285,7 @@
                         <a href="#" class="dropdown-toggle">Start a Startup</a>
                         <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
                             <li><a href="" style = "color:gray">How To Start A Company</a></li>
-                            <li><a href="http://www.subtlegopalweb.com/docs/StartupGuide.pdf">Startup Guide</a></li>
+                            <li><a href="http://www.subtlegopalweb.com/docs/Entrepreneurship/StartupGuide.pdf">Startup Guide</a></li>
                         </ul>
                     </li>
                     <li>
