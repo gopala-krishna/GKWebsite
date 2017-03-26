@@ -149,7 +149,7 @@ margin: 0 auto;
                 
 
     <div id="ct_tt_logo" class="ct_tt_logo" >
-        <a href="http://www.ilaiyaraajalive.com/bio" data-ot='&lt;h2 style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;strong&gt;ilaiyaraaja, Raaja&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;'   data-ot-fixed="true"  data-ot-background="rgba(154,140,128,0.95)" data-ot-border-color="rgba(154,140,128,1)" data-ot-offset="[ 0, 0]" data-ot-shadow="false" data-ot-auto-offset="true" data-ot-tip-joint="top left" data-ot-group="rightnav" data-ot-target="true" data-ot-border-radius="0" data-ot-stem-length="12" >
+        <a href="http://www.ilaiyaraajalive.com/bio" data-ot='&lt;h2 style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;strong&gt;Gopala Krishna&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;'   data-ot-fixed="true"  data-ot-background="rgba(154,140,128,0.95)" data-ot-border-color="rgba(154,140,128,1)" data-ot-offset="[ 0, 0]" data-ot-shadow="false" data-ot-auto-offset="true" data-ot-tip-joint="top left" data-ot-group="rightnav" data-ot-target="true" data-ot-border-radius="0" data-ot-stem-length="12" >
             <img class="ct_tt_logo_img" src="http://subtlegopalweb.com/images/Gopala_iit.jpg" alt="logo">
                         <img class="ct_tt_logo_img_scaled" src="http://subtlegopalweb.com/images/Gopala_small.jpg" alt="logo">
                 </a>
@@ -468,6 +468,7 @@ margin: 0 auto;
 		<div class="wpb_wrapper">
 			<h2 style="text-align: center;"><span style="color: #000000;"><strong><span style="font-family: 'Segoe UI', helvetica, sans-serif;">Microsoft, Hyderabad</span></strong></span></h2>
 <p style="text-align:justify;"><span style="font-family: 'Segoe UI', helvetica, sans-serif; font-size: medium; color: #000000;"> This is the place where i learnt about the real corporate culture. Met few of my lifetime buddies.<br /> <br />
+    "A reasonable man adapts himself to the world: the unreasonable one persists in trying  to adapt the world to himselef. Therefore all the progress depends on the unreasonable man"  - George Bernard Shaw, Man and Superman
    </span></p>
 
 		</div> 
