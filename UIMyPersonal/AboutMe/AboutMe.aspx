@@ -6,7 +6,7 @@
 <meta charset="UTF-8" />
 
 <link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="pingback" href="http://www.ilaiyaraajalive.com/bio/xmlrpc.php" />
+<%--<link rel="pingback" href="http://www.ilaiyaraajalive.com/bio/xmlrpc.php" />--%>
 <link rel="shortcut icon" href="http://subtlegopalweb.com/images/Gopala_iit.jpg" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
@@ -15,8 +15,8 @@
 <meta name="twitter:image" content="">
 <meta property="og:title" content="" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.ilaiyaraajalive.com/bio" /> 
-<meta name="twitter:url" content="http://www.ilaiyaraajalive.com/bio">
+<%--<meta property="og:url" content="http://www.ilaiyaraajalive.com/bio" /> 
+<meta name="twitter:url" content="http://www.ilaiyaraajalive.com/bio">--%>
 <meta name="og:description" content=" - " />
 
 <meta name="twitter:site" content="@flasherland">
@@ -149,7 +149,7 @@ margin: 0 auto;
                 
 
     <div id="ct_tt_logo" class="ct_tt_logo" >
-        <a href="http://www.ilaiyaraajalive.com/bio" data-ot='&lt;h2 style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;strong&gt;Gopala Krishna&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;'   data-ot-fixed="true"  data-ot-background="rgba(154,140,128,0.95)" data-ot-border-color="rgba(154,140,128,1)" data-ot-offset="[ 0, 0]" data-ot-shadow="false" data-ot-auto-offset="true" data-ot-tip-joint="top left" data-ot-group="rightnav" data-ot-target="true" data-ot-border-radius="0" data-ot-stem-length="12" >
+        <a href="http://subtlegopalweb.com/AboutMe.aspx" data-ot='&lt;h2 style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;strong&gt;Gopala Krishna&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;'   data-ot-fixed="true"  data-ot-background="rgba(154,140,128,0.95)" data-ot-border-color="rgba(154,140,128,1)" data-ot-offset="[ 0, 0]" data-ot-shadow="false" data-ot-auto-offset="true" data-ot-tip-joint="top left" data-ot-group="rightnav" data-ot-target="true" data-ot-border-radius="0" data-ot-stem-length="12" >
             <img class="ct_tt_logo_img" src="http://subtlegopalweb.com/images/Gopala_iit.jpg" alt="logo">
                         <img class="ct_tt_logo_img_scaled" src="http://subtlegopalweb.com/images/Gopala_small.jpg" alt="logo">
                 </a>
