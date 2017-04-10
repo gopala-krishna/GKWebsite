@@ -90,7 +90,7 @@
     <script type="text/x-kendo-template" id="template">
         <div class="product">
             <!--<img src="../content/web/foods/#= ProductID #.jpg" alt="#: ProductName # image" />-->
-            <img src="../images/iitb.jpg"/>
+            <img src="../images/iitb.jpg" onclick ="javascript:location.href='#=ProductName#'"/>
             <!--<h3>#:ProductName#</h3>-->
         </div>
     </script>
@@ -101,14 +101,14 @@
                 data: [
                     {
                         "ProductID": 1,
-                        "ProductName": "Chai",
+                        "ProductName": "http://google.com",
                         "UnitPrice": 18,
                         "UnitsInStock": 39,
                         "Discontinued": false
                     },
                     {
                         "ProductID": 2,
-                        "ProductName": "Chang",
+                        "ProductName": "http://microsoft.com",
                         "UnitPrice": 19,
                         "UnitsInStock": 17,
                         "Discontinued": false
