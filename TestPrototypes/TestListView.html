@@ -98,13 +98,28 @@
     <script>
         $(function() {
             var dataSource = new kendo.data.DataSource({
-                transport: {
-                    read: {
-                        url: "https://demos.telerik.com/kendo-ui/service/Products",
-                        dataType: "jsonp"
-                    }
-                },
-                pageSize: 21
+                data: [
+                    {
+                        "ProductID": 1,
+                        "ProductName": "Chai",
+                        "UnitPrice": 18,
+                        "UnitsInStock": 39,
+                        "Discontinued": false
+                    },
+                    {
+                        "ProductID": 2,
+                        "ProductName": "Chang",
+                        "UnitPrice": 19,
+                        "UnitsInStock": 17,
+                        "Discontinued": false
+                    },
+                    {
+                        "ProductID": 3,
+                        "ProductName": "Aniseed Syrup",
+                        "UnitPrice": 10,
+                        "UnitsInStock": 13,
+                        "Discontinued": false
+                    }]
             });
 
             $("#pager").kendoPager({
@@ -117,10 +132,6 @@
             });
         });
     </script>
-
-
-    
-
     <style>
         #listView {
             padding: 10px 5px;
