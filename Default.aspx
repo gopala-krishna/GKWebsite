@@ -364,7 +364,7 @@
                                                 algorithms to build innovative products.My strengths - questioning attitude, research orientation, 
                                                 curiosity and honesty.
 
-                                               I maintain my own <a href="http://subtlegopalweb.com"><font color="blue">Personal Website</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Technical Blog</font></a>. 
+                                               I maintain my own <a href="http://subtlegopalweb.com"><font color="blue">Personal Website</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
                                                 Mostly I share interesting facts which raise curiosity among readers. 
                                                 
 
