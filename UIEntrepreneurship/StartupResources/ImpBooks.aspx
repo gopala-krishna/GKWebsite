@@ -20,37 +20,7 @@
                                 <div class="panel no-border">
                                     <div class="panel-header bg-blue fg-white text-center">Must Read Books For Entrepreneurs</div>
 
-                                    <div id ="listView1"></div>
-                                    <script>
-                                        $("#listView1").kendoListView({
-                                            dataSource: {
-                                                data: [
-                                                    { name: "Jane Doe" },
-                                                    { name: "John Doe" }
-                                                ]
-                                            },
-                                            template: "<div>#:name#</div>"
-                                        });
-                                    </script>
-
-
-<div id ="listView2"></div>
- <script type="text/JavaScript">                                
-     $("#listView2").kendoListView({
-         dataSource: {
-             url: "ImpBooks.aspx/LoadBookList",
-             data: jsonResult.d.Books,
-             schema: {
-                 model: {
-                     fields: {
-                         bookNane: { type: "string" },
-                         bookImage: { type: Image, template: <div><a href=""></a></div> }
-                     }
-                 }
-             },
-         },
-     });
-</script>
+                                   
 
 
 
@@ -59,106 +29,123 @@
 <script src="<%= ResolveUrl("~js/kendo.all.min.js")%>"></script>
 <script src="<%= ResolveUrl("~js/kendo.listview.min.js")%>"></script>
 
-<div>
-    <nav class="horizontal-menu" >
-         
-<a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="LoadBookslist()">Load</a>
-<%--<button onclick ="LoadBookslist()">Load</button>--%>
-              
-             </nav>
+
+                                    <div id="listView"></div>
+<%--<div id="pager" class="k-pager-wrap"></div>--%>
+<div id="pager"></div>
+    
+<script type="text/x-kendo-template" id="template">
+<div class="product">
+    <img src="../../images/pdficon.jpg" onclick ="javascript:location.href='#=BookUrl#'"/>
+    <h3>#:BookTitle#</h3>
 </div>
-
-
-
-<div id ="listView"></div>
-<script type="text/JavaScript">
-    function LoadBookslist() {
-        alert("test2");
-        $.ajax({
-            type: "post",
-            url: "ImpBooks.aspx/LoadBookList",
-            contentType: "application/json; charset=utf-8",
-            dataType: "json",
-            success: function (result) {
-                var jsonResult = JSON.parse(result.d);
-                alert(jsonResult.Books.BookName);
-                $("#listView").kendoListView({
-                    dataSource: {
-                        data: jsonResult.Books,
-                        //template: "<div>#:BookName#</div>"
-
-                        schema: {
-                            model: {
-                                fields: {
-                                    BookName: { type: "string" },
-                                    //bookImage: { type: Image, template: <div><a href=""></a></div> }
-                                }
-                            }
-                        },
-                       pageSize: 1
-                    },
-                });
-            },
-            error: function (xhr, status, error) {
-                OnFailure(error);
-            }
-        });
-    }
-
 </script>
 
-   <%-- function ViewPlaylist(strLabelText) {
-
-        ViewPlaylist.textContent = "Playlist";
-
-        var params = {};
-        params.folderName = JSON.stringify(strLabelText.innerHTML);
-        alert('test1');
+<script type="text/JavaScript">
+    $(function () {
         $.ajax({
             type: "post",
-            url: "BackgroundScores.aspx/GetPlaylist",
-            data: JSON.stringify(params),
-            contentType: "application/json; charset=utf-8",
+            url: "ImpBooks.aspx/GetBooklist",
+            contentType: "application/json",
             dataType: "json",
             success: function (result) {
                 var jsonResult = JSON.parse(result.d);
-                $("#grid").kendoGrid({
-                    dataSource: {
-                        data: jsonResult.Songs,
-                        schema: {
-                            model: {
-                                fields: {
-                                    Title: { type: "string" },
-                                    Url: { type: "string" },
-                                    Play: { type: "audio\mp3" },
-                                }
-                            }
-                        },
-                        pageSize: 20
-                    },
-                    height: 550,
-                    scrollable: true,
-                    sortable: true,
-                    filterable: true,
-                    pageable: {
-                        input: true,
-                        numeric: false
-                    },
-                    columns: [
-                        { field: "Title", title: " Song Title" },
-                        {
-                            field: "Play", titile: "Play", template: '<audio controls><source src="#=Url#">#=Title#</audio>'
-                        },
-                        { field: "Url", title: "Url", template: '<a href="#=Url#">Download</a>' }
-                    ]
+                var dataSource = new kendo.data.DataSource({
+                    data: jsonResult,
+                    pageSize: 20
                 });
 
-            },
-            error: function (xhr, status, error) {
-                OnFailure(error);
+                $("#pager").kendoPager({
+                    dataSource: dataSource,
+                    pageSize:2
+                });
+                $("#listView").kendoListView({
+                    dataSource: dataSource,
+                    //template: '<img src="#=ImgUrl#"/>'
+                    template: kendo.template($("#template").html())
+                });
             }
         });
-    }--%>
+    });
+</script>
+
+                                    
+<style>
+#listView
+{
+    padding: 10px 5px;
+    margin-bottom: -1px;
+    min-height: 1000px;
+}
+
+.product {
+    float: left;
+    position: relative;
+    width: 201px;
+    height: 220px;
+    margin: 0 10px;
+    padding: 0;
+}
+
+    .product img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .product h3 {
+        margin: 10px;
+        padding: 5px 8px 0 0;
+        max-width: 200px;
+        overflow:inherit;
+        line-height: 2em;
+        font-size: .65em;
+        font-weight:normal;
+        font-family:'Segoe UI';
+        font-style:italic;
+        text-transform:fullsize-kana;
+        color: deepskyblue;
+    }
+
+    .product p {
+        visibility:hidden;
+    }
+
+    .product:hover p {
+        visibility: visible;
+        position: absolute;
+        width: 110px;
+        height: 110px;
+        top: 0;
+        margin: 0;
+        padding: 0;
+        line-height: 110px;
+        vertical-align: middle;
+        text-align: center;
+        color: #fff;
+        background-color: rgba(0,0,0,0.75);
+        transition: background .2s linear, color .2s linear;
+        -moz-transition: background .2s linear, color .2s linear;
+        -webkit-transition: background .2s linear, color .2s linear;
+        -o-transition: background .2s linear, color .2s linear;
+    }
+
+.k-listview:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+</style>
+
+
+
+
+
+
+
+
+   
 
                                          <div class="grid no-margin">
                                              <div class="row">

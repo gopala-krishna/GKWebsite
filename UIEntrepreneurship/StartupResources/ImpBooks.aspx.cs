@@ -17,35 +17,47 @@ public partial class ImpBooks : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        LoadBookList();
+        
     }
-    
 
+    
     [WebMethod]
     [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
-    public static string LoadBookList()
+    public static string GetBooklist()
     {
-        Book o1 = new Book { BookName = "Test1"};
-        Book o2 = new Book { BookName = "Test2" };
-        List<Book> books = new List<Book>();
-        books.Add(o1); books.Add(o2);
+            List<Book> bookList = new List<Book>();
+            string url = "http://www.subtlegopalweb.com/docs/Entrepreneurship/Books/";
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+            using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
+            {
+                using (StreamReader reader = new StreamReader(response.GetResponseStream()))
+                {
+                    string html = reader.ReadToEnd();
+                    Regex regex = new Regex("<A HREF=\".*?\">(?<1>.*?)</A>");
+                    MatchCollection matches = regex.Matches(html);
 
-        JsonBookList obj = new JsonBookList { Message = "Succesful", messageCode = 1004, Books = books };
+                    if (matches.Count > 0)
+                    {
+                        for (int i = 1; i < matches.Count; i++)
+                        {
+                            Book book = new Book();
+                            string title = matches[i].Groups["1"].ToString().Trim();
+                            book.BookTitle = title.Remove(title.Length - 4, 4);
+                            book.BookUrl = url + matches[i].Groups["1"].ToString();
+                            bookList.Add(book);
+                        }
+                    }
+                }
+            }
 
-        string s = JsonConvert.SerializeObject(obj);
-        return s;
+        string jboolkList = JsonConvert.SerializeObject(bookList);
+
+        return jboolkList;
+
     }
-
 }
 public class Book
 {
-    public string BookName { get; set; }
-   //public object BookImage{ get; set; }
-
-}
-public class JsonBookList
-{
-    public int messageCode { get; set; }
-    public string Message { get; set; }
-    public List<Book> Books { get; set; }
+    public string BookTitle { get; set; }
+    public object BookUrl { get; set; }
 }

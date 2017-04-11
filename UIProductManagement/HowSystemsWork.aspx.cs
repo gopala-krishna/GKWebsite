@@ -37,8 +37,7 @@ public partial class HowSystemsWork : System.Web.UI.Page
         products.Add(p1); products.Add(p2);
         products.Add(p3);products.Add(p4); products.Add(p5);
 
-        ProductList pList = new ProductList { Products = products };
-        string jstrProducts = JsonConvert.SerializeObject(pList);
+        string jstrProducts = JsonConvert.SerializeObject(products);
         return jstrProducts;
 
     }

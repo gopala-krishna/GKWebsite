@@ -25,7 +25,7 @@
                                           <br />
                                       </div>
 
-                                    <div id="listView"></div>
+<div id="listView"></div>
 <%--<div id="pager" class="k-pager-wrap"></div>--%>
 <div id="pager"></div>
     
@@ -43,7 +43,7 @@
             contentType: "application/json",
             dataType: "json",
             success: function (result) {
-                var jsonResult = JSON.parse(result.d).Products;
+                var jsonResult = JSON.parse(result.d);
                 var dataSource = new kendo.data.DataSource({
                     data: jsonResult,
                     pageSize: 20

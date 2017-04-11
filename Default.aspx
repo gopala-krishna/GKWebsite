@@ -291,8 +291,7 @@
                     <li>
                         <a href="#" class="dropdown-toggle">Startup Resources</a>
                         <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
-<%--                    <li><a href="../../../UIEntrepreneurship/StartupResources/ImpBooks.aspx">Important Books</a></li>--%>
-                            <li><a href="" style = "color:gray">Other Books</a></li>
+                         <li><a href="../../../UIEntrepreneurship/StartupResources/ImpBooks.aspx">Important Books</a></li>
                             <li><a href="" style = "color:gray">Blogs</a></li>
                         </ul>
                     </li>

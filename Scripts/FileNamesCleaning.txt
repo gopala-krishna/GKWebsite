@@ -1,0 +1,2 @@
+﻿get-childitem *.pdf -Recurse | foreach {rename-item $_ $_.name.replace("%","")}
+dir | rename-item -newname {$_.name.replace(",","")}
