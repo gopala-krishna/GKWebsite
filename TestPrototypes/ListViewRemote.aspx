@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="ListViewRemote.aspx.cs" Inherits="TestPrototypes_ListViewRemote" %>
 
 <asp:Content ContentPlaceHolderID ="ContentPlaceHolder1" runat ="server">
-    <script>
+    <%--<script>
         function resizeContainers() {
             var headerHeight = $("#header").height(),
                 searchWrapper = $("#example-search-wrapper").outerHeight(),
@@ -24,49 +24,37 @@
 
         $(document).ready(resizeContainers);
         $(window).resize(resizeContainers);
-     </script>
+     </script>--%>
     
 
  
-    <script>
+  <%--  <script>
     window.kendoTheme = "material";
     window.kendoCommonFile = "common-material";
-    </script>
+    </script>--%>
 
-<script src="/kendo-ui/content/shared/js/theme-chooser.js"></script>
+<%--<script src="/kendo-ui/content/shared/js/theme-chooser.js"></script>
 
 <script>
     var NAV_JSON_URL = "/kendo-ui/content/nav.json";
     var navProduct = "online";
     var product = "kendo-ui";
-</script>
-<script src="/kendo-ui/content/shared/js/example-datasources.js"></script>
-<script src="/kendo-ui/content/shared/js/web-examples.js"></script>
+</script>--%>
+<%--<script src="/kendo-ui/content/shared/js/example-datasources.js"></script>
+<script src="/kendo-ui/content/shared/js/web-examples.js"></script>--%>
 
 <div id="main">
-    <a href="#" id="sidebar-toggle"><span></span></a>
+    <%--<a href="#" id="sidebar-toggle"><span></span></a>--%>
 
- 
-
-
-
-                        
-
-
-     
-
-        <div id="listView"></div>
+       <div id="listView"></div>
      <div id="pager" class="k-pager-wrap"></div>
-
-       
-
     
    
     <script type="text/x-kendo-template" id="template">
         <div class="product">
-            <!--<img src="../content/web/foods/#= ProductID #.jpg" alt="#: ProductName # image" />-->
-            <img src="../images/iitb.jpg " onclick ="javascript:location.href='#=ProductName#'"/>
-            <!--<h3>#:ProductName#</h3>-->
+            
+            <img src="#=DownloadUrl#"/>
+            
         </div>
     </script>
 
@@ -142,34 +130,38 @@
             $.ajax({
                 type: "post",
                 url: "ListViewRemote.aspx/GetPlaylist",
-                contentType: "application/json; charset=utf-8",
+                contentType: "application/json",
                 dataType: "json",
                 success: function (result) {
                     var jsonResult = JSON.parse(result.d).BScores;
                     var jstring = JSON.stringify(jsonResult);
-                    var dataSource = new kendo.data.DataSource({
-                        transport: {
-                            read: {
-                                url: jstring,
-                               // url: "../js/listview/MyProducts.js",
-                                dataType: "json"
-                            }
-                        },
-                    })
 
+                    //var dataSource = new kendo.data.DataSource({
+                    //    transport: {
+                    //        read: {
+                    //            url: jstring,
+                    //           //url: "../js/listview/Test.js",
+                    //            dataType: "json"
+                    //        }
+                    //    },
+                    //})
+
+                    var dataSource = new kendo.data.DataSource({
+                        data: jsonResult,
+                        pageSize:20
+                    });
 
                     $("#pager").kendoPager({
                         dataSource: dataSource
                     });
                     $("#listView").kendoListView({
                         dataSource: dataSource,
-                        //template: '<img src="../images/iitb.jpg"/>'
+                       //template: '<img src="#=DownloadUrl#"/>'
                          template: kendo.template($("#template").html())
                     });
                 }
             });
         });
-        
 
 </script>
 
@@ -234,9 +226,9 @@
         }
     </style>
 
-        <script>
+       <%-- <script>
             $(function(){ $("#exampleWrap").css("visibility", ""); });
-        </script>
+        </script>--%>
   </div>
 
 
