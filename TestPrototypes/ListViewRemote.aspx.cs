@@ -41,7 +41,7 @@ public partial class TestPrototypes_ListViewRemote : System.Web.UI.Page
 
     }
 
-    public class BScore
+public class BScore
 {
     public string ImgUrl { get; set; }
     public string LinkUrl { get; set; }

@@ -11,7 +11,6 @@
 </div>
 </script>
 
-
 <script type="text/JavaScript">
         $(function () {
             $.ajax({
@@ -37,7 +36,6 @@
                 }
             });
         });
-
 </script>
 </asp:Content>
 
