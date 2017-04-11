@@ -1,128 +1,16 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="ListViewRemote.aspx.cs" Inherits="TestPrototypes_ListViewRemote" %>
 
 <asp:Content ContentPlaceHolderID ="ContentPlaceHolder1" runat ="server">
-    <%--<script>
-        function resizeContainers() {
-            var headerHeight = $("#header").height(),
-                searchWrapper = $("#example-search-wrapper").outerHeight(),
-                navbarWrapper = $("#example-nav-bar").height(),
-                htmlHeight = (kendo.support.mobileOS) ? parseFloat(window.innerHeight) : $('html').height();
-                sidebarHeight = htmlHeight - headerHeight,
-                borderSize = 2,
-                navHeight = sidebarHeight - (searchWrapper + navbarWrapper + borderSize);
 
-            $("#example-sidebar").height(sidebarHeight);
-            $("#nav-wrapper").height(navHeight);
-            $("#main").height(sidebarHeight);
-        }
-
-        $(function () {
-            if (kendo.support.mobileOS) {
-                $(document.documentElement).addClass("k-hover-enabled");
-            }
-        });
-
-        $(document).ready(resizeContainers);
-        $(window).resize(resizeContainers);
-     </script>--%>
-    
-
- 
-  <%--  <script>
-    window.kendoTheme = "material";
-    window.kendoCommonFile = "common-material";
-    </script>--%>
-
-<%--<script src="/kendo-ui/content/shared/js/theme-chooser.js"></script>
-
-<script>
-    var NAV_JSON_URL = "/kendo-ui/content/nav.json";
-    var navProduct = "online";
-    var product = "kendo-ui";
-</script>--%>
-<%--<script src="/kendo-ui/content/shared/js/example-datasources.js"></script>
-<script src="/kendo-ui/content/shared/js/web-examples.js"></script>--%>
-
-<div id="main">
-    <%--<a href="#" id="sidebar-toggle"><span></span></a>--%>
-
-       <div id="listView"></div>
+     <div id="listView"></div>
      <div id="pager" class="k-pager-wrap"></div>
     
    
     <script type="text/x-kendo-template" id="template">
         <div class="product">
-            
             <img src="#=DownloadUrl#"/>
-            
         </div>
     </script>
-
-
-
-    <!--<script>
-        $(function() {
-            var dataSource = new kendo.data.DataSource({
-                data: [
-                    {
-                        "ProductID": 1,
-                        "ProductName": "http://google.com",
-                        "UnitPrice": 18,
-                        "UnitsInStock": 39,
-                        "Discontinued": false
-                    },
-                    {
-                        "ProductID": 2,
-                        "ProductName": "http://microsoft.com",
-                        "UnitPrice": 19,
-                        "UnitsInStock": 17,
-                        "Discontinued": false
-                    },
-                    {
-                        "ProductID": 3,
-                        "ProductName": "Aniseed Syrup",
-                        "UnitPrice": 10,
-                        "UnitsInStock": 13,
-                        "Discontinued": false
-                    }]
-            });
-
-            $("#pager").kendoPager({
-                dataSource: dataSource
-            });
-
-            $("#listView").kendoListView({
-                dataSource: dataSource,
-                template: kendo.template($("#template").html())
-            });
-        });
-    </script>-->
-    <%--<script>
-        $(function() {
-            var dataSource = new kendo.data.DataSource({
-                transport: {
-                    read: {
-                        url: "../js/listview/MyProducts.js",
-                        dataType: "json"
-                    }
-                },
-            });
-
-            alert(dataSource);
-
-            $("#pager").kendoPager({
-                dataSource: dataSource
-            });
-
-            $("#listView").kendoListView({
-                dataSource: dataSource,
-                template: kendo.template($("#template").html())
-            });
-        });
-    </script>--%>
-
-      
-                         
 
 
     <script type="text/JavaScript">
@@ -135,16 +23,6 @@
                 success: function (result) {
                     var jsonResult = JSON.parse(result.d).BScores;
                     var jstring = JSON.stringify(jsonResult);
-
-                    //var dataSource = new kendo.data.DataSource({
-                    //    transport: {
-                    //        read: {
-                    //            url: jstring,
-                    //           //url: "../js/listview/Test.js",
-                    //            dataType: "json"
-                    //        }
-                    //    },
-                    //})
 
                     var dataSource = new kendo.data.DataSource({
                         data: jsonResult,
@@ -225,13 +103,6 @@
             visibility: hidden;
         }
     </style>
-
-       <%-- <script>
-            $(function(){ $("#exampleWrap").css("visibility", ""); });
-        </script>--%>
-  </div>
-
-
 
 </asp:Content>
 
