@@ -90,12 +90,12 @@
     <script type="text/x-kendo-template" id="template">
         <div class="product">
             <!--<img src="../content/web/foods/#= ProductID #.jpg" alt="#: ProductName # image" />-->
-            <img src="../images/iitb.jpg" onclick ="javascript:location.href='#=ProductName#'"/>
+            <img src="../images/iitb.jpg " onclick ="javascript:location.href='#=ProductName#'"/>
             <!--<h3>#:ProductName#</h3>-->
         </div>
     </script>
 
-    <script>
+    <!--<script>
         $(function() {
             var dataSource = new kendo.data.DataSource({
                 data: [
@@ -131,7 +131,30 @@
                 template: kendo.template($("#template").html())
             });
         });
+    </script>-->
+    <script src="../js/listview/Products.js"></script>
+    <script>
+        $(function() {
+            var dataSource = new kendo.data.DataSource({
+                transport: {
+                    read: {
+                        url: "../js/listview/MyProducts.js",
+                        dataType: "json"
+                    }
+                },
+            });
+
+            $("#pager").kendoPager({
+                dataSource: dataSource
+            });
+
+            $("#listView").kendoListView({
+                dataSource: dataSource,
+                template: kendo.template($("#template").html())
+            });
+        });
     </script>
+
     <style>
         #listView {
             padding: 10px 5px;
