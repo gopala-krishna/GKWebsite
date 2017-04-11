@@ -17,6 +17,9 @@
     <link href="css/iconFont.css" rel="stylesheet"/>
     <link href="css/docs.css" rel="stylesheet"/>
 
+   <link href="css/listviewstyle.css" rel="stylesheet"/>
+
+
     <link href="css/gridstyle/kendo.common.min.css" rel="stylesheet">
     <link href="css/gridstyle/kendo.default.min.css" rel="stylesheet">
     <link href="css/gridstyle/kendo.rtl.min.css" rel="stylesheet">

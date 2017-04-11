@@ -24,9 +24,9 @@ public partial class TestPrototypes_ListViewRemote : System.Web.UI.Page
     [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
     public static string GetPlaylist()
     {
-        BScore o1 = new BScore { DownloadUrl = "../images/HowSystemsWork/whatsapp.jpg" };
-        BScore o2 = new BScore { DownloadUrl = "../images/HowSystemsWork/whatsapp.jpg" };
-        BScore o3 = new BScore { DownloadUrl = "../images/HowSystemsWork/whatsapp.jpg" };
+        BScore o1 = new BScore { ImgUrl = "../images/HowSystemsWork/whatsapp.jpg", LinkUrl="http://google.com" };
+        BScore o2 = new BScore { ImgUrl = "../images/HowSystemsWork/whatsapp.jpg", LinkUrl="http://microsoft.com"};
+        BScore o3 = new BScore { ImgUrl = "../images/HowSystemsWork/whatsapp.jpg", LinkUrl="http://amazon.com" };
         List<BScore> bscores = new List<BScore>();
         bscores.Add(o1); bscores.Add(o2);
         bscores.Add(o3);
@@ -43,7 +43,8 @@ public partial class TestPrototypes_ListViewRemote : System.Web.UI.Page
 
     public class BScore
 {
-    public string DownloadUrl { get; set; }
+    public string ImgUrl { get; set; }
+    public string LinkUrl { get; set; }
    
 }
 public class JsonPlayList
