@@ -1,29 +1,6 @@
-﻿<!DOCTYPE html>
-<html class="k-material">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="This Kendo UI ListView demo shows how the control can be bound to remote data by using Kendo UI DataSource component.">
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
-    <title>Example for Jquery Listview binding to remote data | Kendo UI demos</title>
-    <link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet'>
-    <link rel="shortcut icon" href="/kendo-ui/favicon.ico"/>
-    <link rel="canonical" href="http://demos.telerik.com/kendo-ui/listview/remote-data-binding" />
-    <link href="https://kendo.cdn.telerik.com/2017.1.223/styles/kendo.common-material.min.css" rel="stylesheet" /><link href="https://kendo.cdn.telerik.com/2017.1.223/styles/kendo.rtl.min.css" rel="stylesheet" /><link href="https://kendo.cdn.telerik.com/2017.1.223/styles/kendo.material.min.css" rel="stylesheet" /><link href="https://kendo.cdn.telerik.com/2017.1.223/styles/kendo.material.mobile.min.css" rel="stylesheet" />
-    <link href="/kendo-ui/content/shared/styles/examples.css" rel="stylesheet" />
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="ListViewRemote.aspx.cs" Inherits="TestPrototypes_ListViewRemote" %>
 
-
-
-    <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
-    <script src="https://kendo.cdn.telerik.com/2017.1.223/js/kendo.all.min.js"></script>
-    <script src="https://kendo.cdn.telerik.com/2017.1.223/js/kendo.timezones.min.js"></script>
-    <script src="/kendo-ui/content/shared/js/kendo-dojo.js"></script>
-    <script src="/kendo-ui/content/shared/js/console.js"></script>
-    <script src="/kendo-ui/content/shared/js/prettify.js"></script>
-    <!-- <![if gte IE 8]>-->
-    <script src="/kendo-ui/content/shared/inspector/inspector.js"></script>
-    <link href="/kendo-ui/content/shared/inspector/inspector.css" rel="stylesheet" />
-    <!--<![endif]-->
+<asp:Content ContentPlaceHolderID ="ContentPlaceHolder1" runat ="server">
     <script>
         function resizeContainers() {
             var headerHeight = $("#header").height(),
@@ -47,17 +24,14 @@
 
         $(document).ready(resizeContainers);
         $(window).resize(resizeContainers);
-    </script>
-
-</head>
-<body>
+     </script>
     
 
  
     <script>
     window.kendoTheme = "material";
     window.kendoCommonFile = "common-material";
-</script>
+    </script>
 
 <script src="/kendo-ui/content/shared/js/theme-chooser.js"></script>
 
@@ -76,16 +50,17 @@
 
 
 
- <h1 id="exampleTitle">
-            <span class="exampleIcon listViewIcon"></span>
-            <strong>ListView /</strong> Binding to remote data    </h1>
-   
-<div id="example">
+                        
 
-    <div class="demo-section k-content wide">
+
+     
+
         <div id="listView"></div>
-        <div id="pager" class="k-pager-wrap"></div>
-    </div>
+     <div id="pager" class="k-pager-wrap"></div>
+
+       
+
+    
    
     <script type="text/x-kendo-template" id="template">
         <div class="product">
@@ -94,6 +69,8 @@
             <!--<h3>#:ProductName#</h3>-->
         </div>
     </script>
+
+
 
     <!--<script>
         $(function() {
@@ -132,7 +109,7 @@
             });
         });
     </script>-->
-    <script>
+    <%--<script>
         $(function() {
             var dataSource = new kendo.data.DataSource({
                 transport: {
@@ -143,6 +120,8 @@
                 },
             });
 
+            alert(dataSource);
+
             $("#pager").kendoPager({
                 dataSource: dataSource
             });
@@ -152,8 +131,50 @@
                 template: kendo.template($("#template").html())
             });
         });
-    </script>
+    </script>--%>
 
+      
+                         
+
+
+    <script type="text/JavaScript">
+        $(function () {
+            $.ajax({
+                type: "post",
+                url: "ListViewRemote.aspx/GetPlaylist",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    var jsonResult = JSON.parse(result.d).BScores;
+                    var jstring = JSON.stringify(jsonResult);
+                    var dataSource = new kendo.data.DataSource({
+                        transport: {
+                            read: {
+                                url: jstring,
+                               // url: "../js/listview/MyProducts.js",
+                                dataType: "json"
+                            }
+                        },
+                    })
+
+
+                    $("#pager").kendoPager({
+                        dataSource: dataSource
+                    });
+                    $("#listView").kendoListView({
+                        dataSource: dataSource,
+                        //template: '<img src="../images/iitb.jpg"/>'
+                         template: kendo.template($("#template").html())
+                    });
+                }
+            });
+        });
+        
+
+</script>
+
+
+   
     <style>
         #listView {
             padding: 10px 5px;
@@ -212,75 +233,13 @@
             visibility: hidden;
         }
     </style>
-</div>
+
         <script>
             $(function(){ $("#exampleWrap").css("visibility", ""); });
         </script>
-    </div>
+  </div>
 
-<!--widget inspector-->
-  <script>$(document).ready(function(){
 
-        function kendoWidgetInstance(el) {
-            el = $(el);
-            return kendo.widgetInstance(el, kendo.ui) ||
-                kendo.widgetInstance(el, kendo.mobile.ui) ||
-                kendo.widgetInstance(el, kendo.dataviz.ui);
-        }
 
-        var widgets = [];
-        var datasource = [];
+</asp:Content>
 
-        function haveWidget(w) {
-            for (var i = widgets.length; --i >= 0;)
-                if (widgets[i] === w) return true;
-            return false;
-        }
-
-        $("#exampleWrap *").each(function(){
-            var w = kendoWidgetInstance(this);
-            if (w && !haveWidget(w)) {
-                datasource.push({
-                    name   : w.options.name,
-                    index  : widgets.length
-                });
-                widgets.push(w);
-            }
-        });
-
-        if (widgets.length == 0) {
-            $("#inspector-container, .inspector-tab").hide();
-        } else if (kendo.ui.Inspector) {
-            $("#inspector-widgets").kendoDropDownList({
-                dataSource     : datasource,
-                dataTextField  : "name",
-                dataValueField : "index",
-                value          : 0,
-                change         : function() {
-                    inspector.reset(widgets[this.value()]);
-                }
-            });
-            var inspector = $("#inspector").kendoInspector({
-                showPicker : false,
-                showEvents : false,
-                docBaseUrl : "http://docs.telerik.com/kendo-ui/api/web/listview",
-                widget     : widgets[0]
-            }).data("kendoInspector");
-        }
-
-    })</script>
-<!--/widget inspector-->
-<script>
-    $(window).on("resize", function() {
-      kendo.resize($(".k-chart"));
-    });
-    
-    $(".try-kendo").click(function(e) {
-        window.dojo.postSnippet($('#source-code-1').data('html'), window.location.href);
-    });
-
-    //setTimeout(function(){ prettyPrint(); }, 100);
-</script>
-
-</body>
-</html>
