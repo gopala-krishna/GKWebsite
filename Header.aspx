@@ -43,6 +43,18 @@
                             <li><a href="../../../UIInterestingStuff/InterestingOpticalIllusions/InterestingOpticalIllusions.aspx">Can We Believe Our Eyes?</a></li>
                         </ul>
                     </li>
+                    <li>
+                <a class="dropdown-toggle " href ="#">Misc</a>
+                <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                    <li>
+                        <a href="#" class="dropdown-toggle">Readings</a>
+                        <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                            <li><a href="">Telugu Novels</a></li>
+                            
+                        </ul>
+                    </li>
+                </ul>
+            </li>
                 </ul>
             </li>
 
