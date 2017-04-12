@@ -49,7 +49,7 @@
                     <li>
                         <a href="#" class="dropdown-toggle">Readings</a>
                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                            <li><a href="">Telugu Novels</a></li>
+                            <li><a href="../../../../UIInterestingStuff/Misc/Readings/TeluguNovels.aspx">Telugu Novels</a></li>
                             
                         </ul>
                     </li>
