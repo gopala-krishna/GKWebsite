@@ -123,8 +123,8 @@
                             <a href="#" class="dropdown-toggle">Algorithms</a>
                             <ul class="dropdown-menu fg-blue" data-role="dropdown" data-show="hover">
                                 <li><a href="../docs/Technology/Algorithms/AlgorithmsDesign.docx">Getting Started</a></li>
-                                <li><a href="" style ="color: gray">C# Code</a></li>
-                                <li><a href="" style ="color: gray">Books</a></li>
+                                <li><a href="../docs/Technology/Algorithms/Algorithms.zip">C# Code</a></li>
+                                <li><a href="../../../UITechnology/Algorithms/AlgorithmsImpBooks.aspx">Books</a></li>
                                 <li><a href="" style ="color: gray">Favorite Links</a></li>
                             </ul>
                         </li>
