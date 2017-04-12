@@ -24,7 +24,7 @@ public partial class HowSystemsWork : System.Web.UI.Page
     public static string GetProductList()
     {
         Product p1 = new Product { ImgUrl = "../images/HowSystemsWork/whatsapp.jpg", LinkUrl = "../docs/HowProductsWork/whatsapp.pdf" };
-        Product p2 = new Product { ImgUrl = "../images/HowSystemsWork/googlebeta.jpg", LinkUrl = "http://infolab.stanford.edu/~backrub/google.html" };
+        Product p2 = new Product { ImgUrl = "../images/HowSystemsWork/backrub.jpg", LinkUrl = "http://infolab.stanford.edu/~backrub/google.html" };
         Product p3 = new Product { ImgUrl = "../images/HowSystemsWork/google.jpg", LinkUrl = "https://www.google.co.in/insidesearch/howsearchworks/thestory/" };
         Product p4 = new Product { ImgUrl = "../images/HowSystemsWork/facebook.jpg", LinkUrl =" ../docs/HowProductsWork/facebook.pdf" };
         Product p5 = new Product { ImgUrl = "../images/HowSystemsWork/atm.jpg", LinkUrl = "../docs/HowProductsWork/atm.pdf" };
