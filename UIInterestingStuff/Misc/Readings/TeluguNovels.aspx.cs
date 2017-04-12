@@ -13,14 +13,13 @@ using System.Text.RegularExpressions;
 using System.Text;
 
 
-public partial class ImpBooks : System.Web.UI.Page
+public partial class TeluguNovels : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
         
     }
 
-    
     [WebMethod]
     [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
     public static string GetBooklist()

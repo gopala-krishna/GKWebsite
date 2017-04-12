@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/MasterPage.master" CodeFile="TeluguNovels.aspx.cs" Inherits="ImpBooks" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/MasterPage.master" CodeFile="TeluguNovels.aspx.cs" Inherits="TeluguNovels" %>
 
 <asp:Content ContentPlaceHolderID ="ContentPlaceHolder1" runat ="server">
 <div id="fb-root"></div>
@@ -36,7 +36,7 @@
     
 <script type="text/x-kendo-template" id="template">
 <div class="product">
-    <img src="../../images/pdficon.jpg" onclick ="javascript:location.href='#=BookUrl#'"/>
+    <img src="../../../images/pdficon.jpg" onclick ="javascript:location.href='#=BookUrl#'"/>
     <h3>#:BookTitle#</h3>
 </div>
 </script>
@@ -45,7 +45,7 @@
     $(function () {
         $.ajax({
             type: "post",
-            url: "ImpBooks.aspx/GetBooklist",
+            url: "TeluguNovels.aspx/GetBooklist",
             contentType: "application/json",
             dataType: "json",
             success: function (result) {
@@ -75,7 +75,7 @@
 {
     padding: 10px 5px;
     margin-bottom: -1px;
-    min-height: 1000px;
+    min-height: 900px;
 }
 
 .product {

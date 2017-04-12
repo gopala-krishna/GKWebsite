@@ -18,7 +18,7 @@
                         <div class="span16">
                             <div class="tile-content">
                                 <div class="panel no-border">
-                                    <div class="panel-header bg-blue fg-white text-center">Reference Books On Algorithms</div>
+                                    <div class="panel-header bg-blue fg-white text-center">Must Read Books On Algorithms</div>
 
                                    
 
@@ -45,7 +45,7 @@
     $(function () {
         $.ajax({
             type: "post",
-            url: "ImpBooks.aspx/GetBooklist",
+            url: "AlgorithmsImpBooks.aspx/GetBooklist",
             contentType: "application/json",
             dataType: "json",
             success: function (result) {
