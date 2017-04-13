@@ -438,22 +438,22 @@
                          </div>
 
                         <div class="span3 padding0">
-                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Microsoft.NET</a>
-                            <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Windows 8</a>
+                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Microsoft.NET</a>
+                            <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Windows 8</a>
                             <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Hacking</a>
                             <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href=" ">BigData</a>
-                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIProductManagement/HowSystemsWork.aspx">Product Management</a>
-                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIProductManagement/HowSystemsWork.aspx">System Internals</a>
-                            <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIProductManagement/HowSystemsWork.aspx">Cross Platform Technologies</a>
+                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIProductManagement/HowSystemsWork.aspx">Product Management</a>
+                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIProductManagement/HowSystemsWork.aspx">System Internals</a>
+                            <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIProductManagement/HowSystemsWork.aspx">Cross Platform Technologies</a>
                         </div>
 
                         <div class="span3 padding0">
-                        <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIProductManagement/HowSystemsWork.aspx">Frameworks Design</a>
-                            <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIProductManagement/HowSystemsWork.aspx">Windows Internals</a>
-                            <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIProductManagement/HowSystemsWork.aspx">Web Scalability Design</a>
-                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIProductManagement/HowSystemsWork.aspx">How Systems Work</a>
-                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIMathFun/MathPuzzles.aspx">Mathematics</a>
-                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href="http://localhost:53295/UIMyPersonal/Photos/MyPhotos.aspx">Photography</a>
+                        <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIProductManagement/HowSystemsWork.aspx">Frameworks Design</a>
+                            <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIProductManagement/HowSystemsWork.aspx">Windows Internals</a>
+                            <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIProductManagement/HowSystemsWork.aspx">Web Scalability Design</a>
+                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIProductManagement/HowSystemsWork.aspx">How Systems Work</a>
+                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIMathFun/MathPuzzles.aspx">Mathematics</a>
+                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href="http://subtlegopalweb/UIMyPersonal/Photos/MyPhotos.aspx">Photography</a>
                             <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Social Psychology</a>>
                     </div>
 
