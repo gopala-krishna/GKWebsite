@@ -397,6 +397,10 @@
                                         <div class ="text-bold text-center text-italic text-shadow ">
                                         <h4><font color="black">"Dream as if you will live for ever... live as if you die today"</font></h4>
                                         </div>
+                                        <div class ="text-bold text-center text-italic text-shadow ">
+                                        <h4><font color="black">"It's the possibility of dream come true makes life interesting"</font></h4>
+                                        </div>
+
                                     </div>
                                 </div>
                             </div>
