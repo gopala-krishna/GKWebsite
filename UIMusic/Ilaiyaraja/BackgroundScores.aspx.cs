@@ -93,7 +93,7 @@ public partial class BackgroundScores : System.Web.UI.Page
         List<BScore> bscoresList = new List<BScore>();
         foreach (string dirName in dirNames)
         {
-            string url = "http://www.subtlegopalweb.com/Media/Ilaiyaraja/BScores/" + dirName;
+            string url = "http://www.subtlegopala.com/Media/Ilaiyaraja/BScores/" + dirName;
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
