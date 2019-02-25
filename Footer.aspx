@@ -33,12 +33,12 @@
                          </div>
 
                         <div class="span3 padding0">
-                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Microsoft.NET</a>
-                            <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Windows 8</a>
-                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Hacking</a>
-                            <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href=" ">BigData</a>
-                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Product Management</a>
-                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Mobile Device Management</a>
+                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Product Management</a>
+                            <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Counter_intutive Strategies</a>
+                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Why Products Fail</a>
+                            <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Business Strategy</a>
+                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Consumer Behaviour</a>
+                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Product Marketing</a>
                             <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Cross Platform Technologies</a>
                         </div>
 
@@ -46,10 +46,10 @@
                         <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Frameworks Design</a>
                             <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Windows Internals</a>
                             <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Web Scalability Design</a>
-                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Website Design</a>
-                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Mathematics</a>
-                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Photography</a>
-                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Social Psychology</a>>
+                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Irrational Behaviour</a>
+                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href=" ">How Products Work</a>
+                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Engagement Strategies</a>
+                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Monetzation Strategies</a>>
                     </div>
 
                     </div>
