@@ -5,7 +5,7 @@
         <div class=" bg-blue">
             <div style="background: url(images/Banners/tbd.jpg) top left no-repeat; background-size: cover; height: 100px; ">
                 <div class="container text-center text-shadow" style="padding: 20px 10px">
-                    <h2 class="fg-white">My Professional Home</h2>
+                    <h2 class="fg-white">My Products Home</h2>
                 </div>
             </div>
         </div>
@@ -15,8 +15,6 @@
      <div class="grid no-margin">
 
                 <div class="row">
-                        
-
                         <div class="span15">
                             <div class="tile-content">
                                 <div class="panel no-border">
@@ -127,14 +125,13 @@ Reach out to me if you are like minded.<br /><br />
                </div>
 
                <div class="row">
-                        
-
                         <div class="span15">
                             <div class="tile-content">
                                 <div class="panel no-border">
                                     <div class="panel-header bg-blue fg-white text-center text-shadow">My Product Portfolio</div>
 
-                                    <div class="container">
+    <!-- Indoor Assets Tracker -->
+                                        <div class="container">
                                                     <div class="grid no-margin">
                                                         <div class="row">
                                                             <div class="span4 no-tablet-portrait no-phone">
@@ -142,20 +139,13 @@ Reach out to me if you are like minded.<br /><br />
                                                                     <p class="subheader-secondary fg-white"> Indoor Assets Tracker</p>
                                                                 </div>
                                                             </div>
-                                                            <div class="span10">
-                         <br />                                    
-                     
-<h3 class="fg-blue   ntm">"Track assets in indoor locations to increase productivity and safety" </h3>
-                                                                
+                                                            <div class="span10"><br />                                    
+                                                                <h3 class="fg-blue   ntm">"Track assets in indoor locations to increase productivity and safety" </h3>
                                                             </div>
                                                         </div>
                                                     </div>
-                                             </div>
-            </div>
-                                             
-<br />
-
-<p>
+                                             </div><br />
+                                        <p>
 
 <a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
 
@@ -167,8 +157,100 @@ Reach out to me if you are like minded.<br /><br />
 
 
 </p>
+    <!-- End -->
+ <!-- Pick to Light -->
+                                        <div class="container">
+                                                    <div class="grid no-margin">
+                                                        <div class="row">
+                                                            <div class="span4 no-tablet-portrait no-phone">
+                                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                                    <p class="subheader-secondary fg-white"> Pick to Light</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="span10"><br />                                    
+                                                                <h3 class="fg-blue   ntm">"Provide light assistance for warehouse picker to increase productivity" </h3>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                             </div><br />
+                                        <p>
 
-                                <div class="tile-content " >
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
+
+
+</p>
+    <!-- End -->
+  <!--Order Allocation-->
+                                        <div class="container">
+                                                    <div class="grid no-margin">
+                                                        <div class="row">
+                                                            <div class="span4 no-tablet-portrait no-phone">
+                                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                                    <p class="subheader-secondary fg-white">Order Allocation</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="span10"><br />                                    
+                                                                <h3 class="fg-blue   ntm">"Increase webstore efficiency through algorithmic order allocation" </h3>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                             </div><br />
+                                        <p>
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
+
+
+</p>
+    <!-- End -->
+
+                                    <!--Courier Allocation-->
+                                        <div class="container">
+                                                    <div class="grid no-margin">
+                                                        <div class="row">
+                                                            <div class="span4 no-tablet-portrait no-phone">
+                                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                                    <p class="subheader-secondary fg-white">Courier Allocation</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="span10"><br />                                    
+                                                                <h3 class="fg-blue   ntm">"Reduce shipment costs through algorithmic courier allocation" </h3>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                             </div><br />
+                                        <p>
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
+
+<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
+
+
+</p>
+    <!-- End -->
+
+                             </div>
+                                             
+
+
+
+
+                              <div class="tile-content " >
                                 <div class="panel no-border text-justify">
                                     <div class="panel-header bg-blue fg-white text-center text-shadow">My Professional Hangouts</div>
                                         <div class="span4 padding10 text-center " >
