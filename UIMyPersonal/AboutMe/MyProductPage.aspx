@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true"  MasterPageFile="~/MasterPage.master" CodeFile="MyProductPage.aspx.cs" Inherits="MyProductPage" culture="auto" meta:resourcekey="PageResource1" uiculture="auto" %>
 
 <asp:Content ContentPlaceHolderID ="ContentPlaceHolder1" runat ="server">
-    <div class="bg-white">
+    <div class="bg-grayLighter">
         <div class=" bg-blue">
             <div style="background: url(../../images/Banners/productpage.jpg) top left no-repeat; background-size: cover; height: 100px; ">
                 <div class="container text-center text-shadow" style="padding: 20px 10px">
@@ -76,7 +76,7 @@
 
 Work-afrolic product leader. Entrepreneur. Growth hacker. Curiosity is my biggest strength. Ability to produce interesting data through research is my biggest capability. <br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a>
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a>
 
                                             <br /><br />
 •	Set up Indian subsidiaries for 2 companies. 1 start-up failure. Helped 1 company in acquisition<br />
@@ -84,7 +84,7 @@ Work-afrolic product leader. Entrepreneur. Growth hacker. Curiosity is my bigges
 •	Cumulative increase of revenue : US $25 M<br /><br />
 
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Professional Strengths</a>
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Professional Strengths</a>
 <br /><br />
 
 <b>Products:</b><br />
@@ -102,7 +102,7 @@ Scaling the systems from 100 users to 1M users and deigning the systems for avai
 
 
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Personal Strengths</a>
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Personal Strengths</a>
 
                                             <br /><br />
 
@@ -135,7 +135,7 @@ Reach out to me if you are like minded.<br /><br />
                                                     <div class="grid no-margin">
                                                         <div class="row">
                                                             <div class="span4 no-tablet-portrait no-phone">
-                                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                                <div class="notice marker-on-right bg-orange  padding0 text-center" style="height: 70px">
                                                                     <p class="subheader-secondary fg-white"> Indoor Assets Tracker</p>
                                                                 </div>
                                                             </div>
@@ -147,13 +147,13 @@ Reach out to me if you are like minded.<br /><br />
                                              </div><br />
                                         <p>
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
 
 
 </p>
@@ -175,13 +175,13 @@ Reach out to me if you are like minded.<br /><br />
                                              </div><br />
                                         <p>
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
 
 
 </p>
@@ -203,13 +203,13 @@ Reach out to me if you are like minded.<br /><br />
                                              </div><br />
                                         <p>
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
 
 
 </p>
@@ -232,13 +232,13 @@ Reach out to me if you are like minded.<br /><br />
                                              </div><br />
                                         <p>
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br /><br />
 
-<a class="button bg-green fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
+<a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br /><br />
 
 
 </p>
