@@ -240,7 +240,7 @@
                                             </div>
                                             <div class="span10">
                                                 <br />
-                                                <h3 class="fg-blue   ntm">"Increase webstore efficiency through algorithmic order allocation" </h3>
+                                                <h3 class="fg-blue   ntm">"Decrease order delivery time through algorithmic order allocation" </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -253,6 +253,13 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
+
+                                    <img src="../../images/fi1.jpg" class="margin10 nlm ntm size7">
+                                    <img src="../../images/fi2.jpg" class="margin10 nlm ntm size7">
+                                    <img src="../../images/fi3.jpg" class="margin10 nlm ntm size7">
+                                    <img src="../../images/fi4.jpg" class="margin10 nlm ntm size7">
+                                    <br /><br />
+
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
                                     <br />
@@ -288,6 +295,10 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
+
+                                    <img src="../../images/biba1.jpg" class="margin10 nlm ntm size7">
+                                    <img src="../../images/biba2.jpg" class="margin10 nlm ntm size7">
+                                    <br /><br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
                                     <br />
