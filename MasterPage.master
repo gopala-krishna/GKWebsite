@@ -81,9 +81,6 @@
                     </li>
                 </ul>
             </li>
-
-
-
               <li>
                 <a class="dropdown-toggle" href ="#">Interesting Stuff</a>
                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
