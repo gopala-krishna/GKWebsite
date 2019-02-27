@@ -12,48 +12,7 @@
             </div>
         </div>
 
-        <div class="bg-white no-tablet-portrait no-phone ">
-           
-            <%--<div class="container padding0 fg-white">
-                <div class="carousel bg-transparent no-overflow" id="carousel2">
-
-                    
-                   
-                    <div class="slide">
-                        <h4 class="fg-blue text-center  ntm">Did You Know : Why Instagram timeline algorithm failed ?</h4>
-                    </div>
-                    <div class="slide">
-                        <h3 class="fg-blue text-center  ntm">Did You Know : Why popular items are less priced in amazon?</h3>
-                    </div>
-                    <div class="slide">
-                        <h3 class="fg-blue text-center  ntm">Did You Know : iPhone fingerprint sensor can differentiate between dead and alive</h3>
-                    </div>
-
-
-                     <div class="slide">
-                       <h4 class="fg-white text-center text-shadow ntm"></h4>
-                    </div>
-
-                    
-
-
-
-                </div>
-                <script>
-                    $(function () {
-                        $("#carousel2").carousel({
-                            height: 30,
-                            period: 3000,
-                            duration: 1000,
-                            effect: 'fade',
-                            markers: {
-                                show: false
-                            }
-                        });
-                    })
-                </script>
-            </div>--%>
-        </div>
+       
        
         <div class="container">
             <div class="grid no-margin">
@@ -199,15 +158,52 @@ Reach out to me if you are like minded.<br />
                 </script>
             </div>
 
-
-                                       
-                                     
                                     </div>
                                 </div>
                             </div>
 
-                            
+                            <div class="tile-content " >
+                                <div class="panel no-border text-justify">
+                                    <div class="panel-header bg-blue fg-white text-shadow">My Product Portfolio</div>
+                                     
+                                </div>
+                            </div>
 
+                            <div class="grid no-margin">
+                                             <div class="row">
+
+                                                       <div class="span1 no-tablet-portrait no-phone">
+                                                                <div class="notice marker-on-right bg-white padding1 text-center" style="height: 1px">
+                                                                </div>
+                                                            </div>
+
+                                                <div class="accordion with-marker span12  place-right   " data-role="accordion" data-closeany="false">
+
+                                                <div class="accordion-frame active" >
+                                                    <a class="heading bg-blue">Which living being has longest orgasm ?</a>
+                                                    <div class="content" >
+                                                        <p>Pig.. Can't believe it ? Check it out at : <a href="http://uncyclopedia.wikia.com/wiki/Pig">Lucky Pig</a></p>
+                                                    </div>
+                                                 </div>
+
+                                                  <div class="accordion-frame active" >
+                                                    <a class="heading bg-blue">Which living being doesn't have a brain ?</a>
+                                                    <div class="content" >
+                                                        <p>A female homosapien...just kidding...it's Starfish. Can't believe it ? Check it out at : <a href="http://en.wikipedia.org/wiki/Starfish">A Female Homosapien</a></p>
+                                                    </div>
+                                                 </div>
+
+                                                
+                                                
+
+
+                                        
+                                               </div>
+
+                                             </div>
+                                         </div>
+                            
+                            
 
 
                         
