@@ -60,7 +60,7 @@
                                 #listView {
                                     padding: 10px 5px;
                                     margin-bottom: -1px;
-                                    min-height: 1000px;
+                                    min-height: 500px;
                                 }
 
                                 .product {
