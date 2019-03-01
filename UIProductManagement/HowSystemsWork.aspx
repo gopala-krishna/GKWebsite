@@ -74,15 +74,15 @@
 .product {
     float: left;
     position: relative;
-    width: 351px;
-    height: 200px;
-    margin: 0 5px;
+    width: 200px;
+    height: 120px;
+    margin: 6 6px;
     padding: 0;
 }
 
     .product img {
-        width: 350px;
-        height: 200px;
+        width: 200px;
+        height: 120px;
     }
 
     .product h3 {
