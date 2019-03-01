@@ -81,7 +81,7 @@
 
                                 <br />
                                 <br />
-                                •	Set up Indian subsidiaries for 2 companies. 1 start-up failure. Helped 1 company in acquisition<br />
+                                •	Indian subsidiaries setup for 2 companies. 1 start-up failure. Helped 1 company in acquisition<br />
                                 •	Driven 3 B2B, 2 B2C products and 1 platform from concept to launch as product owner<br />
                                 •	Cumulative increase of revenue : US $25 M<br />
                                 <br />
@@ -121,7 +121,7 @@
                                 •	Honesty – I like to be honest though this attitude landed me in trouble many times.<br />
                                 <br />
 
-                                I’m official mentor for the students at IIT Bombay. Visit my personal website <a href="http://subtlegopala.com">Website</a>and my personal blog<a href="http://gopalakrishnaiitb.blogspot.com">Blog</a>for more information.<br />
+                                I’m official mentor for the students at IIT Bombay. Visit my personal <a href="http://subtlegopala.com">Website</a> and my personal <a href="http://gopalakrishnaiitb.blogspot.com">Blog</a> for more information.<br />
                                 <br />
 
                                 Amazon, Uber and Mackbook Air are my favorite products. Steve Jobs, Elon Musk, Bill Gurley and Jeff Bezos are my favorite visionaries.<br />
