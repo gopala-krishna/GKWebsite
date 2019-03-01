@@ -19,7 +19,7 @@
                         <div class="span16 padding20">
                             <div class="tile-content">
                                 <div class="panel no-border">
-                                    <div class="panel-header bg-orange fg-white text-center">How Products - Systems Work || Product - Platform Internals</div>  
+                                    <div class="panel-header bg-blue fg-white text-center">How Products - Systems Work || Product - Platform Internals</div>  
                          
                                       <div>
                                           <br />
@@ -68,7 +68,7 @@
 {
     padding: 10px 5px;
     margin-bottom: -1px;
-    min-height: 1000px;
+    min-height: 500px;
 }
 
 .product {
