@@ -55,7 +55,7 @@ public partial class BackgroundScores : System.Web.UI.Page
 
     //public static string GetDirectoryListingRegexForUrl(string url)
     //{
-    //    if (url.Equals("http://www.subtlegopalweb.com/Media/BScores/Ilaiyaraja/"))
+    //    if (url.Equals("http://www.subtlegopala.com/Media/BScores/Ilaiyaraja/"))
     //    {
     //        return "<a href=\".*\">(?<A>.*)</a>";
     //    }

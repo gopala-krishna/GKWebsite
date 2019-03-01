@@ -358,15 +358,16 @@
                     <li>
                         <a href="#" class="dropdown-toggle">Start a Startup</a>
                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                            <li><a href="" style = "color:gray">How To Start A Company</a></li>
-                            <li><a href="http://www.subtlegopalweb.com/docs/Entrepreneurship/StartupGuide.pdf">Startup Guide</a></li>
+                            <%--<li><a href="" style = "color:gray">How To Start A Company</a></li>--%>
+                            <li><a href="http://www.subtlegopala.com/docs/Entrepreneurship/StartupGuide.pdf">Startup Guide</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#" class="dropdown-toggle">Startup Resources</a>
                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                            <li><a href="../../../UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a></li>
                             <li><a href="../../../UIEntrepreneurship/StartupResources/ImpBooks.aspx">Imp Books</a></li>
-                            <li><a href="" style = "color:gray">Blogs</a></li>
+                            <%--<li><a href="" style = "color:gray">Blogs</a></li>--%>
                         </ul>
                     </li>
                 </ul>
@@ -427,7 +428,7 @@
                             <a class="icon-skype on-right on-left" href ="skype:gopala.krishna_1" style="background: skyblue;color: white; padding: 10px; border-radius: 50%"></a>
                            
                              <h3 class="fg-white text-shadow"> Like & Share</h3>
-                             <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsubtlegopalweb.com%2F&amp;width=200&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowTransparency="true"></iframe>
+                             <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsubtlegopala.com%2F&amp;width=200&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowTransparency="true"></iframe>
                         </div>
 
                         <div class="span6 padding5">

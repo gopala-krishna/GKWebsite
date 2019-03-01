@@ -25,7 +25,7 @@ public partial class TeluguNovels : System.Web.UI.Page
     public static string GetBooklist()
     {
             List<Book> bookList = new List<Book>();
-            string url = "http://www.subtlegopalweb.com/docs/InterestingStuff/Misc/TeluguNovels/";
+            string url = "http://www.subtlegopala.com/docs/InterestingStuff/Misc/TeluguNovels/";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {

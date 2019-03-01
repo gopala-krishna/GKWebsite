@@ -61,7 +61,7 @@
                                                             <div class="accordion-frame active " >
                                                                 <a class="heading text-center text-bold bg-blue fg-white">Comment with Facebook</a>
                                                                 <div class="content " >
-                                                               <div class="fb-comments" data-href="http://subtlegopalweb.com" data-width="915" data-numposts="10" data-colorscheme=""></div>
+                                                               <div class="fb-comments" data-href="http://subtlegopala.com" data-width="915" data-numposts="10" data-colorscheme=""></div>
                                                                 </div>
                                                             </div>
 

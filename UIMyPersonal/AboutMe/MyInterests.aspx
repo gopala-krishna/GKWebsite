@@ -358,59 +358,59 @@
 
                                                                         <p>Love Theme</p>
                                                                         <audio controls>
-                                                                        <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/LoveTheme.mp3">
+                                                                        <source src="http://subtlegopala.com/Media/MyFavorites/BScores/LoveTheme.mp3">
                                                                         </audio><br /><br />
 
                                                                         <p>Chariots of Fire</p>
                                                                         <audio controls>
-                                                                        <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Chariotsoffire.mp3">
+                                                                        <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Chariotsoffire.mp3">
                                                                         </audio><br /><br />
                                                                     
                                                                         <p>Geetanjali</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Geetanjali.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Geetanjali.mp3">
                                                                         </audio><br /><br />
                                                                     
                                                                         <p>Em Maaya Chesave</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/EmMaayaChesave.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/EmMaayaChesave.mp3">
                                                                         </audio><br /><br />
 
                                                                       <p>Hrudayam</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Hrudayam.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Hrudayam.mp3">
                                                                         </audio><br /><br />
                                                                     
                                                                         <p>Mouna Raagam</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/MounaRaagam.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/MounaRaagam.mp3">
                                                                         </audio><br /><br />
                                                                           <p>Sankeertana</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Sankeertana.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Sankeertana.mp3">
                                                                         </audio><br /><br />
                                                                     
                                                                         <p>Anand</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Anand.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Anand.mp3">
                                                                         </audio><br /><br />
                                                                         <p>Prema Desam</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/PremaDesam.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/PremaDesam.mp3">
                                                                         </audio><br /><br />
                                                                     
                                                                         <p>Maharshi</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Maharshi.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Maharshi.mp3">
                                                                         </audio><br /><br />
                                                                         <p>Alapana</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Alapana.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Alapana.mp3">
                                                                         </audio><br /><br />
                                                                     
                                                                         <p>Abhinandana</p>
                                                                         <audio controls>
-                                                                          <source src="http://subtlegopalweb.com/Media/MyFavorites/BScores/Abhinandana.mp3">
+                                                                          <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Abhinandana.mp3">
                                                                         </audio><br /><br />
 
                                                                     

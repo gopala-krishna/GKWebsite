@@ -7,7 +7,7 @@
 
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <%--<link rel="pingback" href="http://www.ilaiyaraajalive.com/bio/xmlrpc.php" />--%>
-<link rel="shortcut icon" href="http://subtlegopalweb.com/images/Gopala_iit.jpg" />
+<link rel="shortcut icon" href="http://subtlegopala.com/images/Gopala_iit.jpg" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
  <meta name="twitter:card" content="summary_large_image">
@@ -113,7 +113,7 @@ margin: 0 auto;
             <div class="loading"></div>
         </div>
         <div class="animated inifiniteLoaderBg loadbg">
-            <div class="ct_tt_logo"><img class="ct_tt_logo_img" src="http://subtlegopalweb.com/images/Gopala_iit.jpg" alt="logo"/></div>
+            <div class="ct_tt_logo"><img class="ct_tt_logo_img" src="http://subtlegopala.com/images/Gopala_iit.jpg" alt="logo"/></div>
         </div>
     </div>
     
@@ -149,9 +149,9 @@ margin: 0 auto;
                 
 
     <div id="ct_tt_logo" class="ct_tt_logo" >
-        <a href="http://subtlegopalweb.com/AboutMe.aspx" data-ot='&lt;h2 style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;strong&gt;Gopala Krishna&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;'   data-ot-fixed="true"  data-ot-background="rgba(154,140,128,0.95)" data-ot-border-color="rgba(154,140,128,1)" data-ot-offset="[ 0, 0]" data-ot-shadow="false" data-ot-auto-offset="true" data-ot-tip-joint="top left" data-ot-group="rightnav" data-ot-target="true" data-ot-border-radius="0" data-ot-stem-length="12" >
-            <img class="ct_tt_logo_img" src="http://subtlegopalweb.com/images/Gopala_iit.jpg" alt="logo">
-                        <img class="ct_tt_logo_img_scaled" src="http://subtlegopalweb.com/images/Gopala_small.jpg" alt="logo">
+        <a href="http://subtlegopala.com/AboutMe.aspx" data-ot='&lt;h2 style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;strong&gt;Gopala Krishna&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;'   data-ot-fixed="true"  data-ot-background="rgba(154,140,128,0.95)" data-ot-border-color="rgba(154,140,128,1)" data-ot-offset="[ 0, 0]" data-ot-shadow="false" data-ot-auto-offset="true" data-ot-tip-joint="top left" data-ot-group="rightnav" data-ot-target="true" data-ot-border-radius="0" data-ot-stem-length="12" >
+            <img class="ct_tt_logo_img" src="http://subtlegopala.com/images/Gopala_iit.jpg" alt="logo">
+                        <img class="ct_tt_logo_img_scaled" src="http://subtlegopala.com/images/Gopala_small.jpg" alt="logo">
                 </a>
     </div>
 
@@ -165,9 +165,9 @@ margin: 0 auto;
     <div class="time-dot ct_tt_timeline_isfull"></div>    
         <div class="ct_tt_timeline_full">                <div class="arrow-side"></div>
                 <div class="ct_tt_timelieholder"  >                                     <div class="ct_tt_view ct_tt_img_hoverfx">
-                                        <img src="http://subtlegopalweb.com/images/Katrenikona.jpg" alt=""/>
+                                        <img src="http://subtlegopala.com/images/Katrenikona.jpg" alt=""/>
                                         <div class="ct_tt_mask">
-                                            <a href="http://subtlegopalweb.com/images/Katrenikona.jpg" class="info" rel="prettyPhotoImages[41]">
+                                            <a href="http://subtlegopala.com/images/Katrenikona.jpg" class="info" rel="prettyPhotoImages[41]">
                                                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="100px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
                                                     <line class="st0" x1="150.881" y1="36.392" x2="150.881" y2="259.611"/>
                                                     <line class="st0" x1="39.271" y1="148.001" x2="262.49" y2="148.001"/>
@@ -205,9 +205,9 @@ margin: 0 auto;
     <div class="time-dot "></div>            <div class="ct_tt_timeline_right empty-right " >
         <div class="arrow-side"></div>
                 	<div class=" empty-left " >                                     <div class="ct_tt_view ct_tt_img_hoverfx">
-                                        <img src="http://subtlegopalweb.com/images/school.jpg" alt=""/>
+                                        <img src="http://subtlegopala.com/images/school.jpg" alt=""/>
                                         <div class="ct_tt_mask">
-                                            <a href="http://subtlegopalweb.com/images/school.jpg" class="info"  rel="prettyPhotoImages[39]">
+                                            <a href="http://subtlegopala.com/images/school.jpg" class="info"  rel="prettyPhotoImages[39]">
                                                 <svg width="100px" height="100px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
                                                     <line class="st0" x1="150.881" y1="36.392" x2="150.881" y2="259.611"/>
                                                     <line class="st0" x1="39.271" y1="148.001" x2="262.49" y2="148.001"/>
@@ -240,9 +240,9 @@ margin: 0 auto;
     <div class="time-dot "></div>            <div class="ct_tt_timeline_left empty-left " >
         <div class="arrow-side"></div>
                 	<div class="empty-right  " >                                     <div class="ct_tt_view ct_tt_img_hoverfx">
-                                        <img src="http://subtlegopalweb.com/images/ShadanCollege.jpg" alt=""/>
+                                        <img src="http://subtlegopala.com/images/ShadanCollege.jpg" alt=""/>
                                         <div class="ct_tt_mask">
-                                            <a href="http://subtlegopalweb.com/images/ShadanCollege.jpg" class="info"  rel="prettyPhotoImages[37]">
+                                            <a href="http://subtlegopala.com/images/ShadanCollege.jpg" class="info"  rel="prettyPhotoImages[37]">
                                                 <svg width="100px" height="100px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
                                                     <line class="st0" x1="150.881" y1="36.392" x2="150.881" y2="259.611"/>
                                                     <line class="st0" x1="39.271" y1="148.001" x2="262.49" y2="148.001"/>
@@ -281,9 +281,9 @@ margin: 0 auto;
     <div class="time-dot "></div>            <div class="ct_tt_timeline_right empty-right " >
         <div class="arrow-side"></div>
                 	<div class=" empty-left " >                                     <div class="ct_tt_view ct_tt_img_hoverfx">
-                                        <img src="http://subtlegopalweb.com/images/gautamicollege.jpg" alt=""/>
+                                        <img src="http://subtlegopala.com/images/gautamicollege.jpg" alt=""/>
                                         <div class="ct_tt_mask">
-                                            <a href="http://subtlegopalweb.com/images/gautamicollege.jpg" class="info"  rel="prettyPhotoImages[39]">
+                                            <a href="http://subtlegopala.com/images/gautamicollege.jpg" class="info"  rel="prettyPhotoImages[39]">
                                                 <svg width="100px" height="100px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
                                                     <line class="st0" x1="150.881" y1="36.392" x2="150.881" y2="259.611"/>
                                                     <line class="st0" x1="39.271" y1="148.001" x2="262.49" y2="148.001"/>
@@ -316,9 +316,9 @@ margin: 0 auto;
     <div class="time-dot "></div>            <div class="ct_tt_timeline_left empty-left " >
         <div class="arrow-side"></div>
                 	<div class="empty-right  " >                                     <div class="ct_tt_view ct_tt_img_hoverfx">
-                                        <img src="http://subtlegopalweb.com/images/iitm.jpg" alt=""/>
+                                        <img src="http://subtlegopala.com/images/iitm.jpg" alt=""/>
                                         <div class="ct_tt_mask">
-                                            <a href="http://subtlegopalweb.com/images/iitm.jpg" class="info"  rel="prettyPhotoImages[37]">
+                                            <a href="http://subtlegopala.com/images/iitm.jpg" class="info"  rel="prettyPhotoImages[37]">
                                                 <svg width="100px" height="100px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
                                                     <line class="st0" x1="150.881" y1="36.392" x2="150.881" y2="259.611"/>
                                                     <line class="st0" x1="39.271" y1="148.001" x2="262.49" y2="148.001"/>
@@ -359,9 +359,9 @@ margin: 0 auto;
     <div class="time-dot ct_tt_timeline_isfull"></div>    
         <div class="ct_tt_timeline_full">                <div class="arrow-side"></div>
                 <div class="ct_tt_timelieholder"  >                                     <div class="ct_tt_view ct_tt_img_hoverfx">
-                                        <img src="http://subtlegopalweb.com/images/iitb.jpg" alt=""/>
+                                        <img src="http://subtlegopala.com/images/iitb.jpg" alt=""/>
                                         <div class="ct_tt_mask">
-                                            <a href="http://subtlegopalweb.com/images/iitb.jpg" class="info" rel="prettyPhotoImages[41]">
+                                            <a href="http://subtlegopala.com/images/iitb.jpg" class="info" rel="prettyPhotoImages[41]">
                                                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="100px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
                                                     <line class="st0" x1="150.881" y1="36.392" x2="150.881" y2="259.611"/>
                                                     <line class="st0" x1="39.271" y1="148.001" x2="262.49" y2="148.001"/>
@@ -410,9 +410,9 @@ margin: 0 auto;
     <div class="time-dot "></div>            <div class="ct_tt_timeline_left empty-left " >
         <div class="arrow-side"></div>
                 	<div class="empty-right  " >                                     <div class="ct_tt_view ct_tt_img_hoverfx">
-                                        <img src="http://subtlegopalweb.com/images/firstwebsite.jpg" alt=""/>
+                                        <img src="http://subtlegopala.com/images/firstwebsite.jpg" alt=""/>
                                         <div class="ct_tt_mask">
-                                            <a href="http://subtlegopalweb.com/images/firstwebsite.jpg" class="info"  rel="prettyPhotoImages[37]">
+                                            <a href="http://subtlegopala.com/images/firstwebsite.jpg" class="info"  rel="prettyPhotoImages[37]">
                                                 <svg width="100px" height="100px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
                                                     <line class="st0" x1="150.881" y1="36.392" x2="150.881" y2="259.611"/>
                                                     <line class="st0" x1="39.271" y1="148.001" x2="262.49" y2="148.001"/>
@@ -451,9 +451,9 @@ margin: 0 auto;
     <div class="time-dot ct_tt_timeline_isfull"></div>    
         <div class="ct_tt_timeline_full">                <div class="arrow-side"></div>
                 <div class="ct_tt_timelieholder"  >                                     <div class="ct_tt_view ct_tt_img_hoverfx">
-                                        <img src="http://subtlegopalweb.com/images/microsofthyd.jpg" alt=""/>
+                                        <img src="http://subtlegopala.com/images/microsofthyd.jpg" alt=""/>
                                         <div class="ct_tt_mask">
-                                            <a href="http://subtlegopalweb.com/images/microsofthyd.jpg" class="info" rel="prettyPhotoImages[41]">
+                                            <a href="http://subtlegopala.com/images/microsofthyd.jpg" class="info" rel="prettyPhotoImages[41]">
                                                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="100px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
                                                     <line class="st0" x1="150.881" y1="36.392" x2="150.881" y2="259.611"/>
                                                     <line class="st0" x1="39.271" y1="148.001" x2="262.49" y2="148.001"/>

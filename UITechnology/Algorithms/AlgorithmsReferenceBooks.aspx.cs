@@ -26,7 +26,7 @@ public partial class ImpBooks : System.Web.UI.Page
     public static string GetBooklist()
     {
             List<Book> bookList = new List<Book>();
-            string url = "http://www.subtlegopalweb.com/docs/Technology/Algorithms/Books/ReferenceBooks/";
+            string url = "http://www.subtlegopala.com/docs/Technology/Algorithms/Books/ReferenceBooks/";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
