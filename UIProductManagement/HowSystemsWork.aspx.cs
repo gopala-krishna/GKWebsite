@@ -28,6 +28,9 @@ public partial class HowSystemsWork : System.Web.UI.Page
         Product p3 = new Product { ImgUrl = "../images/HowSystemsWork/google.jpg", LinkUrl = "https://www.google.com/search/howsearchworks/" };
         Product p4 = new Product { ImgUrl = "../images/HowSystemsWork/facebook.jpg", LinkUrl =" ../docs/HowProductsWork/facebook.pdf" };
         Product p5 = new Product { ImgUrl = "../images/HowSystemsWork/atm.jpg", LinkUrl = "../docs/HowProductsWork/atm.pdf" };
+        Product p6 = new Product { ImgUrl = "../images/HowSystemsWork/cell.jpg", LinkUrl = "../docs/HowProductsWork/HowCellPhonesWork.pdf" };
+        Product p7 = new Product { ImgUrl = "../images/HowSystemsWork/rdbms.jpg", LinkUrl = " ../docs/HowProductsWork/HowRDBMSWork.pdf" };
+        Product p8 = new Product { ImgUrl = "../images/HowSystemsWork/gmaps.jpg", LinkUrl = "../docs/HowProductsWork/HowGoogleMapsWork.pdf" };
 
 
 
@@ -36,6 +39,7 @@ public partial class HowSystemsWork : System.Web.UI.Page
         List<Product> products = new List<Product>();
         products.Add(p1); products.Add(p2);
         products.Add(p3);products.Add(p4); products.Add(p5);
+        products.Add(p6); products.Add(p7); products.Add(p8);
 
         string jstrProducts = JsonConvert.SerializeObject(products);
         return jstrProducts;
