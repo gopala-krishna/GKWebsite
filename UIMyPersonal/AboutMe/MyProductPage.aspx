@@ -47,17 +47,17 @@
                                                 </div>
 
                                                 <script>
-                    $(function () {
-                        $("#carousel2").carousel({
-                            height: 70,
-                            period: 3000,
-                            duration: 1000,
-                            effect: 'fade',
-                            markers: {
-                                show: false
-                            }
-                        });
-                    })
+                                                    $(function () {
+                                                        $("#carousel2").carousel({
+                                                            height: 70,
+                                                            period: 3000,
+                                                            duration: 1000,
+                                                            effect: 'fade',
+                                                            markers: {
+                                                                show: false
+                                                            }
+                                                        });
+                                                    })
                                                 </script>
 
                                             </div>
@@ -121,13 +121,21 @@
                                 •	Honesty – I like to be honest though this attitude landed me in trouble many times.<br />
                                 <br />
 
-                                I’m official mentor for the students at IIT Bombay. Visit my personal <a href="http://subtlegopala.com">Website</a> and my personal <a href="http://gopalakrishnaiitb.blogspot.com">Blog</a> for more information.<br />
                                 <br />
 
                                 Amazon, Uber and Mackbook Air are my favorite products. Steve Jobs, Elon Musk, Bill Gurley and Jeff Bezos are my favorite visionaries.<br />
                                 <br />
 
                                 Reach out to me if you are like minded.<br />
+                                <br />
+
+                                 <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Professional Interests</a><br /><br />
+
+                                 If you would like to know the internals of  how products work, please have a look at : <a href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx">How Products Work</a> <br />
+                                 If you would like to see the pich decks of popular startups, please have a look at : <a href="http://subtlegopala.com/UIEntrepreneurship/StartupResources/PitcDecks.aspx">Pitch Decks</a><br />
+                                 If you would like to know the technologies used in any website, please have a look at : <a href="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
+                                
+                                
                                 <br />
 
 
@@ -171,17 +179,12 @@
 
 
 
-                                    <img src="../../images/st1.jpg" class="margin10 nlm ntm size7">
-                                    <img src="../../images/st2.jpg" class="margin10 nlm ntm size7">
-                                    <img src="../../images/st3.jpg" class="margin10 nlm ntm size7">
-                                    <img src="../../images/st4.jpg" class="margin10 nlm ntm size7">
-                                    <br /><br />
-
-
-
-
-
-
+                                    <img src="../../images/Productpage/iat1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/Productpage/iat2.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/Productpage/iat3.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/Productpage/iat4.jpg" class="margin15 nlm ntm size7">
+                                    <br />
+                                    <br />
 
 
 
@@ -195,6 +198,7 @@
 
                                 </p>
                                 <!-- End -->
+                              
                                 <!-- Pick to Light -->
                                 <div class="container">
                                     <div class="grid no-margin">
@@ -220,6 +224,13 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
 
+
+                                     <img src="../../images/Productpage/ptl1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/Productpage/ptl2.jpg" class="margin15 nlm ntm size7">
+                                    <br />
+                                    <br />
+
+
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
                                     <br />
 
@@ -229,6 +240,47 @@
 
                                 </p>
                                 <!-- End -->
+
+                                  <!-- Indoor Navigation-->
+                                <div class="container">
+                                    <div class="grid no-margin">
+                                        <div class="row">
+                                            <div class="span4 no-tablet-portrait no-phone">
+                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                    <p class="subheader-secondary fg-white">Indoor Navigation</p>
+                                                </div>
+                                            </div>
+                                            <div class="span10">
+                                                <br />
+                                                <h3 class="fg-blue   ntm">"Travel on shortest path in indoor locations with navigation assistance" </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <br />
+                                <p>
+
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
+                                    <br />
+
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
+                                    <br />
+                                     <img src="../../images/Productpage/inav1.jpg" class="margin20 nlm ntm size4">
+                                    <img src="../../images/Productpage/inav2.jpg" class="margin20 nlm ntm size4">
+                                    <br />
+                                    <br />
+
+
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
+                                    <br />
+
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br />
+                                    <br />
+
+
+                                </p>
+                                <!-- End -->
+
                                 <!--Order Allocation-->
                                 <div class="container">
                                     <div class="grid no-margin">
@@ -254,11 +306,12 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
 
-                                    <img src="../../images/fi1.jpg" class="margin10 nlm ntm size7">
-                                    <img src="../../images/fi2.jpg" class="margin10 nlm ntm size7">
-                                    <img src="../../images/fi3.jpg" class="margin10 nlm ntm size7">
-                                    <img src="../../images/fi4.jpg" class="margin10 nlm ntm size7">
-                                    <br /><br />
+                                    <img src="../../images/fi1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/fi2.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/fi3.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/fi4.jpg" class="margin15 nlm ntm size7">
+                                    <br />
+                                    <br />
 
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
@@ -296,9 +349,10 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
 
-                                    <img src="../../images/biba1.jpg" class="margin10 nlm ntm size7">
-                                    <img src="../../images/biba2.jpg" class="margin10 nlm ntm size7">
-                                    <br /><br />
+                                    <img src="../../images/biba1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/biba2.jpg" class="margin15 nlm ntm size7">
+                                    <br />
+                                    <br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
                                     <br />
