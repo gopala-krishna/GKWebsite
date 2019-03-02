@@ -47,7 +47,7 @@ public partial class UITechnology_TechnologyStacks_WebTechStackSearch : System.W
             string w3TechstartWord = "Site Info - " + strw3Tech;
             int w3TechstartIndex = w3TechsSource.IndexOf(w3TechstartWord);
             int w3TechLength = w3TechsSource.IndexOf("Share this page") - w3TechsSource.IndexOf(w3TechstartWord);
-            if (w3TechLength < 0)
+            if (w3TechLength <= 0)
             {
                 litW3Techs.Text = "No Resutls found";
             }
@@ -70,8 +70,8 @@ public partial class UITechnology_TechnologyStacks_WebTechStackSearch : System.W
             //W3 Tech Source Parsing
             string netCraftStartWord = "site_report_table";
             int netCraftStartIndex = netCraftSource.IndexOf(netCraftStartWord);
-            int netCraftLength = netCraftSource.IndexOf("Copyright &copy; Netcraft Ltd. 2015") - netCraftSource.IndexOf(netCraftStartWord);
-            if (netCraftLength < 0)
+            int netCraftLength = netCraftSource.IndexOf("Copyright &copy; Netcraft Ltd. 2019") - netCraftSource.IndexOf(netCraftStartWord);
+            if (netCraftLength <= 0)
             {
                 litNetCraft.Text = "No Resutls found";
             }
@@ -87,32 +87,32 @@ public partial class UITechnology_TechnologyStacks_WebTechStackSearch : System.W
 
         #endregion NetCraft
 
-        #region builtWith
-        string builtWithSource = GetHTMLSource(builtWithUrl);
+        //#region builtWith
+        //string builtWithSource = GetHTMLSource(builtWithUrl);
 
-        if(builtWithSource !="")
-        {
-            // Built With Source Parsing
-            string builtWithstartWord = "homeH1 profileH1";
-            int builtWithstartIndex = builtWithSource.IndexOf(builtWithstartWord);
-            int builtWithLength = builtWithSource.IndexOf("<li><span>Profile Details</span></li>") - builtWithSource.IndexOf(builtWithstartWord);
+        //if(builtWithSource !="")
+        //{
+        //    // Built With Source Parsing
+        //    string builtWithstartWord = "homeH1 profileH1";
+        //    int builtWithstartIndex = builtWithSource.IndexOf(builtWithstartWord);
+        //    int builtWithLength = builtWithSource.IndexOf("<li><span>Profile Details</span></li>") - builtWithSource.IndexOf(builtWithstartWord);
 
 
-            if (builtWithLength < 0)
-            {
-                litBuiltWith.Text = "No Resutls found";
-            }
-            else
-            {
-                string infoString = builtWithSource.Substring(builtWithSource.IndexOf(builtWithstartWord), builtWithLength);
-                string formattedStr = infoString.Remove(0, 18);
-                litBuiltWith.Text = formattedStr;
-            }
-        }
-        else
-        { litBuiltWith.Text = "No Resutls found"; }
+        //    if (builtWithLength <= 0)
+        //    {
+        //        litBuiltWith.Text = "No Resutls found";
+        //    }
+        //    else
+        //    {
+        //        string infoString = builtWithSource.Substring(builtWithSource.IndexOf(builtWithstartWord), builtWithLength);
+        //        string formattedStr = infoString.Remove(0, 18);
+        //        litBuiltWith.Text = formattedStr;
+        //    }
+        //}
+        //else
+        //{ litBuiltWith.Text = "No Resutls found"; }
 
-        #endregion builtWith
+        //#endregion builtWith
     }
 
     public static String GetHTMLSource(string url)
