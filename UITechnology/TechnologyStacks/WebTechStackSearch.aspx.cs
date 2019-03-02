@@ -49,7 +49,7 @@ public partial class UITechnology_TechnologyStacks_WebTechStackSearch : System.W
             int w3TechLength = w3TechsSource.IndexOf("Share this page") - w3TechsSource.IndexOf(w3TechstartWord);
             if (w3TechLength <= 0)
             {
-                litW3Techs.Text = "No Resutls found";
+                litW3Techs.Text = "Can't be able to pull 1's and 0's";
             }
             else
             {
@@ -58,7 +58,7 @@ public partial class UITechnology_TechnologyStacks_WebTechStackSearch : System.W
             }
         }
         else
-        { litW3Techs.Text = "No Resutls found"; }
+        { litW3Techs.Text = "Can't be able to pull 1's and 0's"; }
 
         #endregion W3Tech
 
@@ -73,7 +73,7 @@ public partial class UITechnology_TechnologyStacks_WebTechStackSearch : System.W
             int netCraftLength = netCraftSource.IndexOf("Copyright &copy; Netcraft Ltd. 2019") - netCraftSource.IndexOf(netCraftStartWord);
             if (netCraftLength <= 0)
             {
-                litNetCraft.Text = "No Resutls found";
+                litNetCraft.Text = "Can't be able to pull 1's and 0's";
             }
             else
             {
@@ -83,7 +83,7 @@ public partial class UITechnology_TechnologyStacks_WebTechStackSearch : System.W
             }
         }
         else
-        { litNetCraft.Text = "No Resutls found"; }
+        { litNetCraft.Text = "Can't be able to pull 1's and 0's"; }
 
         #endregion NetCraft
 

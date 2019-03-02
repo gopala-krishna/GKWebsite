@@ -2,7 +2,7 @@
 
 <html>
 <head runat="server">
-    <link rel="SHORTCUT ICON" href="/images/MyPhotos/1.jpg" />
+    <link rel="SHORTCUT ICON" href="/images/MyPhotos/GKwebLogo.jpg" />
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -59,7 +59,7 @@
             <div class="grid no-margin">
                 <div class="row padding20">
 
-                    <asp:TextBox ID="txtSearch" runat="server" Width="400px"></asp:TextBox>
+                    <asp:TextBox ID="txtSearch" runat="server" Width="300px"></asp:TextBox>
                     <asp:Button ID="btnSearch" runat="server" OnClick="btnSearch_Click" Text="Search" />
 
                 </div>
