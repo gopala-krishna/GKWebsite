@@ -17,7 +17,6 @@
                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                             <li><a href="../../../UIMyPersonal/AboutMe/AboutMe.aspx">My Timeline</a></li>
                             <li><a href="../../../UIMyPersonal/AboutMe/MyInterests.aspx">My Interests</a></li>
-                            <li><a href="../../../UIMyPersonal/AboutMe/MyProductPage.aspx">My Product Page</a></li>
                             <li><a href="" style ="color: gray">My Family</a></li>
                         </ul>
                     </li>
@@ -286,6 +285,7 @@
             <li>
                 <a class="dropdown-toggle"  href="#">Product Management</a>
                  <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover"">
+                    <li><a href="../../../UIProductManagement/MyProductPage.aspx">My Product Page</a></li>
                     <li><a href="../../../UIProductManagement/HowSystemsWork.aspx ">How Systems Work</a></li>
                     <li><a href="../../../UIProductManagement/MyPMArticles.aspx ">My PM Articles</a></li>
                     <li><a href="../../../UIProductManagement/InterestingBugs.aspx ">Interesting Bugs</a></li>
