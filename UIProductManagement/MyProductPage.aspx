@@ -174,6 +174,18 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
+                                    Indoor Asset Tracker provides location based visualization, reporting and management for all classes of assets
+                                    in indoor locations like mines, buildings and warehouses. It enables the enrolment of tags and assets into the system, inclusion
+                                    of maps and floor plans, reporting of current and historical data.<br />
+                                    Some typlical applications of Indoor Asset Tracker include:<br /><br />
+                                    •	Healthcare - Locate and track patients, equipment like scanner machines  <br />
+                                    •	Mines - Locate and track miners, equipment like crushers. Get alerts during man down situations.Track temperature & humidity 
+                                       levels at various mining &nbsp &nbsp zones to ensure safety of miners.Ensure smooth rescue operations and providing exact location of personnel
+                                    in the emergency zones<br />
+                                    •	Airports - Locate and track ground staff, equipment like trolleys, terminal buses.Locatenearest medical assistance equipment such as wheelchairs<br />
+                                    •	Warehouses - Locate and track ground staff, equipment like trolleys.Reduce inaccurate floor inventories, reduce order-time-to-delivery and prevent 
+                                    &nbsp &nbsp &nbsp &nbsp &nbsp costly assembly line stoppages due to unavailable inventories<br /><br />
+                                    
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
@@ -190,12 +202,7 @@
 
 
 
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
-                                    <br />
-
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br />
-                                    <br />
-
+                                  
 
                                 </p>
                                 <!-- End -->
@@ -239,13 +246,7 @@
                                     <br />
 
 
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
-                                    <br />
-
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br />
-                                    <br />
-
-
+                                   
                                 </p>
                                 <!-- End -->
 
@@ -294,12 +295,7 @@
                                     <br />
 
 
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
-                                    <br />
-
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br />
-                                    <br />
-
+                                   
 
                                 </p>
                                 
@@ -327,6 +323,9 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
 
+                                    Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Order Allocation System" at the backend. 
+                                    Executed complete e-commerce implementation for the client FabIndia with "Order Allocation System" and "Rules Engine" <br /><br />
+
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
 
@@ -338,16 +337,11 @@
                                     <br />
 
 
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
-                                    <br />
-
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br />
-                                    <br />
+                                    
 
 
                                 </p>
                                 <!-- End -->
-
                                 <!--Courier Allocation-->
                                 <div class="container">
                                     <div class="grid no-margin">
@@ -370,6 +364,10 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
 
+                                    Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Courier Allocation System" at the backend. 
+                                    Executed complete e-commerce implementation for the client FabIndia with "Courier Allocation System" and "Rules Engine" <br /><br />
+
+
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
 
@@ -378,13 +376,7 @@
                                     <br />
                                     <br />
 
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Responsibilities</a><br />
-                                    <br />
-
-                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Accomplishments</a><br />
-                                    <br />
-
-
+                                    
                                 </p>
                                 <!-- End -->
 
