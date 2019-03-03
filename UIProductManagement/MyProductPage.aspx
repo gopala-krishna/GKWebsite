@@ -72,7 +72,8 @@
 
                             <br />
 
-                            <p>
+                            <p style ="font-size:medium";>
+
                                 Work-afrolic product leader. Entrepreneur. Growth hacker. Curiosity is my biggest strength. Ability to produce interesting data through research is my biggest capability.
                                 <br />
                                 <br />
@@ -169,7 +170,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p>
+                                <p style ="font-size:medium";>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
@@ -216,7 +217,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p>
+                                <p style ="font-size:medium";>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
@@ -242,6 +243,7 @@
                                 <!-- End -->
 
                                   <!-- Indoor Navigation-->
+                                
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
@@ -258,10 +260,24 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p>
+                                <p style ="font-size:medium";>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
+
+                                    Indoor navigation provides the shortest path to navigate in indoor locations like buildings and warehouses.
+                                    Because GPS reception is normally non-existent inside buildings, other positioning technologies like WiFi, BLE are used 
+                                    create a so-called "indoor GPS".  Indoor navigation with Wi-Fi has an accuracy of 5-15 meters.<br/><br />
+                                    Some typlical applications of Indoor navigation app include:<br /><br />
+                                     •	Warehouses - Picking operations in large warehouses<br />
+                                     •	Musems - Guided tour to places of interest<br />
+                                     •	Shopping malls - View current location and reach sopping destination from current location
+                                    
+                                    <br /><br />
+
+
+
+
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
@@ -279,6 +295,7 @@
 
 
                                 </p>
+                                
                                 <!-- End -->
 
                                 <!--Order Allocation-->
@@ -298,7 +315,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p>
+                                <p style ="font-size:medium";>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
@@ -341,7 +358,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p>
+                                <p style ="font-size:medium";>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
@@ -408,7 +425,7 @@
             </div>
         </div>
 
-
+</div>
 
     </div>
     <script src="js/hitua.js"></script>
