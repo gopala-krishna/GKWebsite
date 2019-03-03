@@ -24,7 +24,7 @@
                                     <div class="grid no-margin">
                                         <div class="row">
                                             <div class="span4 no-tablet-portrait no-phone">
-                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Did You Know</p>
                                                 </div>
                                             </div>
@@ -34,13 +34,13 @@
 
 
                                                     <div class="slide">
-                                                        <h3 class="fg-blue  ntm">Why Instagram timeline algorithm failed?</h3>
+                                                        <h3 class="fg-lightPink  ntm">Why Instagram timeline algorithm failed?</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-blue   ntm">Why popular items are less priced in amazon?</h3>
+                                                        <h3 class="fg-lightPink   ntm">Why popular items are less priced in amazon?</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-blue  ntm">iPhone fingerprint sensor can differentiate between dead and alive</h3>
+                                                        <h3 class="fg-lightPink  ntm">iPhone fingerprint sensor can differentiate between dead and alive</h3>
                                                     </div>
 
 
@@ -150,20 +150,20 @@
                     <div class="span15">
                         <div class="tile-content">
                             <div class="panel no-border">
-                                <div class="panel-header bg-blue fg-white text-center text-shadow">My Product Portfolio</div>
+                                <div class="panel-header bg-blue fg-white text-center text-shadow">My Professional Product Portfolio</div>
 
                                 <!-- Indoor Assets Tracker -->
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
                                             <div class="span4 no-tablet-portrait no-phone">
-                                                <div class="notice marker-on-right bg-orange  padding0 text-center" style="height: 70px">
+                                                <div class="notice marker-on-right bg-teal  padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Indoor Assets Tracker</p>
                                                 </div>
                                             </div>
                                             <div class="span10">
                                                 <br />
-                                                <h3 class="fg-blue   ntm">"Track assets in indoor locations to increase productivity and safety" </h3>
+                                                <h3 class="fg-lightPink   ntm">"Track assets in indoor locations to increase productivity and safety" </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -204,13 +204,13 @@
                                     <div class="grid no-margin">
                                         <div class="row">
                                             <div class="span4 no-tablet-portrait no-phone">
-                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Pick to Light</p>
                                                 </div>
                                             </div>
                                             <div class="span10">
                                                 <br />
-                                                <h3 class="fg-blue   ntm">"Provide light assistance for warehouse picker to increase productivity" </h3>
+                                                <h3 class="fg-lightPink   ntm">"Provide light assistance for warehouse picker to increase productivity" </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -246,13 +246,13 @@
                                     <div class="grid no-margin">
                                         <div class="row">
                                             <div class="span4 no-tablet-portrait no-phone">
-                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Indoor Navigation</p>
                                                 </div>
                                             </div>
                                             <div class="span10">
                                                 <br />
-                                                <h3 class="fg-blue   ntm">"Travel on shortest path in indoor locations with navigation assistance" </h3>
+                                                <h3 class="fg-lightPink   ntm">"Travel on shortest path in indoor locations with navigation assistance" </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -286,13 +286,13 @@
                                     <div class="grid no-margin">
                                         <div class="row">
                                             <div class="span4 no-tablet-portrait no-phone">
-                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Order Allocation</p>
                                                 </div>
                                             </div>
                                             <div class="span10">
                                                 <br />
-                                                <h3 class="fg-blue   ntm">"Decrease order delivery time through algorithmic order allocation" </h3>
+                                                <h3 class="fg-lightPink   ntm">"Decrease order delivery time through algorithmic order allocation" </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -329,13 +329,13 @@
                                     <div class="grid no-margin">
                                         <div class="row">
                                             <div class="span4 no-tablet-portrait no-phone">
-                                                <div class="notice marker-on-right bg-orange padding0 text-center" style="height: 70px">
+                                                <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Courier Allocation</p>
                                                 </div>
                                             </div>
                                             <div class="span10">
                                                 <br />
-                                                <h3 class="fg-blue   ntm">"Reduce shipment costs through algorithmic courier allocation" </h3>
+                                                <h3 class="fg-lightPink   ntm">"Reduce shipment costs through algorithmic courier allocation" </h3>
                                             </div>
                                         </div>
                                     </div>
