@@ -33,15 +33,39 @@
                                                 <div class="carousel bg-transparent no-overflow" id="carousel2">
 
 
+                                                    
                                                     <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm">Why Instagram timeline algorithm failed?</h3>
+                                                        <h3 class="fg-lightPink  ntm">iPhone fingerprint sensor can differentiate between dead and alive</h3>
                                                     </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink   ntm">Why popular items are less priced in amazon?</h3>
                                                     </div>
-                                                    <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm">iPhone fingerprint sensor can differentiate between dead and alive</h3>
+                                                    
+                                                     <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">Walmart returns money if competitor has less price for same product</h3>
                                                     </div>
+                                                     <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">App Store top 50 games are free</h3>
+                                                    </div>
+                                                     <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">Google index covers only 0.01% of World Wide Web</h3>
+                                                    </div>
+                                                     <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">92% users click on an item in the first page of Google search results</h3>
+                                                    </div>
+                                                     <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">Facebook uses around 100000 personalization facts</h3>
+                                                    </div>
+                                                    <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">72% of launched products fail</h3>
+                                                    </div>
+                                                    <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">Why Instagram timeline algorithm failed?</h3>
+                                                    </div>
+                                                    <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">90% of freemium products fail</h3>
+                                                    </div>
+
 
 
                                                 </div>
