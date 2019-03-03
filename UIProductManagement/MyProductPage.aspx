@@ -324,7 +324,7 @@
                                     <br />
 
                                     Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Order Allocation System" at the backend. 
-                                    Executed complete e-commerce implementation for the client FabIndia with "Order Allocation System" and "Rules Engine" <br /><br />
+                                    Executed complete e-commerce webstore for the client FabIndia including  "Order Allocation System" and "Rules Engine" <br /><br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
@@ -365,7 +365,7 @@
                                     <br />
 
                                     Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Courier Allocation System" at the backend. 
-                                    Executed complete e-commerce implementation for the client FabIndia with "Courier Allocation System" and "Rules Engine" <br /><br />
+                                    Executed complete e-commerce webstore for the client FabIndia including "Courier Allocation System" and "Rules Engine" <br /><br />
 
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
