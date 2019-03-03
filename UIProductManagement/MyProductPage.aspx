@@ -92,19 +92,19 @@
                                 <br />
                                 <br />
 
-                                <b>Products:</b><br />
+                                <b>Products:</b><br /><br />
                                 I obsess over products and have good understanding on why products fail and what do to do to mitigate the risk of product failures. Know how to leverage technology to build innovative products. I like defining product vision, roadmap and execution strategy.
                                 <br />
                                 <br />
 
-                                <b>Strategy:</b><br />
+                                <b>Strategy:</b><br /><br />
                                 Now a days, my core focus is on designing and developing counter-intuitive strategies. I have good understanding on:<br />
                                 •	Monetization Strategies - Pricing strategies, Growth hacking, Engagement strategies.<br />
                                 •	Product Strategies - Time to market, Feature acceptance, Market research, Metrics.<br />
                                 •	Business Strategies - Branding, Partnership, Segmentation, Acquisition, Competitive Analysis.<br />
                                 <br />
 
-                                <b>Technology:</b><br />
+                                <b>Technology:</b><br /><br />
                                 I have good understanding on:<br />
                                 Scaling the systems from 100 users to 1M users and deigning the systems for availability or consistency.Evaluating technical possibilities and trade-offs.
                                 <br />
@@ -221,6 +221,13 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
+                                     Pick to Light is the most flexible and powerful  light directed system used for accurate and fast picking of assets in a warehouse.<br />
+                                     Some typlical benefits of Pick to Light include:<br /><br />
+                                     •	Increases Productivity - Increases the productivity of the picker by reducing the time spent walking between warehouse racks<br />
+                                     •	Reduces Errors - removes the pick errors associated with reading paper pick lists<br />
+                                     •	Language agonistic - Picker doesn't need to know any language to read the pick lists<br />
+                                     •	No Training Required - companies can use temporary labor during busy seasons to perform picking operations with limited training requirements<br />
+                                     •	Provides Analytics - Provides real-time statistics on picker productivity <br /><br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
