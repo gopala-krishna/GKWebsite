@@ -45,7 +45,7 @@
                                             var jsonResult = JSON.parse(result.d);
                                             var dataSource = new kendo.data.DataSource({
                                                 data: jsonResult,
-                                                pageSize: 20
+                                                pageSize: 30
                                             });
                                             $("#listView").kendoListView({
                                                 dataSource: dataSource,
@@ -60,7 +60,7 @@
                                 #listView {
                                     padding: 10px 5px;
                                     margin-bottom: -1px;
-                                    min-height: 500px;
+                                    min-height: 800px;
                                 }
 
                                 .product {
