@@ -13,7 +13,7 @@
 
 
 
-        <div class ="bg-white text-shadow">
+        <div class ="bg-white">
           <div class="container">
                 <div class="row">
                         <div class="span16 padding20">

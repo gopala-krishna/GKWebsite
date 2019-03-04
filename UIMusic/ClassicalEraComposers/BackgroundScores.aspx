@@ -20,7 +20,7 @@
                         <div class="span16 padding20">
                             <div class="tile-content">
                                 <div class="panel no-border">
-                                    <div class="panel-header bg-blue fg-white text-center">Background Scores of Classical Era Composers</div>  
+                                    <div class="panel-header bg-blue fg-white text-center">Background scores of classical era composers</div>  
 
 
 
@@ -39,27 +39,17 @@
 
 
 
-                  <%-- <div class="span16 padding20">--%>
-                    <nav class="horizontal-menu" >
-                                <ul>
-                                    <li>
-                                    <a href="#" class="dropdown-toggle fg-blue  no-marker text-shadow" onclick ="ViewPlaylist(this)">Johann Sebastian Bach</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">Beethoven</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">Mozart</a>
-                                    </li> 
-                                    <li>
-                                        <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" onclick ="ViewPlaylist(this)">Michael Jackson</a>
-                                    </li>
-                                    
-                                   
-                            </ul>
-                            </nav>
-                        <%--</div>--%>
 
+                                    <div class="row text-center"><br /><br />
+                                        
+                 <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" style="font-size:x-large" onclick ="ViewPlaylist(this)">Johann-Sebastian-Bach</a>
+                 <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" style="font-size:x-large" onclick ="ViewPlaylist(this)">Beethoven</a>
+                 <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" style="font-size:x-large" onclick ="ViewPlaylist(this)">Mozart</a>
+                 <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" style="font-size:x-large" onclick ="ViewPlaylist(this)">Michael-Jackson</a>
+                 
+                 </div><br /><br />
+
+                
 
 
 
@@ -220,7 +210,7 @@
                          {
                              field: "Play", titile: "Play", template: '<audio controls><source src="#=DownloadUrl#">#=BScoreTitle#</audio>'
                          },
-                         { field: "DownloadUrl", title: "Download", width: 120, template: '<a href="#=DownloadUrl#">Download</a>' }
+                         { field: "DownloadUrl", title: "Download", width: 120, template: '<a href="#=DownloadUrl#"><img src="../../images/download.ico" style="width:40px;height:40px;border:0;"</a>' }
                      ]
                  });
 
