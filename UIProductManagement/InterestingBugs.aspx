@@ -51,7 +51,7 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Bug Description</a><br />
                                     <br />
-                                    How come the offer price is less than the original price? <br />
+                                    How come the offer price is greater than the original price? <br />
                                     This bug was captured by me on 26-02-2019.
                                 <br /><br />
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
