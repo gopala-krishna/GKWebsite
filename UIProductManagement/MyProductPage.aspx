@@ -409,7 +409,7 @@
 
 
 
-
+                            
                             <div class="tile-content ">
                                 <div class="panel no-border text-justify">
                                     <div class="panel-header bg-blue fg-white text-center text-shadow">My Professional Hangouts</div>
@@ -437,6 +437,47 @@
                                         <a class="button bg-black fg-white" style="width: inherit; height: 70px; margin-bottom: 10px" href="http://howstuffworks.com">
                                             <img src="../../images/hsw.png" /></a>
                                     </div>
+
+                                    <br /><br />                                    <br /><br />
+                                    <br /><br />
+                                    <br /><br />
+                                    <br /><br />                                    <br /><br />
+                                                                        
+
+                                    
+                                    <hr style="border:0px;border-top:2px  solid gray;" />
+
+                                    
+
+
+                                    <div class="row k-align-right" >
+                                    <div class="fb-like"
+                                        data-href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
+                                        data-layout="standard"
+                                        data-action="like"
+                                        data-show-faces="true"
+                                        data-share="true"
+                                        data-size="large">
+                                    </div>
+                                    <div class="fb-comments"
+                                        data-href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
+                                        data-numposts="5"
+                                        data-width="100px">
+                                    </div>
+
+                                    <script>(function (d, s, id) {
+                                                var js, fjs = d.getElementsByTagName(s)[0];
+                                                if (d.getElementById(id)) return;
+                                                js = d.createElement(s); js.id = id;
+                                                js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+                                                fjs.parentNode.insertBefore(js, fjs);
+                                            }(document, 'script', 'facebook-jssdk'));
+                                    </script>
+
+
+                                </div>
+
+
                                 </div>
                             </div>
 
@@ -447,10 +488,8 @@
 
             </div>
         </div>
-
 </div>
 
-    </div>
     <script src="js/hitua.js"></script>
 </asp:Content>
 
