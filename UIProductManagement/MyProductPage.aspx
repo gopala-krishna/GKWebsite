@@ -33,27 +33,27 @@
                                                 <div class="carousel bg-transparent no-overflow" id="carousel2">
 
 
-                                                    
+
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">iPhone fingerprint sensor can differentiate between dead and alive</h3>
                                                     </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink   ntm">Why popular items are less priced in amazon?</h3>
                                                     </div>
-                                                    
-                                                     <div class="slide">
+
+                                                    <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">Walmart returns money if competitor has less price for same product</h3>
                                                     </div>
-                                                     <div class="slide">
+                                                    <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">App Store top 50 games are free</h3>
                                                     </div>
-                                                     <div class="slide">
+                                                    <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">Google index covers only 0.01% of World Wide Web</h3>
                                                     </div>
-                                                     <div class="slide">
+                                                    <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">92% users click on an item in the first page of Google search results</h3>
                                                     </div>
-                                                     <div class="slide">
+                                                    <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">Facebook uses around 100000 personalization facts</h3>
                                                     </div>
                                                     <div class="slide">
@@ -96,8 +96,7 @@
 
                             <br />
 
-                            <p style ="font-size:medium";>
-
+                            <p style="font-size: medium">
                                 Work-afrolic product leader. Entrepreneur. Growth hacker. Curiosity is my biggest strength. Ability to produce interesting data through research is my biggest capability.
                                 <br />
                                 <br />
@@ -116,19 +115,22 @@
                                 <br />
                                 <br />
 
-                                <b>Products:</b><br /><br />
+                                <b>Products:</b><br />
+                                <br />
                                 I obsess over products and have good understanding on why products fail and what do to do to mitigate the risk of product failures. Know how to leverage technology to build innovative products. I like defining product vision, roadmap and execution strategy.
                                 <br />
                                 <br />
 
-                                <b>Strategy:</b><br /><br />
+                                <b>Strategy:</b><br />
+                                <br />
                                 Now a days, my core focus is on designing and developing counter-intuitive strategies. I have good understanding on:<br />
                                 •	Monetization Strategies - Pricing strategies, Growth hacking, Engagement strategies.<br />
                                 •	Product Strategies - Time to market, Feature acceptance, Market research, Metrics.<br />
                                 •	Business Strategies - Branding, Partnership, Segmentation, Acquisition, Competitive Analysis.<br />
                                 <br />
 
-                                <b>Technology:</b><br /><br />
+                                <b>Technology:</b><br />
+                                <br />
                                 I have good understanding on:<br />
                                 Scaling the systems from 100 users to 1M users and deigning the systems for availability or consistency.Evaluating technical possibilities and trade-offs.
                                 <br />
@@ -154,13 +156,15 @@
                                 Reach out to me if you are like minded.<br />
                                 <br />
 
-                                 <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Professional Interests</a><br /><br />
+                                <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Professional Interests</a><br />
+                                <br />
 
-                                 If you would like to see the pich decks of popular startups, please have a look at : <a href="http://subtlegopala.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a><br />
-                                 If you would like to know the internals of  how products work, please have a look at : <a href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx">How Products Work</a> <br />
-                                 If you would like to know the technologies used in any website, please have a look at : <a href="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
-                                
-                                
+                                If you would like to see the pich decks of popular startups, please have a look at : <a href="http://subtlegopala.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a><br />
+                                If you would like to know the internals of  how products work, please have a look at : <a href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx">How Products Work</a>
+                                <br />
+                                If you would like to know the technologies used in any website, please have a look at : <a href="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
+
+
                                 <br />
 
 
@@ -194,22 +198,25 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style ="font-size:medium";>
+                                <p style="font-size: medium">
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
                                     Indoor Asset Tracker provides location based visualization, reporting and management for all classes of assets
                                     in indoor locations like mines, buildings and warehouses. It enables the enrolment of tags and assets into the system, inclusion
                                     of maps and floor plans, reporting of current and historical data.<br />
-                                    Some typlical applications of Indoor Asset Tracker include:<br /><br />
-                                    •	Healthcare - Locate and track patients, equipment like scanner machines  <br />
+                                    Some typlical applications of Indoor Asset Tracker include:<br />
+                                    <br />
+                                    •	Healthcare - Locate and track patients, equipment like scanner machines 
+                                    <br />
                                     •	Mines - Locate and track miners, equipment like crushers. Get alerts during man down situations.Track temperature & humidity 
                                        levels at various mining &nbsp &nbsp zones to ensure safety of miners.Ensure smooth rescue operations and providing exact location of personnel
                                     in the emergency zones<br />
                                     •	Airports - Locate and track ground staff, equipment like trolleys, terminal buses.Locatenearest medical assistance equipment such as wheelchairs<br />
                                     •	Warehouses - Locate and track ground staff, equipment like trolleys.Reduce inaccurate floor inventories, reduce order-time-to-delivery and prevent 
-                                    &nbsp &nbsp &nbsp &nbsp &nbsp costly assembly line stoppages due to unavailable inventories<br /><br />
-                                    
+                                    &nbsp &nbsp &nbsp &nbsp &nbsp costly assembly line stoppages due to unavailable inventories<br />
+                                    <br />
+
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
@@ -226,11 +233,11 @@
 
 
 
-                                  
+
 
                                 </p>
                                 <!-- End -->
-                              
+
                                 <!-- Pick to Light -->
                                 <div class="container">
                                     <div class="grid no-margin">
@@ -248,34 +255,37 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style ="font-size:medium";>
+                                <p style="font-size: medium">
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
-                                     Pick to Light is the most flexible and powerful  light directed system used for accurate and fast picking of assets in a warehouse.<br />
-                                     Some typlical benefits of Pick to Light include:<br /><br />
-                                     •	Increases Productivity - Increases the productivity of the picker by reducing the time spent walking between warehouse racks<br />
-                                     •	Reduces Errors - removes the pick errors associated with reading paper pick lists<br />
-                                     •	Language agonistic - Picker doesn't need to know any language to read the pick lists<br />
-                                     •	No Training Required - companies can use temporary labor during busy seasons to perform picking operations with limited training requirements<br />
-                                     •	Provides Analytics - Provides real-time statistics on picker productivity <br /><br />
+                                    Pick to Light is the most flexible and powerful  light directed system used for accurate and fast picking of assets in a warehouse.<br />
+                                    Some typlical benefits of Pick to Light include:<br />
+                                    <br />
+                                    •	Increases Productivity - Increases the productivity of the picker by reducing the time spent walking between warehouse racks<br />
+                                    •	Reduces Errors - removes the pick errors associated with reading paper pick lists<br />
+                                    •	Language agonistic - Picker doesn't need to know any language to read the pick lists<br />
+                                    •	No Training Required - companies can use temporary labor during busy seasons to perform picking operations with limited training requirements<br />
+                                    •	Provides Analytics - Provides real-time statistics on picker productivity
+                                    <br />
+                                    <br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
 
 
-                                     <img src="../../images/Productpage/ptl1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/Productpage/ptl1.jpg" class="margin15 nlm ntm size7">
                                     <img src="../../images/Productpage/ptl2.jpg" class="margin15 nlm ntm size7">
                                     <br />
                                     <br />
 
 
-                                   
+
                                 </p>
                                 <!-- End -->
 
-                                  <!-- Indoor Navigation-->
-                                
+                                <!-- Indoor Navigation-->
+
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
@@ -292,20 +302,23 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style ="font-size:medium";>
+                                <p style="font-size: medium">
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
 
                                     Indoor navigation provides the shortest path to navigate in indoor locations like buildings and warehouses.
                                     Because GPS reception is normally non-existent inside buildings, other positioning technologies like WiFi, BLE are used 
-                                    create a so-called "indoor GPS".  Indoor navigation with Wi-Fi has an accuracy of 5-15 meters.<br/><br />
-                                    Some typlical applications of Indoor navigation app include:<br /><br />
-                                     •	Warehouses - Picking operations in large warehouses<br />
-                                     •	Musems - Guided tour to places of interest<br />
-                                     •	Shopping malls - View current location and reach sopping destination from current location
+                                    create a so-called "indoor GPS".  Indoor navigation with Wi-Fi has an accuracy of 5-15 meters.<br />
+                                    <br />
+                                    Some typlical applications of Indoor navigation app include:<br />
+                                    <br />
+                                    •	Warehouses - Picking operations in large warehouses<br />
+                                    •	Musems - Guided tour to places of interest<br />
+                                    •	Shopping malls - View current location and reach sopping destination from current location
                                     
-                                    <br /><br />
+                                    <br />
+                                    <br />
 
 
 
@@ -313,16 +326,16 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
-                                     <img src="../../images/Productpage/inav1.jpg" class="margin20 nlm ntm size4">
+                                    <img src="../../images/Productpage/inav1.jpg" class="margin20 nlm ntm size4">
                                     <img src="../../images/Productpage/inav2.jpg" class="margin20 nlm ntm size4">
                                     <br />
                                     <br />
 
 
-                                   
+
 
                                 </p>
-                                
+
                                 <!-- End -->
 
                                 <!--Order Allocation-->
@@ -342,13 +355,15 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style ="font-size:medium";>
+                                <p style="font-size: medium">
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
 
                                     Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Order Allocation System" at the backend. 
-                                    Executed complete e-commerce webstore for the client FabIndia including  "Order Allocation System" and "Rules Engine" <br /><br />
+                                    Executed complete e-commerce webstore for the client FabIndia including  "Order Allocation System" and "Rules Engine"
+                                    <br />
+                                    <br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
@@ -361,7 +376,7 @@
                                     <br />
 
 
-                                    
+
 
 
                                 </p>
@@ -383,13 +398,15 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style ="font-size:medium";>
+                                <p style="font-size: medium">
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
 
                                     Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Courier Allocation System" at the backend. 
-                                    Executed complete e-commerce webstore for the client FabIndia including "Courier Allocation System" and "Rules Engine" <br /><br />
+                                    Executed complete e-commerce webstore for the client FabIndia including "Courier Allocation System" and "Rules Engine"
+                                    <br />
+                                    <br />
 
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
@@ -400,7 +417,7 @@
                                     <br />
                                     <br />
 
-                                    
+
                                 </p>
                                 <!-- End -->
 
@@ -409,7 +426,7 @@
 
 
 
-                            
+
                             <div class="tile-content ">
                                 <div class="panel no-border text-justify">
                                     <div class="panel-header bg-blue fg-white text-center text-shadow">My Professional Hangouts</div>
@@ -438,57 +455,68 @@
                                             <img src="../../images/hsw.png" /></a>
                                     </div>
 
-                                    <br /><br />                                    <br /><br />
-                                    <br /><br />
-                                    <br /><br />
-                                    <br /><br />                                    <br /><br />
-                                                                        
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
 
-                                    
-                                    <hr style="border:0px;border-top:2px  solid gray;" />
-
-                                    
 
 
-                                    <div class="row k-align-right" >
-                                    <div class="fb-like"
-                                        data-href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
-                                        data-layout="standard"
-                                        data-action="like"
-                                        data-show-faces="true"
-                                        data-share="true"
+                                    <hr style="border: 0px; border-top: 2px  solid gray;" />
+
+
+
+
+                                    <div class="row">
+                                        <%--<div class="fb-save"
+                                        data-uri="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
                                         data-size="large">
+                                    </div>--%>
+                                        <div class="fb-like"
+                                            data-href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
+                                            data-layout="standard"
+                                            data-action="like"
+                                            data-show-faces="false"
+                                            data-share="true"
+                                            data-size="large">
+                                        </div>
+                                        <div class="fb-comments"
+                                            data-href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
+                                            data-numposts="5"
+                                            data-width="100px">
+                                        </div>
+
+                                        <script>(function (d, s, id) {
+                                                    var js, fjs = d.getElementsByTagName(s)[0];
+                                                    if (d.getElementById(id)) return;
+                                                    js = d.createElement(s); js.id = id;
+                                                    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+                                                    fjs.parentNode.insertBefore(js, fjs);
+                                                }(document, 'script', 'facebook-jssdk'));
+                                        </script>
+
+
+
+
                                     </div>
-                                    <div class="fb-comments"
-                                        data-href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
-                                        data-numposts="5"
-                                        data-width="100px">
-                                    </div>
-
-                                    <script>(function (d, s, id) {
-                                                var js, fjs = d.getElementsByTagName(s)[0];
-                                                if (d.getElementById(id)) return;
-                                                js = d.createElement(s); js.id = id;
-                                                js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-                                                fjs.parentNode.insertBefore(js, fjs);
-                                            }(document, 'script', 'facebook-jssdk'));
-                                    </script>
-
-
                                 </div>
 
-
-                                </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
 
-
             </div>
         </div>
-</div>
+    </div>
 
     <script src="js/hitua.js"></script>
 </asp:Content>
