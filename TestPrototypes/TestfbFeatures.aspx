@@ -11,7 +11,7 @@
                             <div class="grid no-margin">
                                 <div class="row">
 
-
+                                    
                                     <div class="fb-save"
                                         data-uri="http://subtlegopala.com/TestPrototypes/TestfbFeatures.aspx"
                                         data-size="large">
@@ -24,14 +24,14 @@
                                         data-share="true"
                                         data-size="large">
                                     </div>
-                                    
+
                                     <div class="fb-comments"
                                         data-href="http://subtlegopala.com/TestPrototypes/TestfbFeatures.aspx"
                                         data-numposts="5"
                                         data-width="100px">
                                     </div>
 
-                                    
+
 
                                     <script>(function (d, s, id) {
                                             var js, fjs = d.getElementsByTagName(s)[0];
