@@ -36,7 +36,6 @@ public partial class PitchDecks : System.Web.UI.Page
         PitchDeck p11 = new PitchDeck { ImgUrl = "../../images/PitchDecks/castle.jpeg", LinkUrl = "../../docs/PitchDecks/castle.pdf" };
         PitchDeck p12 = new PitchDeck { ImgUrl = "../../images/PitchDecks/buffer.jpeg", LinkUrl = " ../../docs/PitchDecks/buffer.pdf" };
         PitchDeck p13 = new PitchDeck { ImgUrl = "../../images/PitchDecks/fittr.jpeg", LinkUrl = "../../docs/PitchDecks/fittr.pdf" };
-
         PitchDeck p14 = new PitchDeck { ImgUrl = "../../images/PitchDecks/mixpanel.jpeg", LinkUrl = " ../../docs/PitchDecks/mixpanel.pdf" };
         PitchDeck p15 = new PitchDeck { ImgUrl = "../../images/PitchDecks/launchrock.jpeg", LinkUrl = "../../docs/PitchDecks/launchrock.pdf" };
 
@@ -55,11 +54,8 @@ public partial class PitchDecks : System.Web.UI.Page
         PitchDeck p26 = new PitchDeck { ImgUrl = "../../images/PitchDecks/intercom.jpeg", LinkUrl = " ../../docs/PitchDecks/intercom.pdf" };
         PitchDeck p27 = new PitchDeck { ImgUrl = "../../images/PitchDecks/ooomf.jpeg", LinkUrl = " ../../docs/PitchDecks/ooomf.pdf" };
         PitchDeck p28 = new PitchDeck { ImgUrl = "../../images/PitchDecks/flowtab.jpeg", LinkUrl = " ../../docs/PitchDecks/flowtab.pdf" };
-        PitchDeck p29 = new PitchDeck { ImgUrl = "../../images/PitchDecks/mapme.jpeg", LinkUrl = "../../docs/PitchDecks/mapme.pdf" };
-        PitchDeck p30 = new PitchDeck { ImgUrl = "../../images/PitchDecks/podozi.jpeg", LinkUrl = "../../docs/PitchDecks/podozi.pdf" };
-
-
-
+        PitchDeck p29 = new PitchDeck { ImgUrl = "../../images/PitchDecks/fynd.jpeg", LinkUrl = " ../../docs/PitchDecks/fynd.pdf" };
+        PitchDeck p30 = new PitchDeck { ImgUrl = "../../images/PitchDecks/mattermark.jpeg", LinkUrl = " ../../docs/PitchDecks/mattermark.pdf" };
 
         PitchDeck p31 = new PitchDeck { ImgUrl = "../../images/PitchDecks/urjakart.jpeg", LinkUrl = " ../../docs/PitchDecks/urjakart.pdf" };
         PitchDeck p32 = new PitchDeck { ImgUrl = "../../images/PitchDecks/foursquare.jpeg", LinkUrl = "../../docs/PitchDecks/foursquare.pdf" };
@@ -69,9 +65,9 @@ public partial class PitchDecks : System.Web.UI.Page
 
         PitchDeck p36 = new PitchDeck { ImgUrl = "../../images/PitchDecks/pendo.jpeg", LinkUrl = "../../docs/PitchDecks/pendo.pdf" };
         PitchDeck p37 = new PitchDeck { ImgUrl = "../../images/PitchDecks/locussh.jpeg", LinkUrl = "../../docs/PitchDecks/locussh.pdf" };
-        PitchDeck p38 = new PitchDeck { ImgUrl = "../../images/PitchDecks/fynd.jpeg", LinkUrl = " ../../docs/PitchDecks/fynd.pdf" };
-        PitchDeck p39 = new PitchDeck { ImgUrl = "../../images/PitchDecks/front.jpeg", LinkUrl = "../../docs/PitchDecks/front.pdf" };
-        PitchDeck p40 = new PitchDeck { ImgUrl = "../../images/PitchDecks/mattermark.jpeg", LinkUrl = " ../../docs/PitchDecks/mattermark.pdf" };
+        PitchDeck p38 = new PitchDeck { ImgUrl = "../../images/PitchDecks/front.jpeg", LinkUrl = "../../docs/PitchDecks/front.pdf" };
+        PitchDeck p39 = new PitchDeck { ImgUrl = "../../images/PitchDecks/mapme.jpeg", LinkUrl = "../../docs/PitchDecks/mapme.pdf" };
+        PitchDeck p40 = new PitchDeck { ImgUrl = "../../images/PitchDecks/podozi.jpeg", LinkUrl = "../../docs/PitchDecks/podozi.pdf" };
 
         PitchDeck p41 = new PitchDeck { ImgUrl = "../../images/PitchDecks/adpushup.jpeg", LinkUrl = " ../../docs/PitchDecks/adpushup.pdf" };
         PitchDeck p42 = new PitchDeck { ImgUrl = "../../images/PitchDecks/wealthsimple.jpeg", LinkUrl = " ../../docs/PitchDecks/wealthsimple.pdf" };
