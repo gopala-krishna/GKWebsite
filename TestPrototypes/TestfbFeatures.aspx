@@ -1,23 +1,20 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/MasterPage.master" CodeFile="TestfbFeatures.aspx.cs" Inherits="TestfbFeatures" Culture="auto" meta:resourcekey="PageResource1" UICulture="auto" %>
 
 <asp:Content ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-  <hr style="border: 0px; border-top: 2px  solid gray;" />
+    <hr style="border: 0px; border-top: 2px  solid gray;" />
 
-    <div class="bg-white">
-        <div class="container">
-            <div class="row">
-                <div class="span12 padding20">
-                    <div class="tile-content">
-                        <div class="panel no-border">
+    
 
-
-
-                            <div class="grid no-margin">
+    <%-- This is working fb plugin --%>
+    <div class="grid no-margin">
                                 <div class="row">
 
+                                     <div class="span1 no-tablet-portrait no-phone">
+                                        <div class="notice marker-on-right bg-white padding1 text-center" style="height: 1px">
+                                        </div>
+                                    </div>
 
 
-                                   
                                     <div class="accordion with-marker span12  place-right" data-role="accordion" data-closeany="false">
 
                                         <div class="accordion-frame active ">
@@ -62,13 +59,7 @@
                                 </div>
                             </div>
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+                        
 
 
     <script src="js/hitua.js"></script>

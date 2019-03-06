@@ -129,6 +129,8 @@
                             </style>
 
                         </div>
+
+
                         <div class="grid no-margin">
                             <div class="row">
 
@@ -137,16 +139,16 @@
                                     </div>
                                 </div>
 
-                                <div class="accordion with-marker span12  place-right   "data-role="accordion" data-closeany="false">
+                                <div class="accordion with-marker span12  place-right   " data-role="accordion" data-closeany="false">
 
                                     <div class="accordion-frame active ">
-                                       
+
                                         <div class="fb-save"
-                                            data-uri="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx"
+                                            data-uri="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx"
                                             data-size="large">
                                         </div>
                                         <div class="fb-like"
-                                            data-href="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx"
+                                            data-href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx"
                                             data-layout="standard"
                                             data-action="like"
                                             data-show-faces="false"
@@ -155,7 +157,7 @@
                                         </div>
 
                                         <div class="fb-comments"
-                                            data-href="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx"
+                                            data-href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx"
                                             data-numposts="5"
                                             data-width="200px">
                                         </div>

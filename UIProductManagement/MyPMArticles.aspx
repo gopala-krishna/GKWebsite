@@ -108,20 +108,19 @@
                         </div>--%>
 
                         <div class="bg-white">
-        <div class="container">
-            <div class="row">
-                <div class="span12 padding20">
-                    <div class="tile-content">
-                        <div class="panel no-border">
 
 
 
                             <div class="grid no-margin">
                                 <div class="row">
 
+                                    <div class="span1 no-tablet-portrait no-phone">
+                                        <div class="notice marker-on-right bg-white padding1 text-center" style="height: 1px">
+                                        </div>
+                                    </div>
 
 
-                                   
+
                                     <div class="accordion with-marker span12  place-right" data-role="accordion" data-closeany="false">
 
                                         <div class="accordion-frame active ">
@@ -173,11 +172,7 @@
         </div>
     </div>
 
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
 
 
 </asp:Content>
