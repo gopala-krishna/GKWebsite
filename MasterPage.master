@@ -136,7 +136,7 @@
                          <li>
                             <a href="#" class="dropdown-toggle">A.R.Rehman</a>
                             <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                            <li><a href="" style ="color: gray">About A.R Rehman</a></li>
+                            <li><a href="http://www.arrahman.com/">About A.R Rehman</a></li>
                             <li><a href="../../../UIMusic/ARRehman/BackgroundScores.aspx">Background Scores</a></li>
                                 <li><a href="" style ="color: gray">Interesing Songs</a></li>
                                 <li><a href="" style ="color: gray">Favorite Links</a></li>
