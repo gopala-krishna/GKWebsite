@@ -93,11 +93,9 @@
 
 
                             </div>
-
-                            <br />
-
-                            <p style="font-size: medium">
-                                Work-afrolic product leader. Entrepreneur. Growth hacker. Curiosity is my biggest strength. Ability to produce interesting data through research is my biggest capability.
+                            
+                            <p style="font-size: medium"; >
+                                Work-afrolic product leader.Entrepreneur.Growth hacker.Curiosity is my biggest strength. Ability to produce interesting data through research is my biggest capability.
                                 <br />
                                 <br />
 
