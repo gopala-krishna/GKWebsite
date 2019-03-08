@@ -129,7 +129,7 @@
                             <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                 <li><a href="../../../UIMusic/Ilaiyaraja/AboutIlaiyaraja.aspx">About Ilaiyaraja</a></li>
                                 <li><a href="../../../UIMusic/Ilaiyaraja/BackgroundScores.aspx">Background Scores</a></li>
-                                <li><a href="" style ="color: gray">Interesing Songs</a></li>
+                                <li><a href="../../../UIMusic/Ilaiyaraja/InterestingSongs.aspx">Interesing Songs</a></li>
                                 <li><a href="" style ="color: gray">Favorite Links</a></li>
                             </ul>
                         </li>
@@ -138,7 +138,7 @@
                             <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                             <li><a href="http://www.arrahman.com/">About A.R Rehman</a></li>
                             <li><a href="../../../UIMusic/ARRehman/BackgroundScores.aspx">Background Scores</a></li>
-                                <li><a href="" style ="color: gray">Interesing Songs</a></li>
+                                <li><a href="../../../UIMusic/ARRehman/InterestingSongs.aspx">Interesting Songs</a></li>
                                 <li><a href="" style ="color: gray">Favorite Links</a></li>
                             </ul>
                         </li>
