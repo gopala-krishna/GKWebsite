@@ -16,6 +16,7 @@
             $("#main").height(sidebarHeight);
         }
 
+
         $(function () {
             if (kendo.support.mobileOS) {
                 $(document.documentElement).addClass("k-hover-enabled");
