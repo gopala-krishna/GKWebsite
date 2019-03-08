@@ -37,7 +37,7 @@
 <script type="text/x-kendo-template" id="template">
 <div class="product">
     <img src='#:BookImageUrl#' onclick ="javascript:location.href='#=BookUrl#'"/>
-    <h3>#:BookTitle#</h3>
+    <%--<h3>#:BookTitle#</h3>--%>
 </div>
 </script>
 
@@ -81,15 +81,15 @@
 .product {
     float: left;
     position: relative;
-    width: 201px;
-    height: 220px;
+    width: 100px;
+    height: 150px;
     margin: 0 10px;
     padding: 0;
 }
 
     .product img {
-        width: 120px;
-        height: 120px;
+        width: 100px;
+        height: 150px;
     }
 
     .product h3 {

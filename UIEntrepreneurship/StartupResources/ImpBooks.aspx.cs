@@ -27,6 +27,7 @@ public partial class ImpBooks : System.Web.UI.Page
     {
             List<Book> bookList = new List<Book>();
             string url = "http://www.subtlegopala.com/docs/Entrepreneurship/Books/";
+            string imageurl = "http://www.subtlegopala.com/images/Entrepreneurship/Books/";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
@@ -44,6 +45,7 @@ public partial class ImpBooks : System.Web.UI.Page
                             string title = matches[i].Groups["1"].ToString().Trim();
                             book.BookTitle = title.Remove(title.Length - 4, 4);
                             book.BookUrl = url + matches[i].Groups["1"].ToString();
+                            book.BookImageUrl = imageurl+book.BookTitle + ".jpeg";
                             bookList.Add(book);
                         }
                     }
@@ -60,4 +62,5 @@ public class Book
 {
     public string BookTitle { get; set; }
     public object BookUrl { get; set; }
+    public object BookImageUrl { get; set; }
 }

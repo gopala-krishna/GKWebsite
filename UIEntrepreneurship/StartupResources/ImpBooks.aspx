@@ -36,8 +36,8 @@
     
 <script type="text/x-kendo-template" id="template">
 <div class="product">
-    <img src="../../images/pdficon.jpg" onclick ="javascript:location.href='#=BookUrl#'"/>
-    <h3>#:BookTitle#</h3>
+    <img src='#:BookImageUrl#' onclick ="javascript:location.href='#=BookUrl#'"/>
+<%--    <h3>#:BookTitle#</h3>--%>
 </div>
 </script>
 
@@ -61,7 +61,7 @@
                 });
                 $("#listView").kendoListView({
                     dataSource: dataSource,
-                    //template: '<img src="#=ImgUrl#"/>'
+                    //template: '<img src="#=BookImageUrl#"/>'
                     template: kendo.template($("#template").html())
                 });
             }
@@ -81,15 +81,15 @@
 .product {
     float: left;
     position: relative;
-    width: 201px;
-    height: 220px;
+    width: 100px;
+    height: 150px;
     margin: 0 10px;
     padding: 0;
 }
 
     .product img {
-        width: 120px;
-        height: 120px;
+        width: 100px;
+        height: 150px;
     }
 
     .product h3 {
