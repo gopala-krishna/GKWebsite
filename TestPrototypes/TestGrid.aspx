@@ -50,7 +50,6 @@
 
                                     var params = {};
                                     params.folderName = JSON.stringify(strLabelText);
-
                                     $.ajax({
                                         type: "post",
                                         url: "TestGrid.aspx/GetPlaylist",
