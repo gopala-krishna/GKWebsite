@@ -170,7 +170,7 @@
                                 <li><a href="../docs/Technology/Algorithms/AlgorithmsDesign.pdf">Getting Started</a></li>
                                 <li><a href="../docs/Technology/Algorithms/Algorithms.zip">C# Code</a></li>
                                 <li><a href="../../../UITechnology/Algorithms/AlgorithmsImpBooks.aspx">Books</a></li>
-                                <li><a href="" style ="color: gray">Favorite Links</a></li>
+<%--                                <li><a href="" style ="color: gray">Favorite Links</a></li>--%>
                             </ul>
                         </li>
 
