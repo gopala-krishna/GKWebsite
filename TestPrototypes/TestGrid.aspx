@@ -8,7 +8,6 @@
                 <div class="span16 padding10">
                     <div class="tile-content">
                         <div class="panel no-border">
-                            <div class="panel-header bg-blue fg-white text-center">Background scores of A R Rehman</div>
 
 
 
