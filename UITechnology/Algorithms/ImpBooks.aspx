@@ -18,7 +18,7 @@
                         <div class="span16">
                             <div class="tile-content">
                                 <div class="panel no-border">
-                                    <div class="panel-header bg-blue fg-white text-center">Must Read Books For Entrepreneurs</div>
+                                    <div class="panel-header bg-blue fg-white text-center">Must read books on Algorithms</div>
 
                                    
 
