@@ -62,7 +62,7 @@
                                                 <div class="accordion-frame" >
                                                     <a class="heading">Masoom(Hindi)</a>
                                                     <div class="content" >
-                                                        <iframe width="640" height="480"src="//www.youtube.com/embed/wtYbqMfEBB0"></iframe>
+                                                        <iframe width="640" height="480"src="//www.youtube.com/embed/g8KyTfOJ8Ww"></iframe>
                                                     </div>
                                                 </div>
 
@@ -83,21 +83,21 @@
                                                 <div class="accordion-frame" >
                                                     <a class="heading">Nuvvu naaku nachav (Telugu)</a>
                                                     <div class="content" >
-                                                        <iframe width="640" height="480"src="//www.youtube.com/embed/yEcrfM8DaSQ"></iframe>
+                                                        <iframe width="640" height="480"src="//www.youtube.com/embed/0okvuSD0avo"></iframe>
                                                     </div>
                                                 </div>
                                                
                                                 <div class="accordion-frame" >
                                                     <a class="heading">A Walk to Remember ( English)</a>
                                                     <div class="content" >
-                                                        <iframe width="640" height="480"src="//www.youtube.com/embed/9xEBc8MtmOc"></iframe>
+                                                        <iframe width="640" height="480"src="//www.youtube.com/embed/4E4BMn29rvc"></iframe>
                                                     </div>
                                                 </div>
 
                                                 <div class="accordion-frame" >
                                                     <a class="heading">If Only ( English)</a>
                                                     <div class="content" >
-                                                        <iframe width="640" height="480"src="//www.youtube.com/embed/dO4DQuooKMk"></iframe>
+                                                        <iframe width="640" height="480"src="//www.youtube.com/embed/cvXsvCCVCp4"></iframe>
                                                     </div>
                                                 </div>
                                                </div>
@@ -119,7 +119,7 @@
                                                             <div class="accordion-frame" >
                                                                 <a class="heading">Sumam prati sumam sumam.. (illayaraja's song from Maharshi)</a>
                                                                 <div class="content" >
-                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/mKPtLWCZVuY"></iframe>
+                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/QHsfGhOqo5c"></iframe>
                                                                 </div>
                                                             </div>
 
@@ -168,7 +168,7 @@
                                                             <div class="accordion-frame" >
                                                                 <a class="heading">Oo papa laali.... (illayaraja's song from Geethanjali)</a>
                                                                 <div class="content" >
-                                                                    <%--<iframe width="640" height="480"src="//www.youtube.com/embed/qWhWjiknKWk"></iframe>--%>
+                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/KeY7lvwF3Jg"></iframe>
                                                                 </div>
                                                             </div>
 
@@ -182,14 +182,14 @@
                                                             <div class="accordion-frame" >
                                                                 <a class="heading">Saagar Kinare ...(R.D Burman's song from Saagar(Hindi))</a>
                                                                 <div class="content" >
-                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/oFWmYPJ_Syc"></iframe>
+                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/kNWf0fI0drQ"></iframe>
                                                                 </div>
                                                             </div>
 
                                                             <div class="accordion-frame" >
                                                                 <a class="heading">Humein aur jeene ki...(R.D Burman's song from Agar tum na hote(Hindi)</a>
                                                                 <div class="content" >
-                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/QYLmayyJNuk"></iframe>
+                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/YAu89hp6JVA"></iframe>
                                                                 </div>
                                                             </div>
 
@@ -203,14 +203,14 @@
                                                             <div class="accordion-frame" >
                                                                 <a class="heading">Nee navvu cheppindi naatho(R.D.Burman's song from Antham, especially i like the lyrics of this song)</a>
                                                                 <div class="content" >
-                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/qx79YuKuaW0"></iframe>
+                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/DhkHFd_m32U"></iframe>
                                                                 </div>
                                                             </div>
 
                                                             <div class="accordion-frame" >
                                                                 <a class="heading">Ghallu ghalluna..(O.P .Nayyr's song from Neerajanam)</a>
                                                                 <div class="content" >
-                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/Inbrfl9zBM"></iframe>
+                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/rUokj0aorg4"></iframe>
                                                                 </div>
                                                             </div>
 
@@ -224,14 +224,14 @@
                                                             <div class="accordion-frame" >
                                                                 <a class="heading">Nuvvena.....(Radhakrishnan's song from Anand)</a>
                                                                 <div class="content" >
-                                                                    <%--<iframe width="640" height="480"src="//www.youtube.com/embed/cg_UoCUvSos"></iframe>--%>
+                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/mKaiW7uLHqw"></iframe>
                                                                 </div>
                                                             </div>
 
                                                             <div class="accordion-frame" >
                                                                 <a class="heading">Hoton se choo lo tum (R.D Burman's song form Premgeet)</a>
                                                                 <div class="content" >
-                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/J8MvrqATvZM"></iframe>
+                                                                    <iframe width="640" height="480"src="//www.youtube.com/embed/7T7iE9eZJKE"></iframe>
                                                                 </div>
                                                             </div>
 
