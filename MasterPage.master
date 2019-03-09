@@ -86,13 +86,13 @@
                             <li>
                                 <a href="#" class="dropdown-toggle">Interesting Facts</a>
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                                    <li><a href="../../../UIInterestingStuff/InterstingFacts/InterestingScienceFacts.aspx">Interesting Science Facts</a></li>
+                                    <li><a href="../../../UIInterestingStuff/InterstingFacts/InterestingScienceFacts.aspx">Interesting Facts</a></li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="#" class="dropdown-toggle">Interesting Optical Illusions</a>
+                                <a href="#" class="dropdown-toggle">Interesting Illusions</a>
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                                    <li><a href="../../../UIInterestingStuff/InterestingOpticalIllusions/InterestingOpticalIllusions.aspx">Can We Believe Our Eyes?</a></li>
+                                    <li><a href="../../../UIInterestingStuff/InterestingOpticalIllusions/InterestingOpticalIllusions.aspx">Optical Illusions</a></li>
                                 </ul>
                             </li>
                             <li>
@@ -144,7 +144,7 @@
                             </li>
 
                             <li>
-                                <a href="#" class="dropdown-toggle">Classical Era Composers</a>
+                                <a href="#" class="dropdown-toggle">Classical Era</a>
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                     <li><a href="../../../UIMusic/ClassicalEraComposers/BackgroundScores.aspx">Background Scores</a></li>
                                 </ul>
@@ -242,7 +242,7 @@
                                     <li>
                                         <a href="../../../UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Search</a>
                                     </li>
-                                    <li>
+                                    <%--<li>
                                         <a href="#" class="dropdown-toggle">Android</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                             <li><a href="../../../UITechnology/OpenSource/Linux/LinuxBasics.aspx">LinuxBasics</a></li>
@@ -262,7 +262,7 @@
                                             <li><a href="../../../UITechnology/OpenSource/Linux/LinuxBasics.aspx">LinuxBasics</a></li>
                                             <li></li>
                                         </ul>
-                                    </li>
+                                    </li>--%>
                                 </ul>
                             </li>
 
@@ -271,20 +271,17 @@
 
                             <li>
                                 <a href="#" class="dropdown-toggle">Hacking</a>
-                                <%--  <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                            <li>
-                                  <a href="#" class="dropdown-toggle">Linux</a>
-                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                                            <li><a href="../../../UITechnology/OpenSource/Linux/LinuxBasics.aspx">LinuxBasics</a></li>
-                                            <li></li>
-                                         </ul>
-                         </li>
-                        </ul>--%>
+                                <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                    <li>
+                                        <a href="http://subtlegopala.com/docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
+                                    </li>
+                                </ul>
                             </li>
 
-                            <li>
+
+                            <%--<li>
                                 <a href="#" class="dropdown-toggle">Databases</a>
-                                <%-- <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                             <li>
                                   <a href="#" class="dropdown-toggle">Linux</a>
                                          <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
@@ -292,12 +289,12 @@
                                             <li></li>
                                          </ul>
                          </li>
-                        </ul>--%>
-                            </li>
+                        </ul>
+                            </li>--%>
 
-                            <li>
+                            <%--<li>
                                 <a href="#" class="dropdown-toggle">Tools</a>
-                                <%--<ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                             <li>
                                   <a href="#" class="dropdown-toggle">Linux</a>
                                          <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
@@ -305,12 +302,12 @@
                                             <li></li>
                                          </ul>
                          </li>
-                        </ul>--%>
-                            </li>
+                        </ul>
+                            </li>--%>
 
-                            <li>
+                            <%--<li>
                                 <a href="#" class="dropdown-toggle">Blogs</a>
-                                <%-- <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                             <li>
                                   <a href="#" class="dropdown-toggle">Linux</a>
                                          <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
@@ -318,10 +315,8 @@
                                             <li></li>
                                          </ul>
                          </li>
-                        </ul>--%>
-                            </li>
-
-
+                        </ul>
+                            </li>--%>
                         </ul>
 
                     </li>
