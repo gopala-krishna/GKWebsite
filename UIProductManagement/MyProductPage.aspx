@@ -129,7 +129,7 @@
                                 <b>Technology:</b><br />
                                 <br />
                                 I have good understanding on:<br />
-                                Scaling the systems from 100 users to 1M users and deigning the systems for availability or consistency.Evaluating technical possibilities and trade-offs.
+                                Scaling the systems from 100 users to 1M users and designing the systems for availability or consistency.Evaluating technical possibilities and trade-offs.
                                 <br />
                                 <br />
 
