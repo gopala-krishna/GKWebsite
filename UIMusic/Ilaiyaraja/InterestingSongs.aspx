@@ -66,7 +66,7 @@
                                                     numeric: false
                                                 },
                                                 columns: [
-                                                    { field: "SongTitle", title: "Interesting Song" },
+                                                    { field: "SongTitle", title: "Song" },
                                                     {
                                                         field: "Play", titile: "Play", template: '<audio controls><source src="#=DownloadUrl#">#=SongTitle#</audio>'
                                                     },

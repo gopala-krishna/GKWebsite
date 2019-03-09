@@ -22,11 +22,14 @@
 
     <link href="css/gridstyle/kendo.common.min.css" rel="stylesheet">
     <link href="css/gridstyle/kendo.default.min.css" rel="stylesheet">
-    <link href="css/gridstyle/kendo.rtl.min.css" rel="stylesheet">
-    <link href="css/gridstyle/kendo.default.min.css" rel="stylesheet">
-    <link href="css/gridstyle/kendo.dataviz.min.css" rel="stylesheet">
-    <link href="css/gridstyle/kendo.dataviz.default.min.css" rel="stylesheet">
-
+    <%--    <link href="css/gridstyle/kendo.rtl.min.css" rel="stylesheet">--%>
+    <%--<link href="css/gridstyle/kendo.dataviz.min.css" rel="stylesheet">--%>
+    <%--    <link href="css/gridstyle/kendo.dataviz.default.min.css" rel="stylesheet">--%>
+    <%--    <link href="css/gridstyle/kendo.silver.min.css" rel="stylesheet">--%>
+    <%--<link href="css/gridstyle/kendo.bootstrap.min.css" rel="stylesheet">--%>
+    <link href="css/gridstyle/sprite.png" rel="icon">
+   
+    
 
 
     <!-- Load JavaScript Libraries -->
@@ -421,7 +424,7 @@
                             <a class="icon-phone on-right on-left" href="tel:918978556611" style="background: orange; color: white; padding: 10px; border-radius: 50%"></a>
                             <a class="icon-mail on-right on-left" href="mailto:gopala.krishna@outlook.com" style="background: green; color: white; padding: 10px; border-radius: 50%"></a>
                             <a class="icon-location on-right on-left" href="https://www.google.co.in/maps/place/Hyderabad" style="background: yellow; color: white; padding: 10px; border-radius: 50%"></a>
-                            <a class="icon-skype on-right on-left" href="skype:gopala.krishna_1" style="background: skyblue; color: white; padding: 10px; border-radius: 50%"></a>
+                            <a class="icon-skype on-right on-left" href="skype:gopala.krishna_1" style="background:skyblue; color:white; padding: 10px; border-radius: 50%"></a>
 
                             <h3 class="fg-white text-shadow">Like & Share</h3>
                             <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsubtlegopala.com%2F&amp;width=200&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 200px; height: 21px;" allowtransparency="true"></iframe>
