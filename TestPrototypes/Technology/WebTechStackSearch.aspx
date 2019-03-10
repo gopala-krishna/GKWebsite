@@ -27,6 +27,7 @@
     <link href="../../css/webtechstacksearch/netcraft.css" rel="stylesheet" type="text/css" />
     <link href="../../css/webtechstacksearch/builtwith1.css" rel="stylesheet" type="text/css" />
     <link href="../../css/webtechstacksearch/builtwith2.css" rel="stylesheet" type="text/css" />
+    <link href="../../css/webtechstacksearch/similartech.css" rel="stylesheet" type="text/css" />
 
 
 
@@ -78,7 +79,7 @@
         </div>
 
 
-        <div class="panel  text-center">
+        <%--<div class="panel  text-center">
             <div class="grid">
                 <div class="row padding20">
 
@@ -91,7 +92,21 @@
                 </div>
             </div>
 
-        </div>
+        </div>--%>
+
+        <%--<div class="panel  text-center">
+            <div class="grid">
+                <div class="row padding20">
+
+                    <a class="button bg-teal fg-white text-center" style="width: 300px; margin-bottom: 10px">Netcraft Search Results</a><br />
+                    <br />
+                    <div>
+                        <asp:Literal runat="server" ID="litNetCraft"></asp:Literal>
+                    </div>
+
+                </div>
+            </div>
+        </div>--%>
 
         <div class="panel  text-center">
             <div class="grid">
@@ -100,7 +115,7 @@
                     <a class="button bg-teal fg-white text-center" style="width: 300px; margin-bottom: 10px">Netcraft Search Results</a><br />
                     <br />
                     <div>
-                        <asp:Literal runat="server" ID="litNetCraft"></asp:Literal>
+                        <asp:Literal runat="server" ID="litSimilarTech"></asp:Literal>
                     </div>
 
                 </div>
