@@ -34,10 +34,14 @@
                                 <br />
                                 <br />
 
-                                <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" style="font-size: x-large" onclick="ViewPlaylist(this)">Johann-Sebastian-Bach</a>
-                                <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" style="font-size: x-large" onclick="ViewPlaylist(this)">Beethoven</a>
-                                <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" style="font-size: x-large" onclick="ViewPlaylist(this)">Mozart</a>
-                                <a href="#" class="dropdown-toggle fg-blue no-marker text-shadow" style="font-size: x-large" onclick="ViewPlaylist(this)">Michael-Jackson</a>
+                                
+                                <img src="../../images/Music/JohannSebastianBach.jpeg" style="width:150px;height:120px" onclick="ViewPlaylist('Bach')"/>
+                                <img src="../../images/Music/Mozart.jpeg" style="width:150px;height:120px" onclick="ViewPlaylist('Mozart')"/>
+                                <img src="../../images/Music/Beethoven.jpeg" style="width:150px;height:120px" onclick="ViewPlaylist('Beethoven')"/>
+                                <img src="../../images/Music/Strauss.jpeg" style="width:150px;height:120px" onclick="ViewPlaylist('Strauss')"/>
+                                <img src="../../images/Music/Vivaldi.jpeg" style="width:150px;height:120px" onclick="ViewPlaylist('Vivaldi')"/>
+                                <img src="../../images/Music/MichaelJackson.jpeg" style="width:150px;height:120px" onclick="ViewPlaylist('MichaelJackson')"/>
+
 
                             </div>
                             <br />
@@ -163,8 +167,9 @@
 
                                     ViewPlaylist.textContent = "Playlist";
 
+
                                     var params = {};
-                                    params.folderName = JSON.stringify(strLabelText.innerHTML);
+                                    params.folderName = JSON.stringify(strLabelText);
                                     //if (jsonResult.BScores == null)
                                     //    alert("No Data");
                                     $.ajax({
@@ -199,7 +204,7 @@
                                                     numeric: false
                                                 },
                                                 columns: [
-                                                    { field: "Movie", title: " Movie" },
+                                                    { field: "Movie", title: " Composer" },
                                                     { field: "BScoreTitle", title: " Background Score" },
                                                     {
                                                         field: "Play", titile: "Play", template: '<audio controls><source src="#=DownloadUrl#">#=BScoreTitle#</audio>'
