@@ -309,6 +309,7 @@
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                     <%--<li><a href="" style = "color:gray">How To Start A Company</a></li>--%>
                                     <li><a href="http://www.subtlegopala.com/docs/Entrepreneurship/StartupGuide.pdf">Startup Guide</a></li>
+                                    <li><a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg">Stanford Lectures</a></li>
                                 </ul>
                             </li>
                             <li>

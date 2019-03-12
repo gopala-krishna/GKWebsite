@@ -95,6 +95,44 @@
                                 <br />
                             </p>
 
+                             <p>
+
+                                <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Bug Description</a><br />
+                                <br />
+                                Too much savings!!!!!!  Credits: <a href ="https://www.linkedin.com/in/aniruddhamalpani/">Anirudda Malpani</a>
+                                <br />
+                                <br />
+
+                                <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
+                                <br />
+
+
+
+                                <img src="../../images/Bugs/bug4-1.jpeg" class="margin15 nlm ntm size4">
+                                <br />
+                                <br />
+                            </p>
+
+                             <p>
+
+                                <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Bug Description</a><br />
+                                <br />
+                                Too much MRP!!!!!! Credits: <a href ="https://www.linkedin.com/in/sumeetkapur1/">Sumeet Kapur</a>
+                                <br />
+                                <br />
+
+                                <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
+                                <br />
+
+
+
+                                <img src="../../images/Bugs/bug5-1.jpeg" class="margin15 nlm ntm size10">
+                                <br />
+                                <br />
+                            </p>
+
+
+
 
 
                         </div>
