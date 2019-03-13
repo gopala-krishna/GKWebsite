@@ -222,14 +222,23 @@
                                 <a href="#" class="dropdown-toggle">Hacking</a>
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                     <li>
+                                        <a href="#" class="dropdown-toggle">Mac</a>
+                                        <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                            <li>
+                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/MacHackingUltimateGuide.pdf">Complete Guide</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/HackAMac.pdf">Hack a Mac</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
                                         <a href="http://subtlegopala.com/docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
                                     </li>
                                      <li>
                                         <a href="http://subtlegopala.com/docs/Technology/Hacking/MoviePiracy.pdf">Movie Piracy</a>
                                     </li>
-                                     <li>
-                                        <a href="http://subtlegopala.com/docs/Technology/Hacking/HackAMac.pdf">Hack a Mac</a>
-                                    </li>
+                                     
                                     <li>
                                         <a href="https://null-byte.wonderhowto.com/how-to/4-ways-crack-facebook-password-protect-yourself-from-them-0139532/">Hack Facebook</a>
                                     </li>
