@@ -53,7 +53,7 @@
                                                         <h3 class="fg-lightPink  ntm">92% users click on an item in the first page of Google search results</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm">Facebook uses around 100000 personalization facts</h3>
+                                                        <h3 class="fg-lightPink  ntm">Facebook uses around 100000 personalization factors</h3>
                                                     </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">72% of launched products fail</h3>
