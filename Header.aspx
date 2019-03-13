@@ -227,6 +227,12 @@
                                      <li>
                                         <a href="http://subtlegopala.com/docs/Technology/Hacking/MoviePiracy.pdf">Movie Piracy</a>
                                     </li>
+                                     <li>
+                                        <a href="http://subtlegopala.com/docs/Technology/Hacking/HackAMac.pdf">Hack a Mac</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://null-byte.wonderhowto.com/how-to/4-ways-crack-facebook-password-protect-yourself-from-them-0139532/">Hack Facebook</a>
+                                    </li>
                                 </ul>
                             </li>
 
