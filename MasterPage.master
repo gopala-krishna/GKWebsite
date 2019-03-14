@@ -59,7 +59,7 @@
     <form id="form1" runat="server">
         <div class="navigation-bar fixed-top dark">
             <div class="navigation-bar-content container">
-                <a href="/" class="element"><span class="icon-grid-view  fg-blue"></span> GopalaKrishna <sup>2.0</sup></a>
+                <a href="/" class="element"><span class="icon-grid-view  fg-blue"></span>GopalaKrishna <sup>2.0</sup></a>
                 <span class="element-divider"></span>
                 <ul class="element-menu">
 
@@ -276,10 +276,10 @@
                                 <a href="#" class="dropdown-toggle">Hacking</a>
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                     <li>
-                                        <a href="#" class="dropdown-toggle">Mac</a>
+                                        <a href="#" class="dropdown-toggle">Macintosh Hacks</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                             <li>
-                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/MacHackingUltimateGuide.pdf">Complete Guide</a>
+                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/MacHackingUltimateGuide.pdf">Ultimate Guide</a>
                                             </li>
                                             <li>
                                                 <a href="http://subtlegopala.com/docs/Technology/Hacking/HackAMac.pdf">Hack a Mac</a>
@@ -290,13 +290,38 @@
                                         <a href="http://subtlegopala.com/docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
                                     </li>
                                     <li>
-                                        <a href="http://subtlegopala.com/docs/Technology/Hacking/MoviePiracy.pdf">Movie Piracy</a>
+                                        <a href="https://null-byte.wonderhowto.com/how-to/4-ways-crack-facebook-password-protect-yourself-from-them-0139532/">Facebook Hacks</a>
                                     </li>
-                                    
+                                   
+
 
                                     <li>
-                                        <a href="https://null-byte.wonderhowto.com/how-to/4-ways-crack-facebook-password-protect-yourself-from-them-0139532/">Hack Facebook</a>
+                                        <a href="#" class="dropdown-toggle">Deep Web</a>
+                                        <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                            <li>
+                                                <a href="../../../../docs/Technology/Hacking/DeepWeb/DeepWeb.pdf">Introduction</a>
+                                            </li>
+                                            <li>
+                                                <a href="../../../../docs/Technology/Hacking/DeepWeb/BlackMarkets/BlackMarkets.pdf">Black Markets</a>
+                                            </li>
+                                        </ul>
                                     </li>
+
+                                      <li>
+                                        <a href="#" class="dropdown-toggle">Stories</a>
+                                        <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                            <li>
+                                                <a href="../../../docs/Technology/Hacking/MoviePiracy.pdf">Tamil Rockers</a>
+                                            </li>
+                                           <%-- <li>
+                                                <a href="">Silk Road</a>
+                                            </li>--%>
+                                        </ul>
+                                    </li>
+
+                                   
+
+                                    
                                 </ul>
                             </li>
 
@@ -502,10 +527,10 @@
 <%--Google analytics tracking--%>
 <script>
     (function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-        (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date(); a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-58426798-1', 'auto');
