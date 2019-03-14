@@ -31,11 +31,15 @@
                                                 <br />
                                                 <div class="carousel bg-transparent no-overflow" id="carousel2">
 
-
+                                                    
 
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">iPhone fingerprint sensor can differentiate between dead and alive</h3>
                                                     </div>
+                                                    <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">A powered-off MacBook can be hacked in less than three minutes</h3>
+                                                    </div>
+
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink   ntm">Why popular items are less priced in amazon?</h3>
                                                     </div>
