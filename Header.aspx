@@ -3,7 +3,7 @@
 <html>
 <body class="metro" style="background-color: black">
     <form id="form1" runat="server">
-        <div class="navigation-bar dark">
+        <div class="navigation-bar fixed-top dark">
             <div class="navigation-bar-content container">
                 <a href="/" class="element"><span class="icon-grid-view  fg-blue"></span>GopalaKrishna <sup>2.0</sup></a>
                 <span class="element-divider"></span>
