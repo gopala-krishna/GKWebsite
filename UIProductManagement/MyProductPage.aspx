@@ -31,7 +31,7 @@
                                                 <br />
                                                 <div class="carousel bg-transparent no-overflow" id="carousel2">
 
-                                                    
+
 
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">iPhone fingerprint sensor can differentiate between dead and alive</h3>
@@ -97,7 +97,7 @@
 
                             </div>
 
-                            <p style="font-size: medium">
+                            <p>
                                 Work-afrolic product leader.Entrepreneur.Growth hacker.Curiosity is my biggest strength. Ability to produce interesting data through research is my biggest capability.
                                 <br />
                                 <br />
@@ -149,7 +149,6 @@
                                 •	Honesty – I like to be honest though this attitude landed me in trouble many times.<br />
                                 <br />
 
-                                <br />
 
                                 Amazon, Uber and Mackbook Air are my favorite products. Steve Jobs, Elon Musk, Bill Gurley and Jeff Bezos are my favorite visionaries.<br />
                                 <br />
@@ -199,7 +198,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style="font-size: medium">
+                                <p>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
@@ -211,30 +210,37 @@
                                     •	Healthcare - Locate and track patients, equipment like scanner machines 
                                     <br />
                                     •	Mines - Locate and track miners, equipment like crushers. Get alerts during man down situations.Track temperature & humidity 
-                                       levels at various mining &nbsp &nbsp zones to ensure safety of miners.Ensure smooth rescue operations and providing exact location of personnel
+                                       levels at various mining zones to &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ensure safety of miners.Ensure smooth rescue operations and providing exact location of personnel
                                     in the emergency zones<br />
                                     •	Airports - Locate and track ground staff, equipment like trolleys, terminal buses.Locatenearest medical assistance equipment such as wheelchairs<br />
                                     •	Warehouses - Locate and track ground staff, equipment like trolleys.Reduce inaccurate floor inventories, reduce order-time-to-delivery and prevent 
-                                    &nbsp &nbsp &nbsp &nbsp &nbsp costly assembly line stoppages due to unavailable inventories<br />
+                                   costly assembly &nbsp &nbsp &nbsp &nbsp  line stoppages due to unavailable inventories<br />
                                     <br />
 
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
-
-
-
                                     <img src="../../images/Productpage/iat1.jpg" class="margin15 nlm ntm size7">
                                     <img src="../../images/Productpage/iat2.jpg" class="margin15 nlm ntm size7">
                                     <img src="../../images/Productpage/iat3.jpg" class="margin15 nlm ntm size7">
                                     <img src="../../images/Productpage/iat4.jpg" class="margin15 nlm ntm size7">
                                     <br />
+
+
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
+                                    <br />
+                                    •	<b>Product:</b> Complete re-design of the product including UI, Removed redundant features, Polished must-have features, Raised and resolved >350 UAT bugs<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP-level stakeholders<br />
+                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing colleterals, UAT cases, Short term and longterm strategy<br />
+                                    •	<b>Customer:</b> Go-To-Market strategy, Segmentation, Buy-In, Presentations, Deployments, RFP's, Requrements including unspoken needs, Competitive analysis<br />
                                     <br />
 
-
-
-
-
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
+                                    <br />
+                                    •	Started with zero customers. Acquired 7 customers (2-Large, 5-Midsized)<br />
+                                    •	Generated close to US$1.5M revenue<br />
+                                    •	User-centric and bug free product with de-coupled modules, Mobile-friendly, Seamlesss deployment architecture<br />
+                                    <br />
 
                                 </p>
                                 <!-- End -->
@@ -256,7 +262,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style="font-size: medium">
+                                <p>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
@@ -278,6 +284,20 @@
                                     <img src="../../images/Productpage/ptl1.jpg" class="margin15 nlm ntm size7">
                                     <img src="../../images/Productpage/ptl2.jpg" class="margin15 nlm ntm size7">
                                     <br />
+
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
+                                    <br />
+                                    •	<b>Product:</b> Concept to launch, Added competitive features, MVP, Environment pluggable<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP-level stakeholders<br />
+                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing colleterals, UAT cases, Short term and longterm strategy<br />
+                                    •	<b>Customer:</b> Go-To-Market strategy, Segmentation, Buy-In, Presentations, Deployments, RFP's, Requrements including unspoken needs, Competitive analysis<br />
+                                    <br />
+
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
+                                    <br />
+                                    •	Acquired 4 customers (3-Large, 1-Midsized). Got 2 references from these acquired cusomers<br />
+                                    •	Generated close to US$1.0M revenue<br />
+                                    •	User-centric and bug free product suitable for different environments, Mobile-friendly, Seamlesss deployment architecture, Highly configurable<br />
                                     <br />
 
 
@@ -303,7 +323,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style="font-size: medium">
+                                <p>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
@@ -316,24 +336,30 @@
                                     <br />
                                     •	Warehouses - Picking operations in large warehouses<br />
                                     •	Musems - Guided tour to places of interest<br />
-                                    •	Shopping malls - View current location and reach sopping destination from current location
+                                    •	Shopping malls - View current location and reach sopping destination from current location<br />
                                     
                                     <br />
-                                    <br />
-
-
-
-
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
                                     <img src="../../images/Productpage/inav1.jpg" class="margin20 nlm ntm size4">
                                     <img src="../../images/Productpage/inav2.jpg" class="margin20 nlm ntm size4">
                                     <br />
+                                    
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
+                                    <br />
+                                    •	<b>Product:</b> Concept to launch, MVP, Mobile app in Android and iOS<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP-level stakeholders<br />
+                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing colleterals, UAT cases, Short term and longterm strategy<br />
+                                    •	<b>Customer:</b> Go-To-Market strategy, Buy-In, Presentations, Deployments, RFP's, Requrements including unspoken needs, Competitive analysis<br />
                                     <br />
 
-
-
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
+                                    <br />
+                                    •	Acquired 2 customers (1-Large, 1-Midsized).<br />
+                                    •	Generated close to US$ 0.2 M revenue<br />
+                                    •	User-centric and responsive app, Algorithmic, Highly configurable<br />
+                                    <br />
 
                                 </p>
 
@@ -356,7 +382,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style="font-size: medium">
+                                <p>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
@@ -376,7 +402,20 @@
                                     <br />
                                     <br />
 
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
+                                    <br />
+                                    •	<b>Product:</b> Complete setup of web store for Fabindia, Re-design of the framework from manual to algorithmic, Added 12 features, Added REST API<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 26 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP level stakeholders<br />
+                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales collaterals, Product, engagement and monetization strategies<br />
+                                    •	<b>Customer:</b> Go-To-Market strategy, Segmentation, Buy-in, Presentations, Deployments, RFP's, Requirements including unspoken needs<br />
+                                    <br />
 
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
+                                    <br />
+                                    •	23 existing customers have signed up for the order allocation module (6-Large, 19-Midsized).<br />
+                                    •	Helped to get acquired. Generated close to US$13M revenue. <br />
+                                    •	Completely algorithmic (automatic) user-centric e-Commerce Platform, Pluggable order allocation rules and payment gateways, Mobile friendly, 96% UAT success rate<br />
+                                    <br />
 
 
 
@@ -399,13 +438,13 @@
                                     </div>
                                 </div>
                                 <br />
-                                <p style="font-size: medium">
+                                <p>
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
 
                                     Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Courier Allocation System" at the backend. 
-                                    Executed complete e-commerce webstore for the client FabIndia including "Courier Allocation System" and "Rules Engine"
+                                    Executed complete e-commerce webstore for the client BIBA including "Courier Allocation System" and "Courier Agonistic Tracking"
                                     <br />
                                     <br />
 
@@ -416,6 +455,20 @@
                                     <img src="../../images/biba1.jpg" class="margin15 nlm ntm size7">
                                     <img src="../../images/biba2.jpg" class="margin15 nlm ntm size7">
                                     <br />
+                                    
+                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
+                                    <br />
+                                    •	<b>Product:</b> Complete setup of web store for BIBA, Re-design of the framework from manual to algorithmic, Added 12 features, Added REST API<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 26 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP level stakeholders<br />
+                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales collaterals, Product, engagement and monetization strategies<br />
+                                    •	<b>Customer:</b> Go-To-Market strategy, Segmentation, Buy-in, Presentations, Deployments, RFP's, Requirements including unspoken needs<br />
+                                    <br />
+
+                                    <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
+                                    <br />
+                                    •	11 existing customers have signed up for the courier allocation module (4-Large, 7-Midsized)<br />
+                                    •	Helped to get acquired. Generated close to US$9.0 M revenue <br />
+                                    •	Completely algorithmic (automatic) user-centric E-Commerce Platform, Pluggable courier allocation rules, Courier agonistic tracking, 89% UAT success rate<br />
                                     <br />
 
 

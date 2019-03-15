@@ -59,7 +59,7 @@
     <form id="form1" runat="server">
         <div class="navigation-bar fixed-top dark">
             <div class="navigation-bar-content container">
-                <a href="/" class="element"><span class="icon-grid-view  fg-blue"></span>GopalaKrishna <sup>2.0</sup></a>
+                <a href="/" class="element"><span class="icon-grid-view  fg-blue"></span>&nbspGopalaKrishna<sup>2.0</sup></a>
                 <span class="element-divider"></span>
                 <ul class="element-menu">
 
@@ -289,7 +289,7 @@
                                     <li>
                                         <a href="http://subtlegopala.com/docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
                                     </li>
-                                   <%-- <li>
+                                    <%-- <li>
                                         <a href="https://null-byte.wonderhowto.com/how-to/4-ways-crack-facebook-password-protect-yourself-from-them-0139532/">Facebook Hacks</a>
                                     </li>--%>
                                     <li>
@@ -304,7 +304,7 @@
                                         </ul>
                                     </li>
 
-                                      <li>
+                                    <li>
                                         <a href="#" class="dropdown-toggle">Stories</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                             <li>
@@ -313,7 +313,7 @@
                                             <li>
                                                 <a href="../../../docs/Technology/Hacking/Stories/TargetStoresAttack.pdf">Target  Stores Attack</a>
                                             </li>
-                                           <%-- <li>
+                                            <%-- <li>
                                                 <a href="">Silk Road</a>
                                             </li>--%>
                                         </ul>
@@ -323,7 +323,7 @@
                                         <a href="../../docs/Technology/Hacking/Zero-DayExploits.pdf">Zero Day Exploits</a>
                                     </li>
 
-                                     <li>
+                                    <li>
                                         <a href="#" class="dropdown-toggle">Exploit Database</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                             <li>
@@ -332,16 +332,16 @@
                                             <li>
                                                 <a href="https://www.exploit-db.com/search">Search</a>
                                             </li>
-                                             <li>
+                                            <li>
                                                 <a href="../../../docs/Technology/Hacking/ExploitDatabase/LatestExploitsMicrosoft.pdf">Microsoft Exploits</a>
                                             </li>
 
-                                           <%-- <li>
+                                            <%-- <li>
                                                 <a href="">Silk Road</a>
                                             </li>--%>
                                         </ul>
                                     </li>
-                                    
+
                                 </ul>
                             </li>
 
