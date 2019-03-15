@@ -5,7 +5,7 @@
         <div class=" bg-blue">
             <div style="background: url(images/tbd.jpg) top left no-repeat; background-size: cover; height: 200px; ">
              
-                <div class="container text-center text-shadow" style="padding: 50px 10px">
+                <div class="container text-center text-shadow" style="padding: 70px 10px">
                     <h1 class="fg-white">Welcome to Gopala Krishna's Home </h1>
                 </div>
             </div>

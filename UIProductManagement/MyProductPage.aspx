@@ -3,8 +3,8 @@
 <asp:Content ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="bg-white">
         <div class=" bg-blue">
-            <div style="background: url(../../images/Banners/productpage.jpg) top left no-repeat; background-size: cover; height: 100px;">
-                <div class="container text-center text-shadow" style="padding: 20px 10px">
+            <div style="background: url(../../images/Banners/productpage.jpg) top left no-repeat; background-size: cover; height: 120px;">
+                <div class="container text-center text-shadow" style="padding: 60px 10px">
                     <h2 class="fg-white">My Products Home</h2>
                 </div>
             </div>

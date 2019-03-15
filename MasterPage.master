@@ -278,20 +278,20 @@
                                     <li>
                                         <a href="#" class="dropdown-toggle">Macintosh Hacks</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                           <%-- <li>
+                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/MacintoshHacks/MacHackingUltimateGuide.pdf">Ultimate Guide</a>
+                                            </li>--%>
                                             <li>
-                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/MacHackingUltimateGuide.pdf">Ultimate Guide</a>
-                                            </li>
-                                            <li>
-                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/HackAMac.pdf">Hack a Mac</a>
+                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/MacintoshHacks/HackAMac.pdf">Hack a Mac</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li>
                                         <a href="http://subtlegopala.com/docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
                                     </li>
-                                    <li>
+                                   <%-- <li>
                                         <a href="https://null-byte.wonderhowto.com/how-to/4-ways-crack-facebook-password-protect-yourself-from-them-0139532/">Facebook Hacks</a>
-                                    </li>
+                                    </li>--%>
                                     <li>
                                         <a href="#" class="dropdown-toggle">Deep Web</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
@@ -308,7 +308,7 @@
                                         <a href="#" class="dropdown-toggle">Stories</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                             <li>
-                                                <a href="../../../docs/Technology/Hacking/MoviePiracy.pdf">Tamil Rockers</a>
+                                                <a href="../../../docs/Technology/Hacking/Stories/MoviePiracy.pdf">Tamil Rockers</a>
                                             </li>
                                            <%-- <li>
                                                 <a href="">Silk Road</a>
