@@ -323,6 +323,24 @@
                                         <a href="../../docs/Technology/Hacking/Zero-DayExploits.pdf">Zero Day Exploits</a>
                                     </li>
 
+                                     <li>
+                                        <a href="#" class="dropdown-toggle">Exploit Database</a>
+                                        <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
+                                            <li>
+                                                <a href="../../../docs/Technology/Hacking/ExploitDatabase/ExploitDatabase.pdf">Getting Started</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.exploit-db.com/search">Search</a>
+                                            </li>
+                                             <li>
+                                                <a href="../../../docs/Technology/Hacking/ExploitDatabase/LatestExploitsMicrosoft.pdf">Microsoft Exploits</a>
+                                            </li>
+
+                                           <%-- <li>
+                                                <a href="">Silk Road</a>
+                                            </li>--%>
+                                        </ul>
+                                    </li>
                                     
                                 </ul>
                             </li>
