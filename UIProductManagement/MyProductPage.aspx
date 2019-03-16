@@ -22,7 +22,7 @@
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
-                                            <div class="span4 no-tablet-portrait no-phone">
+                                            <div class="span4">
                                                 <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Did You Know</p>
                                                 </div>
@@ -185,7 +185,7 @@
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
-                                            <div class="span4 no-tablet-portrait no-phone">
+                                            <div class="span4">
                                                 <div class="notice marker-on-right bg-teal  padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Indoor Assets Tracker</p>
                                                 </div>
@@ -249,7 +249,7 @@
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
-                                            <div class="span4 no-tablet-portrait no-phone">
+                                            <div class="span4">
                                                 <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Pick to Light</p>
                                                 </div>
@@ -310,7 +310,7 @@
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
-                                            <div class="span4 no-tablet-portrait no-phone">
+                                            <div class="span4">
                                                 <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Indoor Navigation</p>
                                                 </div>
@@ -369,7 +369,7 @@
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
-                                            <div class="span4 no-tablet-portrait no-phone">
+                                            <div class="span4">
                                                 <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Order Allocation</p>
                                                 </div>
@@ -425,7 +425,7 @@
                                 <div class="container">
                                     <div class="grid no-margin">
                                         <div class="row">
-                                            <div class="span4 no-tablet-portrait no-phone">
+                                            <div class="span4">
                                                 <div class="notice marker-on-right bg-teal padding0 text-center" style="height: 70px">
                                                     <p class="subheader-secondary fg-white">Courier Allocation</p>
                                                 </div>
@@ -533,7 +533,7 @@
             <div class="grid no-margin">
                 <div class="row">
 
-                    <div class="span1 no-tablet-portrait no-phone">
+                    <div class="span1">
                         <div class="notice marker-on-right bg-white padding1 text-center" style="height: 1px">
                         </div>
                     </div>
