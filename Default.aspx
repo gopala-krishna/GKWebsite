@@ -29,16 +29,16 @@
 
                                         <P>Heartily welcome to my website!!!!!!!</P>
 
-                                        <p> This is Gopala Krishna Neredumalli.U landed at a place
+                                        <p> This is Gopala Krishna.U landed at a place
 
                                             where u can find information about my interests, hobbies
 
                                             and traits.Beware this is not the home page of a geek !!
 
-                                            To verify this browse through all the links.</p>
+                                            To verify, this browse through all the links.</p>
 
                                         <p>
-                                            Well to start with:<br />
+                                            Well to start with:<br /><br />
 
 
                                             There are 10 types of people.. those who can
@@ -56,18 +56,17 @@
 
                                             my bouncing back attitude and my questioning attitdue always fetched me big
 
-                                            rewards. Recently i worked for <a href="http://www.microsoft.com/"><font color="blue">Microsoft</font></a> in Hyderabad.
+                                            rewards. Recently i worked for <a href="http://www.microsoft.com/"><font color="teal">Microsoft</font></a> in Hyderabad.
 
                                             Before stepping into this whole wide world i
 
-                                            went to <a href="http://www.iitb.ac.in/"><font color="blue">IIT Mumbai</font></a> and earned B.Tech in mechanical
+                                            went to <a href="http://www.iitb.ac.in/"><font color="teal">IIT Mumbai</font></a> and earned B.Tech in mechanical
 
                                             engineering. I'm official mentor for the students at IIT Bombay. </p>
 
                                                 <p>Product management and technology are my core passions and I believe if passion matches 
                                                 with profession we enjoy our work and don’t get bored. I know how to leverage technology and 
-                                                algorithms to build innovative products.My strengths - questioning attitude, research orientation, 
-                                                curiosity and honesty.
+                                                algorithms to build innovative products.My personal strengths - curiosity, honesty and persistence.
 
                                                I maintain my own <a href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"><font color="blue">Products Page</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
                                                 Mostly I share interesting facts which raise curiosity among readers. 
