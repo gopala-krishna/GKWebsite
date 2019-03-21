@@ -507,23 +507,23 @@
                         </div>
 
                         <div class="span3 padding0">
-                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Product Management</a>
-                            <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Growth Hacking</a>
-                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Monetzation Strategies</a>
-                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Why Products Fail</a>
-                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Objectivism-Irrationality</a>
-                            <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Business Strategy</a>
-                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Consumer Behaviour</a>
+                            <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ../UIProductManagement/MyProductPage.aspx">Product Management</a>
+                            <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Growth Hacking</a>
+                            <a class="button bg-olive fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Monetzation Strategies</a>
+                            <a class="button bg-darkBrown fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Why Products Fail</a>
+                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Objectivism-Irrationality</a>
+                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Business Strategy</a>
+                            <a class="button bg-steel fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Consumer Behaviour</a>
                         </div>
 
                         <div class="span3 padding0">
-                            <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Product Marketing</a>
-                            <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Counter-Intuitive Strategies</a>
-                            <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Engagement Strategies</a>
-                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href=" ">How Products Work</a>
-                            <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Scaling Systems</a>
-                            <a class="button bg-yellow fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Frameworks Design</a>
-                            <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href=" ">Windows Internals</a>
+                            <a class="button bg-teal fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyProductPage.aspx">Product Marketing</a>
+                            <a class="button bg-violet fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyProductPage.aspx">Counter-Intuitive Strategies</a>
+                            <a class="button bg-pink fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyProductPage.aspx">Engagement Strategies</a>
+                            <a class="button bg-orange fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/HowSystemsWork.aspx">How Products Work</a>
+                            <a class="button bg-darkCrimson fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/HowSystemsWork.aspx">Scaling Systems</a>
+                            <a class="button bg-amber fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/HowSystemsWork.aspx">System Internals</a>
+                            <a class="button bg-emerald fg-white" style="width: 100%; margin-bottom: 5px" href="../UIEntrepreneurship/StartupResources/PitchDecks.aspx">Entrepreneurship</a>
                         </div>
 
 

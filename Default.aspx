@@ -56,11 +56,11 @@
 
                                             my bouncing back attitude and my questioning attitdue always fetched me big
 
-                                            rewards. Recently i worked for <a href="http://www.microsoft.com/"><font color="teal">Microsoft</font></a> in Hyderabad.
+                                            rewards. Recently i worked for <a href="http://www.microsoft.com/"><font color="blue">Microsoft</font></a> in Hyderabad.
 
                                             Before stepping into this whole wide world i
 
-                                            went to <a href="http://www.iitb.ac.in/"><font color="teal">IIT Mumbai</font></a> and earned B.Tech in mechanical
+                                            went to <a href="http://www.iitb.ac.in/"><font color="blue">IIT Mumbai</font></a> and earned B.Tech in mechanical
 
                                             engineering. I'm official mentor for the students at IIT Bombay. </p>
 
