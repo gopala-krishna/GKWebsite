@@ -39,7 +39,9 @@
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">A powered-off computer can be hacked in less than three minutes</h3>
                                                     </div>
-
+                                                    <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">Why Netflix recently removed "User Reviews" feature?</h3>
+                                                    </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink   ntm">Why popular items are less priced in amazon?</h3>
                                                     </div>
