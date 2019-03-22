@@ -179,8 +179,8 @@
                                     <li>
                                         <a href="#" class="dropdown-toggle">Linux</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                                            <li><a href="../../../UITechnology/OpenSource/Linux/LinuxBasics.aspx">LinuxBasics</a></li>
-                                            <li></li>
+                                            <li><a href="../../../docs/Technology/Hacking/Linux/LinuxUltimateGuide.pdf">Linux Ultimate Guide</a></li>
+                                            <li><a href="../../../UITechnology/OpenSource/Linux/LinuxBasics.aspx">Linux Basics</a></li>
                                         </ul>
                                     </li>
                                     <%--  <li>
