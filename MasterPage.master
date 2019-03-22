@@ -19,17 +19,16 @@
 
     <link href="css/listviewstyle.css" rel="stylesheet" />
 
-
     <link href="css/gridstyle/kendo.common.min.css" rel="stylesheet">
     <link href="css/gridstyle/kendo.default.min.css" rel="stylesheet">
+
+    <link href="css/gridstyle/sprite.png" rel="icon">
+
     <%--    <link href="css/gridstyle/kendo.rtl.min.css" rel="stylesheet">--%>
     <%--<link href="css/gridstyle/kendo.dataviz.min.css" rel="stylesheet">--%>
     <%--    <link href="css/gridstyle/kendo.dataviz.default.min.css" rel="stylesheet">--%>
     <%--    <link href="css/gridstyle/kendo.silver.min.css" rel="stylesheet">--%>
     <%--<link href="css/gridstyle/kendo.bootstrap.min.css" rel="stylesheet">--%>
-    <link href="css/gridstyle/sprite.png" rel="icon">
-
-
 
 
     <!-- Load JavaScript Libraries -->
@@ -38,12 +37,8 @@
     <script src="<%= ResolveUrl("~/js/jquery/jquery.mousewheel.js")%>"></script>
 
 
-
     <!-- Metro UI CSS JavaScript plugins -->
     <script src="<%= ResolveUrl("~/js/load-metro.js")%>"></script>
-
-
-
 
     <!-- Local JavaScript -->
     <script src="<%= ResolveUrl("~/js/docs.js")%>"></script>
@@ -278,7 +273,7 @@
                                     <li>
                                         <a href="#" class="dropdown-toggle">Windows</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-<%--                                            <li><a href="">Hack Switched-off PC</a></li>--%>
+                                            <%--                                            <li><a href="">Hack Switched-off PC</a></li>--%>
                                             <li><a href="../../../../docs/Technology/Hacking/Windows/Windows10HackingTools.pdf">Tools</a></li>
                                         </ul>
                                     </li>
@@ -475,7 +470,7 @@
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
 
-<%--        <footer class ="" data-load ="Footer.aspx"></footer>--%>
+        <%--        <footer class ="" data-load ="Footer.aspx"></footer>--%>
 
         <div class="bg-black text-shadow">
             <div class="container" style="padding: 5px;">
