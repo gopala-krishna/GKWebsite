@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="js/metro.js"></script>
+</head>
+<body>
+    <div class="container page-content">
+        
+        <div class="example">
+            <div class="clear-float">
+                <div data-role="donut" data-value="0" id="donut1"></div>
+            </div>
+            <br />
+
+            <button class="button success" onclick="runDonut()">Run</button>
+
+            <script>
+                function runDonut(){
+                    var donut = $('#donut1').data('donut');
+                    var i = 0;
+                    var interval;
+
+                    interval = setInterval(function(){
+                        donut.val(++i);
+                        if (i == 100) {
+                            clearInterval(interval);
+                        }
+                    }, 10)
+                }
+            </script>
+        </div>
+    </div>
+
+</body>
+</html>
