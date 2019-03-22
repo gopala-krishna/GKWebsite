@@ -19,7 +19,7 @@
                 <div class="span16 padding20">
                     <div class="tile-content">
                         <div class="panel no-border">
-                            <div class="panel-header bg-orange fg-white text-center">Interesting Facts About PI</div>
+                            <div class="panel-header bg-blue fg-white text-center">Interesting Facts About PI</div>
 
                             <div class="panel bg-grayLight">
                                 <div class="content padding10 ">

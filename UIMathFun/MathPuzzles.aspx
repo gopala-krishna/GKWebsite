@@ -19,7 +19,7 @@
                         <div class="span16 padding20">
                             <div class="tile-content">
                                 <div class="panel no-border">
-                                    <div class="panel-header bg-orange fg-white text-center">Interesting Mathematics Puzzles</div>  
+                                    <div class="panel-header bg-blue fg-white text-center">Interesting Mathematics Puzzles</div>  
                              
                                        
                                         <div class="grid no-margin">
