@@ -475,7 +475,7 @@
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
 
-        <%--<footer class ="" data-load ="Footer.aspx"></footer>--%>
+<%--        <footer class ="" data-load ="Footer.aspx"></footer>--%>
 
         <div class="bg-black text-shadow">
             <div class="container" style="padding: 5px;">

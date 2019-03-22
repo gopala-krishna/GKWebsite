@@ -2,10 +2,10 @@
 
 
 <asp:Content ContentPlaceHolderID ="ContentPlaceHolder1" runat ="server">
-        <div class ="bg-white text-shadow">
+        <div class ="bg-white">
           <div class="container">
                 <div class="row">
-                        <div class="span16 padding20">
+                        <div class="span16 padding20 margin20">
                             <div class="tile-content">
                                 <div class="panel no-border">
                              

@@ -16,10 +16,10 @@
     <div class="bg-white">
         <div class="container">
             <div class="row">
-                <div class="span16 padding20">
+                <div class="span16 padding20 margin20">
                     <div class="tile-content">
                         <div class="panel no-border">
-                            <div class="panel-header bg-orange fg-white text-center">Interesting Science Facts</div>
+                            <div class="panel-header bg-blue fg-white text-center">Interesting Science Facts</div>
 
 
                             <div class="grid no-margin">

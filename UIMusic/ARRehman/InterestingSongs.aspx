@@ -6,7 +6,7 @@
     <div class="bg-white">
         <div class="container">
             <div class="row">
-                <div class="span16 padding10">
+                <div class="span16 padding20 margin20">
                     <div class="tile-content">
                         <div class="panel no-border">
                             <div class="panel-header bg-blue fg-white text-center">Interesting Songs of A R Rehman</div>
@@ -14,6 +14,8 @@
                             <script src="<%= ResolveUrl("~js/jszip.min.js")%>"></script>
                             <script src="<%= ResolveUrl("~js/kendo.all.min.js")%>"></script>
                             <div id="grid"></div>
+<%--                            <div id="grid" data-role="preloader" data-type="square" data-style="color"></div>--%>
+
 
                             <div class="row text-center">
                                 <script type="text/JavaScript">
