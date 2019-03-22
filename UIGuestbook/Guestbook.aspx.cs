@@ -13,7 +13,13 @@ public partial class GuestBook : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        BindData();
+        try
+        {
+            BindData();
+
+        }
+        catch (Exception ex)
+        { }
     }
 
     protected void btnSubmit_Click(object sender, EventArgs e)
