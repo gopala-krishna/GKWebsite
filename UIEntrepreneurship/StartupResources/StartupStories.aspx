@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/MasterPage.master" CodeFile="ImpBooks.aspx.cs" Inherits="ImpBooks" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/MasterPage.master" CodeFile="StartupStories.aspx.cs" Inherits="StartupStories" %>
 
 <asp:Content ContentPlaceHolderID ="ContentPlaceHolder1" runat ="server">
 <div id="fb-root"></div>
@@ -18,7 +18,7 @@
                         <div class="span16">
                             <div class="tile-content">
                                 <div class="panel no-border">
-                                    <div class="panel-header bg-blue fg-white text-center">Must Read Books For Entrepreneurs</div>
+                                    <div class="panel-header bg-blue fg-white text-center">Startup Stories</div>
 
                                    
 
@@ -36,8 +36,8 @@
     
 <script type="text/x-kendo-template" id="template">
 <div class="product">
-    <img src='#:BookImageUrl#' onclick ="javascript:location.href='#=BookUrl#'"/>
-<%--    <h3>#:BookTitle#</h3>--%>
+    <img src='#:StartupImageUrl#' onclick ="javascript:location.href='#=StartupUrl#'"/>
+<%--    <h3>#:StartupTitle#</h3>--%>
 </div>
 </script>
 
@@ -45,7 +45,7 @@
     $(function () {
         $.ajax({
             type: "post",
-            url: "ImpBooks.aspx/GetBooklist",
+            url: "StartupStories.aspx/GetStartuplist",
             contentType: "application/json",
             dataType: "json",
             success: function (result) {
@@ -81,15 +81,15 @@
 .product {
     float: left;
     position: relative;
-    width: 100px;
-    height: 150px;
-    margin: 0 10px;
+    width: 200px;
+    height: 120px;
+    margin: 6 6px;
     padding: 0;
 }
 
     .product img {
-        width: 100px;
-        height: 150px;
+        width: 200px;
+        height: 120px;
     }
 
     .product h3 {

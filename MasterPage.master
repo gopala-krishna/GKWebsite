@@ -133,7 +133,7 @@
                                     <li><a href="../../../UIMusic/Ilaiyaraja/AboutIlaiyaraja.aspx">About Ilaiyaraja</a></li>
                                     <li><a href="../../../UIMusic/Ilaiyaraja/BackgroundScores.aspx">Background Scores</a></li>
                                     <li><a href="../../../UIMusic/Ilaiyaraja/InterestingSongs.aspx">Interesting Songs</a></li>
-                                    <li><a href="" style="color: gray">Favorite Links</a></li>
+                                    <%--<li><a href="" style="color: gray">Favorite Links</a></li>--%>
                                 </ul>
                             </li>
                             <li>
@@ -142,7 +142,7 @@
                                     <li><a href="http://www.arrahman.com/">About A.R Rehman</a></li>
                                     <li><a href="../../../UIMusic/ARRehman/BackgroundScores.aspx">Background Scores</a></li>
                                     <li><a href="../../../UIMusic/ARRehman/InterestingSongs.aspx">Interesting Songs</a></li>
-                                    <li><a href="" style="color: gray">Favorite Links</a></li>
+                                    <%--<li><a href="" style="color: gray">Favorite Links</a></li>--%>
                                 </ul>
                             </li>
 
@@ -430,7 +430,7 @@
                                 <a href="#" class="dropdown-toggle">Start a Startup</a>
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                     <%--<li><a href="" style = "color:gray">How To Start A Company</a></li>--%>
-                                    <li><a href="http://www.subtlegopala.com/docs/Entrepreneurship/StartupGuide.pdf">Startup Guide</a></li>
+                                    <li><a href="http://www.subtlegopala.com/docs/Entrepreneurship/StartupGuide.pdf">Ultimate Guide</a></li>
                                     <li><a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg">Stanford Lectures</a></li>
                                 </ul>
                             </li>
@@ -439,6 +439,7 @@
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                     <li><a href="../../../UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a></li>
                                     <li><a href="../../../UIEntrepreneurship/StartupResources/ImpBooks.aspx">Imp Books</a></li>
+                                    <li><a href="../../../UIEntrepreneurship/StartupResources/StartupStories.aspx">Startup Stories</a></li>
                                     <%--<li><a href="" style = "color:gray">Blogs</a></li>--%>
                                 </ul>
                             </li>

@@ -164,7 +164,7 @@
                                 If you would like to see the pich decks of popular startups, please have a look at : <a href="http://subtlegopala.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a><br />
                                 If you would like to know the internals of  how products work, please have a look at : <a href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx">How Products Work</a>
                                 <br />
-                                If you would like to know the technologies used in any website, please have a look at : <a href="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
+                                If you would like to know the technologies used to power a website, please have a look at : <a href="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
 
 
                                 <br />
