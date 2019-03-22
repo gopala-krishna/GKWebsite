@@ -20,7 +20,6 @@ public partial class Leaders : System.Web.UI.Page
         
     }
 
-    
     [WebMethod]
     [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
     public static string GetLeaderBooklist()
