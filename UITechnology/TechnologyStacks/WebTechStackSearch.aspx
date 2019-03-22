@@ -59,7 +59,7 @@
         <div class="panel text-center">
             <div class="accordion  text-center" data-role="accordion" data-closeany="false">
                 <div class="accordion-frame  text-center">
-                    <a class="heading text-center fg-blue bg-gray-Lighter">Search for technologies used to build any website</a>
+                    <a class="heading text-center fg-blue bg-gray-Lighter">Search for technologies powering a website</a>
                 </div>
             </div>
         </div>

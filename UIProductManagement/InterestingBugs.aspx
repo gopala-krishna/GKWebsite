@@ -4,10 +4,10 @@
     <div class="bg-white">
         <div class="container">
             <div class="row">
-                <div class="span16">
+                <div class="span16 padding20 margin20">
                     <div class="tile-content">
                         <div class="panel no-border">
-                            <div class="panel-header bg-blue fg-white text-center">My Findings</div>
+                            <div class="panel-header bg-blue fg-white text-center">Interesting Software Bugs</div>
                             <br />
 
 
@@ -50,6 +50,7 @@
 
 
                             </p>
+                                <hr style="border: 0px; border-top: 2px  solid gray;" />
 
                             <p>
 
@@ -76,6 +77,7 @@
 
 
                             </p>
+                                <hr style="border: 0px; border-top: 2px  solid gray;" />
 
                             <p>
 
@@ -94,6 +96,7 @@
                                 <br />
                                 <br />
                             </p>
+                                <hr style="border: 0px; border-top: 2px  solid gray;" />
 
                              <p>
 
@@ -112,6 +115,7 @@
                                 <br />
                                 <br />
                             </p>
+                                <hr style="border: 0px; border-top: 2px  solid gray;" />
 
                              <p>
 
@@ -141,6 +145,7 @@
                         </div>--%>
 
 
+                            <hr style="border: 0px; border-top: 2px  solid gray;" />
 
 
 

@@ -15,7 +15,7 @@
        <div class ="bg-white text-shadow">
           <div class="container">
                 <div class="row">
-                        <div class="span16">
+                        <div class="span16 padding20 margin20">
                             <div class="tile-content">
                                 <div class="panel no-border">
                                     <div class="panel-header bg-blue fg-white text-center">Must read books on Algorithms</div>
