@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/MasterPage.master" CodeFile="StartupStories.aspx.cs" Inherits="StartupStories" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/MasterPage.master" CodeFile="Leaders.aspx.cs" Inherits="Leaders" %>
 
 <asp:Content ContentPlaceHolderID ="ContentPlaceHolder1" runat ="server">
 <div id="fb-root"></div>
@@ -18,7 +18,7 @@
                         <div class="span16">
                             <div class="tile-content">
                                 <div class="panel no-border">
-                                    <div class="panel-header bg-blue fg-white text-center">Startup Stories</div>
+                                    <div class="panel-header bg-blue fg-white text-center">Must Read Books For Entrepreneurs</div>
 
                                    
 
@@ -36,8 +36,8 @@
     
 <script type="text/x-kendo-template" id="template">
 <div class="product">
-    <img src='#:StartupImageUrl#' onclick ="javascript:location.href='#=StartupUrl#'"/>
-<%--    <h3>#:StartupTitle#</h3>--%>
+    <img src='#:LeaderBookImageUrl#' onclick ="javascript:location.href='#=LeaderBookUrl#'"/>
+<%--    <h3>#:BookTitle#</h3>--%>
 </div>
 </script>
 
@@ -45,7 +45,7 @@
     $(function () {
         $.ajax({
             type: "post",
-            url: "StartupStories.aspx/GetStartuplist",
+            url: "Leaders.aspx/GetLeaderBooklist",
             contentType: "application/json",
             dataType: "json",
             success: function (result) {
@@ -75,27 +75,27 @@
 {
     padding: 10px 5px;
     margin-bottom: -1px;
-    min-height: 1200px;
+    min-height: 1000px;
 }
 
 .product {
     float: left;
     position: relative;
-    width: 200px;
-    height: 120px;
-    margin: 6 6px;
+    width: 100px;
+    height: 150px;
+    margin: 0 10px;
     padding: 0;
 }
 
     .product img {
-        width: 200px;
-        height: 120px;
+        width: 100px;
+        height: 150px;
     }
 
     .product h3 {
         margin: 10px;
         padding: 5px 8px 0 0;
-        max-width: 96px;
+        max-width: 200px;
         overflow:inherit;
         line-height: 2em;
         font-size: .65em;
