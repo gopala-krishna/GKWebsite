@@ -271,6 +271,9 @@
                                 <a href="#" class="dropdown-toggle">Hacking</a>
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                     <li>
+                                        <a href="../../../docs/Technology/Hacking/HackSwitchedoffPC.pdf">Hack Switchedoff PC</a>
+                                    </li>
+                                    <li>
                                         <a href="#" class="dropdown-toggle">Windows</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                             <%--                                            <li><a href="">Hack Switched-off PC</a></li>--%>
@@ -284,12 +287,12 @@
                                                 <a href="../../../docs/Technology/Hacking/MacintoshHacks/MacHackingUltimateGuide.pdf">Ultimate Guide</a>
                                             </li>
                                             <li>
-                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/MacintoshHacks/HackAMac.pdf">Hack a Mac</a>
+                                                <a href="../../../docs/Technology/Hacking/MacintoshHacks/HackAMac.pdf">Hack a Mac</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="http://subtlegopala.com/docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
+                                        <a href="../../../docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
                                     </li>
                                     <%-- <li>
                                         <a href="https://null-byte.wonderhowto.com/how-to/4-ways-crack-facebook-password-protect-yourself-from-them-0139532/">Facebook Hacks</a>
