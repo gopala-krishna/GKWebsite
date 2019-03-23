@@ -48,7 +48,7 @@
     <script src="<%= ResolveUrl("~/js/kendo.all.min.js")%>"></script>
 
 
-    <title>Gopala Krishna's Website</title>
+<title>Gopala Krishna's Website</title>
 </head>
 <body class="metro" style="background-color: black">
     <form id="form1" runat="server">
