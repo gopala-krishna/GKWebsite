@@ -73,14 +73,14 @@
                                 .product {
                                     float: left;
                                     position: relative;
-                                    width: 200px;
+                                    width: 190px;
                                     height: 120px;
                                     margin: 6 6px;
                                     padding: 0;
                                 }
 
                                     .product img {
-                                        width: 200px;
+                                        width: 190px;
                                         height: 120px;
                                     }
 
@@ -144,11 +144,11 @@
                                     <div class="accordion-frame active ">
 
                                         <div class="fb-save"
-                                            data-uri="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx"
+                                            data-uri="/UIProductManagement/HowSystemsWork.aspx"
                                             data-size="large">
                                         </div>
                                         <div class="fb-like"
-                                            data-href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx"
+                                            data-href="http://subtlegopala/UIProductManagement/HowSystemsWork.aspx"
                                             data-layout="standard"
                                             data-action="like"
                                             data-show-faces="false"

@@ -23,14 +23,15 @@ public partial class HowSystemsWork : System.Web.UI.Page
     [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
     public static string GetProductList()
     {
-        Product p1 = new Product { ImgUrl = "../images/HowSystemsWork/whatsapp.jpg", LinkUrl = "../docs/HowProductsWork/whatsapp.pdf" };
-        Product p2 = new Product { ImgUrl = "../images/HowSystemsWork/backrub.jpg", LinkUrl = "http://infolab.stanford.edu/~backrub/google.html" };
-        Product p3 = new Product { ImgUrl = "../images/HowSystemsWork/google.jpg", LinkUrl = "https://www.google.com/search/howsearchworks/" };
-        Product p4 = new Product { ImgUrl = "../images/HowSystemsWork/facebook.jpg", LinkUrl =" ../docs/HowProductsWork/facebook.pdf" };
-        Product p5 = new Product { ImgUrl = "../images/HowSystemsWork/atm.jpg", LinkUrl = "../docs/HowProductsWork/atm.pdf" };
-        Product p6 = new Product { ImgUrl = "../images/HowSystemsWork/cell.jpg", LinkUrl = "../docs/HowProductsWork/HowCellPhonesWork.pdf" };
-        Product p7 = new Product { ImgUrl = "../images/HowSystemsWork/rdbms.jpg", LinkUrl = " ../docs/HowProductsWork/HowRDBMSWork.pdf" };
-        Product p8 = new Product { ImgUrl = "../images/HowSystemsWork/gmaps.jpg", LinkUrl = "../docs/HowProductsWork/HowGoogleMapsWork.pdf" };
+        Product p1 = new Product { ImgUrl = "../images/HowSystemsWork/whatsapp.jpeg", LinkUrl = "../docs/HowProductsWork/whatsapp.pdf" };
+        Product p2 = new Product { ImgUrl = "../images/HowSystemsWork/gmaps.jpeg", LinkUrl = "../docs/HowProductsWork/HowGoogleMapsWork.pdf" };
+        Product p3 = new Product { ImgUrl = "../images/HowSystemsWork/google.jpeg", LinkUrl = "https://www.google.com/search/howsearchworks/" };
+        Product p4 = new Product { ImgUrl = "../images/HowSystemsWork/facebook.jpeg", LinkUrl =" ../docs/HowProductsWork/facebook.pdf" };
+        Product p5 = new Product { ImgUrl = "../images/HowSystemsWork/rdbms.jpeg", LinkUrl = " ../docs/HowProductsWork/HowRDBMSWork.pdf" };
+        Product p6 = new Product { ImgUrl = "../images/HowSystemsWork/cellphone.jpeg", LinkUrl = "../docs/HowProductsWork/HowCellPhonesWork.pdf" };
+        Product p7 = new Product { ImgUrl = "../images/HowSystemsWork/atm.jpeg", LinkUrl = "../docs/HowProductsWork/atm.pdf" };
+        Product p8 = new Product { ImgUrl = "../images/HowSystemsWork/backrub.jpeg", LinkUrl = "http://infolab.stanford.edu/~backrub/google.html" };
+        Product p9 = new Product { ImgUrl = "../images/HowSystemsWork/antivirus.jpeg", LinkUrl = "../docs/HowProductsWork/HowAntivirusWorks.pdf" };
 
 
 
@@ -40,6 +41,7 @@ public partial class HowSystemsWork : System.Web.UI.Page
         products.Add(p1); products.Add(p2);
         products.Add(p3);products.Add(p4); products.Add(p5);
         products.Add(p6); products.Add(p7); products.Add(p8);
+        products.Add(p9);
 
         string jstrProducts = JsonConvert.SerializeObject(products);
         return jstrProducts;
