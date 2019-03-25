@@ -70,8 +70,9 @@
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">90% of freemium products fail</h3>
                                                     </div>
-
-
+                                                      <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">A hire is made every 10 seconds on LinkedIn</h3>
+                                                    </div>
 
                                                 </div>
 
