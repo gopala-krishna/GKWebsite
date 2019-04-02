@@ -26,8 +26,8 @@ public partial class ImpBooks : System.Web.UI.Page
     public static string GetBooklist()
     {
             List<Book> bookList = new List<Book>();
-            string url = "http://www.subtlegopala.com/docs/Entrepreneurship/Books/";
-            string imageurl = "http://www.subtlegopala.com/images/Entrepreneurship/Books/";
+            string url = "http://www.gopala-krishna.com/docs/Entrepreneurship/Books/";
+            string imageurl = "http://www.gopala-krishna.com/images/Entrepreneurship/Books/";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {

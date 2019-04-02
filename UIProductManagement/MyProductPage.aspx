@@ -162,10 +162,10 @@
                                 <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Professional Interests</a><br />
                                 <br />
 
-                                If you would like to see the pich decks of popular startups, please have a look at : <a href="http://subtlegopala.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a><br />
-                                If you would like to know the internals of  how products work, please have a look at : <a href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx">How Products Work</a>
+                                If you would like to see the pich decks of popular startups, please have a look at : <a href="http://gopala-krishna.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a><br />
+                                If you would like to know the internals of  how products work, please have a look at : <a href="http://gopala-krishna.com/UIProductManagement/HowSystemsWork.aspx">How Products Work</a>
                                 <br />
-                                If you would like to know the technologies used to power a website, please have a look at : <a href="http://subtlegopala.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
+                                If you would like to know the technologies used to power a website, please have a look at : <a href="http://gopala-krishna.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
 
 
                                 <br />
@@ -548,11 +548,11 @@
                         <div class="accordion-frame active ">
 
                             <div class="fb-save"
-                                data-uri="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
+                                data-uri="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"
                                 data-size="large">
                             </div>
                             <div class="fb-like"
-                                data-href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
+                                data-href="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"
                                 data-layout="standard"
                                 data-action="like"
                                 data-show-faces="false"
@@ -561,7 +561,7 @@
                             </div>
 
                             <div class="fb-comments"
-                                data-href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"
+                                data-href="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"
                                 data-numposts="5"
                                 data-width="200px">
                             </div>

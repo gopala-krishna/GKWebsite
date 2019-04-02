@@ -24,7 +24,7 @@ public partial class InterestingSongs : System.Web.UI.Page
     public static string GetPlaylist(string folderName)
     {
         List<string> ls = new List<string>();
-        string url = "http://subtlegopala.com/Media/ARRehman/InterestingSongs/";
+        string url = "http://gopala-krishna.com/Media/ARRehman/InterestingSongs/";
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
         using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
         {
@@ -54,7 +54,7 @@ public partial class InterestingSongs : System.Web.UI.Page
         List<Song> songsList = new List<Song>();
         foreach (string dirName in dirNames)
         {
-            string url = "http://www.subtlegopala.com/Media/ARRehman/InterestingSongs/" + dirName;
+            string url = "http://www.gopala-krishna.com/Media/ARRehman/InterestingSongs/" + dirName;
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {

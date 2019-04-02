@@ -237,11 +237,11 @@
                                         <div class="accordion-frame active ">
 
                                             <div class="fb-save"
-                                                data-uri="http://subtlegopala.com/UIMusic/ClassicalEraComposers/BackgroundScores.aspx"
+                                                data-uri="http://gopala-krishna.com/UIMusic/ClassicalEraComposers/BackgroundScores.aspx"
                                                 data-size="large">
                                             </div>
                                             <div class="fb-like"
-                                                data-href="http://subtlegopala.com/UIMusic/ClassicalEraComposers/BackgroundScores.aspx"
+                                                data-href="http://gopala-krishna.com/UIMusic/ClassicalEraComposers/BackgroundScores.aspx"
                                                 data-layout="standard"
                                                 data-action="like"
                                                 data-show-faces="false"
@@ -250,7 +250,7 @@
                                             </div>
 
                                             <div class="fb-comments"
-                                                data-href="http://subtlegopala.com/UIMusic/ClassicalEraComposers/BackgroundScores.aspx"
+                                                data-href="http://gopala-krishna.com/UIMusic/ClassicalEraComposers/BackgroundScores.aspx"
                                                 data-numposts="5"
                                                 data-width="200px">
                                             </div>

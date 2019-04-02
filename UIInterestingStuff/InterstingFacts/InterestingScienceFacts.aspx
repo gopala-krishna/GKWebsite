@@ -164,11 +164,11 @@
                         <div class="accordion-frame active ">
 
                             <div class="fb-save"
-                                data-uri="http://subtlegopala.com/UIInterestingStuff/InterstingFacts/InterestingScienceFacts.aspx"
+                                data-uri="http://gopala-krishna.com/UIInterestingStuff/InterstingFacts/InterestingScienceFacts.aspx"
                                 data-size="large">
                             </div>
                             <div class="fb-like"
-                                data-href="http://subtlegopala.com/UIInterestingStuff/InterstingFacts/InterestingScienceFacts.aspx"
+                                data-href="http://gopala-krishna.com/UIInterestingStuff/InterstingFacts/InterestingScienceFacts.aspx"
                                 data-layout="standard"
                                 data-action="like"
                                 data-show-faces="false"
@@ -177,7 +177,7 @@
                             </div>
 
                             <div class="fb-comments"
-                                data-href="http://subtlegopala.com/UIInterestingStuff/InterstingFacts/InterestingScienceFacts.aspx"
+                                data-href="http://gopala-krishna.com/UIInterestingStuff/InterstingFacts/InterestingScienceFacts.aspx"
                                 data-numposts="5"
                                 data-width="200px">
                             </div>

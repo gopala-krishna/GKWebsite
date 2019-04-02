@@ -25,7 +25,7 @@ public partial class TestGrid : System.Web.UI.Page
     public static string GetPlaylist(string folderName)
     {
         List<string> ls = new List<string>();
-        string url = "http://www.subtlegopala.com/Media/ARRehman/BScores/";
+        string url = "http://www.gopala-krishna.com/Media/ARRehman/BScores/";
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
         using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
         {
@@ -55,7 +55,7 @@ public partial class TestGrid : System.Web.UI.Page
         List<BScore> bscoresList = new List<BScore>();
         foreach (string dirName in dirNames)
         {
-            string url = "http://www.subtlegopala.com/Media/ARRehman/BScores/" + dirName;
+            string url = "http://www.gopala-krishna.com/Media/ARRehman/BScores/" + dirName;
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {

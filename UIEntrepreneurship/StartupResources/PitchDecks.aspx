@@ -126,11 +126,11 @@
                                     <div class="accordion-frame active ">
 
                                         <div class="fb-save"
-                                            data-uri="http://subtlegopala.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx"
+                                            data-uri="http://gopala-krishna.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx"
                                             data-size="large">
                                         </div>
                                         <div class="fb-like"
-                                            data-href="http://subtlegopala.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx"
+                                            data-href="http://gopala-krishna.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx"
                                             data-layout="standard"
                                             data-action="like"
                                             data-show-faces="false"
@@ -139,7 +139,7 @@
                                         </div>
 
                                         <div class="fb-comments"
-                                            data-href="http://subtlegopala.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx"
+                                            data-href="http://gopala-krishna.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx"
                                             data-numposts="5"
                                             data-width="200px">
                                         </div>

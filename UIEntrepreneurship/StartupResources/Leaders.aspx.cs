@@ -25,8 +25,8 @@ public partial class Leaders : System.Web.UI.Page
     public static string GetLeaderBooklist()
     {
             List<LeaderBook> leaderbookList = new List<LeaderBook>();
-            string url = "http://www.subtlegopala.com/docs/Entrepreneurship/Leaders/";
-            string imageurl = "http://www.subtlegopala.com/images/Entrepreneurship/Leaders/";
+            string url = "http://www.gopala-krishna.com/docs/Entrepreneurship/Leaders/";
+            string imageurl = "http://www.gopala-krishna.com/images/Entrepreneurship/Leaders/";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {

@@ -225,18 +225,18 @@
                                         <a href="#" class="dropdown-toggle">Mac</a>
                                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                             <li>
-                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/MacHackingUltimateGuide.pdf">Complete Guide</a>
+                                                <a href="http://gopala-krishna.com/docs/Technology/Hacking/MacHackingUltimateGuide.pdf">Complete Guide</a>
                                             </li>
                                             <li>
-                                                <a href="http://subtlegopala.com/docs/Technology/Hacking/HackAMac.pdf">Hack a Mac</a>
+                                                <a href="http://gopala-krishna.com/docs/Technology/Hacking/HackAMac.pdf">Hack a Mac</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="http://subtlegopala.com/docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
+                                        <a href="http://gopala-krishna.com/docs/Technology/Hacking/8PowerfulLinkedInHacks.pdf">LinkedIn Hacks</a>
                                     </li>
                                      <li>
-                                        <a href="http://subtlegopala.com/docs/Technology/Hacking/MoviePiracy.pdf">Movie Piracy</a>
+                                        <a href="http://gopala-krishna.com/docs/Technology/Hacking/MoviePiracy.pdf">Movie Piracy</a>
                                     </li>
                                      
                                     <li>
@@ -323,7 +323,7 @@
                                 <a href="#" class="dropdown-toggle">Start a Startup</a>
                                 <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                                     <%--<li><a href="" style = "color:gray">How To Start A Company</a></li>--%>
-                                    <li><a href="http://www.subtlegopala.com/docs/Entrepreneurship/StartupGuide.pdf">Startup Guide</a></li>
+                                    <li><a href="http://www.gopala-krishna.com/docs/Entrepreneurship/StartupGuide.pdf">Startup Guide</a></li>
                                     <li><a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg">Stanford Lectures</a></li>
                                 </ul>
                             </li>

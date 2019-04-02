@@ -24,8 +24,8 @@ public partial class StartupStories : System.Web.UI.Page
         
 
             List<Startup> startupList = new List<Startup>();
-            string url = "http://subtlegopala.com/docs/Entrepreneurship/StartupStories/";
-            string imageurl = "http://subtlegopala.com/images/Entrepreneurship/StartupStories/";
+            string url = "http://gopala-krishna.com/docs/Entrepreneurship/StartupStories/";
+            string imageurl = "http://gopala-krishna.com/images/Entrepreneurship/StartupStories/";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {

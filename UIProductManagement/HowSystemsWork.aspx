@@ -157,7 +157,7 @@
                                         </div>
 
                                         <div class="fb-comments"
-                                            data-href="http://subtlegopala.com/UIProductManagement/HowSystemsWork.aspx"
+                                            data-href="http://gopala-krishna.com/UIProductManagement/HowSystemsWork.aspx"
                                             data-numposts="5"
                                             data-width="200px">
                                         </div>

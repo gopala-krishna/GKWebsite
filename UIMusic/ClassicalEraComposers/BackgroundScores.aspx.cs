@@ -40,8 +40,8 @@ public partial class BackgroundScores : System.Web.UI.Page
     //[ScriptMethod(ResponseFormat = ResponseFormat.Json)]
     //public static string GetPlaylist(string folderName)
     //{
-    //    BScore o1 = new BScore { Movie ="Test",BScoreTitle = "Saare Sapne", DownloadUrl = "http://subtlegopala.com/docs/Saare.mp3", Play = "" };
-    //    BScore o2 = new BScore { Movie = "Test", BScoreTitle = "Anand", DownloadUrl = "http://subtlegopala.com/docs/Anand.mp3", Play = "" };
+    //    BScore o1 = new BScore { Movie ="Test",BScoreTitle = "Saare Sapne", DownloadUrl = "http://gopala-krishna.com/docs/Saare.mp3", Play = "" };
+    //    BScore o2 = new BScore { Movie = "Test", BScoreTitle = "Anand", DownloadUrl = "http://gopala-krishna.com/docs/Anand.mp3", Play = "" };
     //    List<BScore> bscores = new List<BScore>();
     //    bscores.Add(o1); bscores.Add(o2);
 
@@ -53,7 +53,7 @@ public partial class BackgroundScores : System.Web.UI.Page
 
     //public static string GetDirectoryListingRegexForUrl(string url)
     //{
-    //    if (url.Equals("http://www.subtlegopala.com/Media/BScores/Ilaiyaraja/"))
+    //    if (url.Equals("http://www.gopala-krishna.com/Media/BScores/Ilaiyaraja/"))
     //    {
     //        return "<a href=\".*\">(?<A>.*)</a>";
     //    }
@@ -64,7 +64,7 @@ public partial class BackgroundScores : System.Web.UI.Page
     public static string GetPlaylist(string folderName)
     {
         List<string> ls = new List<string>();
-        string url = "http://www.subtlegopala.com/Media/NonIndianLegends/BScores";
+        string url = "http://www.gopala-krishna.com/Media/NonIndianLegends/BScores";
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
         using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
         {
@@ -93,7 +93,7 @@ public partial class BackgroundScores : System.Web.UI.Page
         List<BScore> bscoresList = new List<BScore>();
         foreach (string dirName in dirNames)
         {
-            string url = "http://www.subtlegopala.com/Media/NonIndianLegends/BScores/" + dirName;
+            string url = "http://www.gopala-krishna.com/Media/NonIndianLegends/BScores/" + dirName;
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
@@ -134,7 +134,7 @@ public partial class BackgroundScores : System.Web.UI.Page
     //[ScriptMethod(ResponseFormat = ResponseFormat.Json)]
     //public static string GetBscores(string folderName)
     //{
-    //    string strBScoresPath = "http://www.subtlegopala.com/Media/BScores/Ilaiyaraja";
+    //    string strBScoresPath = "http://www.gopala-krishna.com/Media/BScores/Ilaiyaraja";
     //    List<BScore> bscoresList = new List<BScore>();
 
 

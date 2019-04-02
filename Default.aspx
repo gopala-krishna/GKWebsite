@@ -68,7 +68,7 @@
                                                 with profession we enjoy our work and don’t get bored. I know how to leverage technology and 
                                                 algorithms to build innovative products.My personal strengths - curiosity, honesty and persistence.
 
-                                               I maintain my own <a href="http://subtlegopala.com/UIProductManagement/MyProductPage.aspx"><font color="blue">Products Page</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
+                                               I maintain my own <a href="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"><font color="blue">Products Page</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
                                                 Mostly I share interesting facts which raise curiosity among readers. 
                                                 
 
@@ -85,7 +85,7 @@
 
                                             website.Feel free to contact me for any type of
 
-                                            queries. Sign my <a href ="http://subtlegopala.com/UIGuestbook/Guestbook.aspx"><font color="blue">Guestbook</font></a> with ur valuble
+                                            queries. Sign my <a href ="http://gopala-krishna.com/UIGuestbook/Guestbook.aspx"><font color="blue">Guestbook</font></a> with ur valuble
 
                                             suggestions/comments</p>
                                         <div class ="text-bold text-center text-italic text-shadow ">
@@ -209,11 +209,11 @@
                         <h2 class="fg-white   text-shadow ntm">Rarely found background scores </h2>
                         <br /><br />
                         <audio controls>
-                        <source src="http://subtlegopala.com/Media/MyFavorites/BScores/LoveTheme.mp3">
+                        <source src="http://gopala-krishna.com/Media/MyFavorites/BScores/LoveTheme.mp3">
                         </audio>
                         
                         <audio controls>
-                        <source src="http://subtlegopala.com/Media/MyFavorites/BScores/Chariotsoffire.mp3">
+                        <source src="http://gopala-krishna.com/Media/MyFavorites/BScores/Chariotsoffire.mp3">
                         </audio>
                         <br /><br />
                     </div>
