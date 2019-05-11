@@ -48,7 +48,7 @@
     <script src="<%= ResolveUrl("~/js/kendo.all.min.js")%>"></script>
 
 
-<title>Gopala Krishna's Website</title>
+    <title>Gopala Krishna's Website</title>
 </head>
 <body class="metro" style="background-color: black">
     <form id="form1" runat="server">
@@ -424,24 +424,13 @@
                     <li>
                         <a class="dropdown-toggle " href="#">Entrepreneurship</a>
                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                            <li>
-                                <a href="#" class="dropdown-toggle">Start a Startup</a>
-                                <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                                    <%--<li><a href="" style = "color:gray">How To Start A Company</a></li>--%>
-                                    <li><a href="http://www.gopala-krishna.com/docs/Entrepreneurship/StartupGuide.pdf">Ultimate Guide</a></li>
-                                    <li><a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg">Stanford Lectures</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#" class="dropdown-toggle">Startup Resources</a>
-                                <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
-                                    <li><a href="../../../UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a></li>
-                                    <li><a href="../../../UIEntrepreneurship/StartupResources/ImpBooks.aspx">Imp Books</a></li>
-                                    <li><a href="../../../UIEntrepreneurship/StartupResources/StartupStories.aspx">Startup Stories</a></li>
-                                    <li><a href="../../../UIEntrepreneurship/StartupResources/Leaders.aspx">Leaders</a></li>
-                                    <%--<li><a href="" style = "color:gray">Blogs</a></li>--%>
-                                </ul>
-                            </li>
+                            <li><a href="http://www.gopala-krishna.com/docs/Entrepreneurship/StartupGuide.pdf">Ultimate Guide</a></li>
+                            <li><a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg">Stanford Lectures</a></li>
+                            <li><a href="../../../UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a></li>
+                            <li><a href="../../../UIEntrepreneurship/StartupResources/StartupStories.aspx">Startup Stories</a></li>
+                            <li><a href="https://www.failory.com/cemetery">Startup Cemetery</a></li>
+                            <li><a href="../../../UIEntrepreneurship/StartupResources/Leaders.aspx">Leaders</a></li>
+                            <li><a href="../../../UIEntrepreneurship/StartupResources/ImpBooks.aspx">Books</a></li>
                         </ul>
                     </li>
 

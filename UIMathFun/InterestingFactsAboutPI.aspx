@@ -24,17 +24,17 @@
                             <div class="panel bg-grayLight">
                                 <div class="content padding10 ">
                                     <br />
-                                    When we ask the value of PI to any radom person, we get different answers such as :<br />
+                                    Pick any random person and ask him - what is the value of PI? we get different answers such as :<br />
                                     <br />
                                     1. 22/7<br />
                                     2. 3.14<br />
                                     3. 3.14 with infinite deiclmals<br />
                                     4. 3.14 with infinite decimals and non consecutive repeating decimals<br />
-                                    5. 333/106
-        6. is a greek symbol<br />
+                                    5. 333/106<br />
+                                    6. is a greek symbol<br />
                                     <br />
 
-                                    All of them are tends to be correct but the accurate answer is :
+                                    All of them are 'tends' to be correct but the accurate answer is :
                                     <br />
                                     <br />
                                     Pi is the ratio beteween a circle's circumference and it's diameter<br />
@@ -49,7 +49,7 @@
                                     <img src="../images/Ramanujam2.jpg" class="place-topright padding100 nlm ntm size6"><br />
                                     <br />
 
-                                    please have a look at this  <a href="https://en.wikipedia.org/wiki/Pi">Wiki Link</a> for all possible values of PI<br />
+                                    Please have a look at this  <a href="https://en.wikipedia.org/wiki/Pi">Wiki Link</a> for all the possible values of PI<br />
                                     <br />
 
 
