@@ -34,13 +34,13 @@
                                     6. is a greek symbol<br />
                                     <br />
 
-                                    All of them are 'tends' to be correct but the accurate answer is :
+                                    All of them 'tends' to be correct but the accurate answer is :
                                     <br />
                                     <br />
                                     Pi is the ratio beteween a circle's circumference and it's diameter<br />
                                     <br />
 
-                                    Also have a look at ramanujam's answer
+                                    Also have a look at ramanujam's answer :
                                     <br />
                                     <br />
 
@@ -53,7 +53,7 @@
                                     <br />
 
 
-                                    it's all about understanding!<br />
+                                    It's all about understanding!<br />
                                 </div>
                                 <br />
                             </div>
