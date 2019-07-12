@@ -48,7 +48,9 @@
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink   ntm">Why popular items are less priced in amazon?</h3>
                                                     </div>
-
+                                                    <div class="slide">
+                                                        <h3 class="fg-lightPink   ntm">70% of YouTube views come through recommendation engine</h3>
+                                                    </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">Walmart returns money if competitor has less price for same product</h3>
                                                     </div>
