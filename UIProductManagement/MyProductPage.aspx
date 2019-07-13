@@ -40,6 +40,9 @@
                                                         <h3 class="fg-lightPink  ntm">A powered-off computer can be hacked in less than three minutes</h3>
                                                     </div>
                                                     <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm">Microsoft is the real inventor of Smartphone, Smart TV and Tablet</h3>
+                                                    </div>
+                                                    <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">Why Netflix recently removed "User Reviews" feature?</h3>
                                                     </div>
                                                      <div class="slide">
@@ -78,7 +81,9 @@
                                                       <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">A hire is made every 10 seconds on LinkedIn</h3>
                                                     </div>
-
+                                                    <div class="slide">
+                                                        <h3 class="fg-lightPink  ntm"> VisiCalc was the first spreadsheet originally released for the Apple</h3>
+                                                    </div>
                                                 </div>
 
                                                 <script>
