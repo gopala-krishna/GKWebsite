@@ -35,7 +35,7 @@
 
                                             and traits.Beware this is not the home page of a geek !!
 
-                                            To verify, this browse through all the links.</p>
+                                            To verify this browse through all the links.</p>
 
                                         <p>
                                             Well to start with:<br /><br />
@@ -45,10 +45,10 @@
 
                                             interpret binary and those who cannot.
 
-                                            (Please don't ask me in which categeory i fit in)</P>
+                                            (Please don't ask me in which category i fit in)</P>
 
 
-                                            <p>My passion for technology and my passion for music
+                                            <p>My passion for technology and my passion for product management
 
                                             dragged me into places where i learnt much
 
@@ -68,8 +68,8 @@
                                                 with profession we enjoy our work and don’t get bored. I know how to leverage technology and 
                                                 algorithms to build innovative products.My personal strengths - curiosity, honesty and persistence.
 
-                                               I maintain my own <a href="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"><font color="blue">Products Page</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
-                                                Mostly I share interesting facts which raise curiosity among readers. 
+                                               I maintain my own <a href="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"><font color="blue">Product Portfolio Page</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
+                                               Mostly I share interesting facts which raise curiosity among readers. 
                                                 
 
 
@@ -79,7 +79,7 @@
 
                                             <p>If you feel like knowing more about me then do go
 
-                                            ahead and explore the other setions of my website.
+                                            ahead and explore the other sections of my website.
 
                                              I will keep on updating the content of this
 
@@ -139,18 +139,18 @@
 
                     <div class="slide">
                         <div class="place-right">
-                            <img src="/images/Banners/csharp.png"
+                            <img src="/images/Banners/hacking.jpg"
                                  alt="" class="span4" />
                         </div>
-                        <h2 class="fg-white text-shadow ntm">Can we instantiate an interface in C# ?</h2>
+                        <h2 class="fg-white text-shadow ntm">Can we hack a switched off PC in 3 minutes ?</h2>
                     </div>
 
                      <div class="slide">
                         <div class="place-right">
-                            <img src="/images/Banners/opendotnet.png"
+                            <img src="/images/Banners/deepweb.png"
                                  alt="" class="span4" />
                         </div>
-                        <h2 class="fg-white text-shadow ntm">Is .NET purely open source ?</h2>
+                        <h2 class="fg-white text-shadow ntm"> Does Google covers only 0.001% of WWW  ?</h2>
                     </div>
 
                      <div class="slide">
@@ -158,7 +158,7 @@
                             <img src="/images/Banners/facebook.jpg"
                                  alt="" class="span4" />
                         </div>
-                        <h2 class="fg-white text-shadow ntm">What technologies are used to build facebook ?</h2>
+                        <h2 class="fg-white text-shadow ntm">What technologies are used to power facebook website ?</h2>
                     </div>
 
                      <div class="slide">
@@ -193,13 +193,13 @@
                         <h2 class="fg-white   text-shadow ntm">Which country does not have night?</h2>
                     </div>
 
-                    <div class="slide">
+                    <%--<div class="slide">
                         <div class="place-right">
                             <img src="/images/Banners/whatsapp.jpg"
                                  alt="" class="span4" />
                         </div>
                         <h2 class="fg-white   text-shadow ntm">How systems work : WhatsApp Internals</h2>
-                    </div>
+                    </div>--%>
 
                     <div class="slide">
                         <div class="place-right">
