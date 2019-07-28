@@ -60,7 +60,7 @@
 
                                             Before stepping into this whole wide world i
 
-                                            went to <a href="http://www.iitb.ac.in/"><font color="blue">IIT Mumbai</font></a> and earned B.Tech in mechanical
+                                            went to <a href="http://www.iitb.ac.in/"><font color="blue">IIT Bombay</font></a> and earned B.Tech in mechanical
 
                                             engineering. I'm official mentor for the students at IIT Bombay. </p>
 
