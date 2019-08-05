@@ -69,7 +69,7 @@
                                                 algorithms to build innovative products.My personal strengths - curiosity, honesty and persistence.
 
                                                I maintain my own <a href="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"><font color="blue">Product Portfolio Page</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
-                                               Mostly I share interesting facts which raise curiosity among readers. 
+                                              Mostly I share interesting facts which raise curiosity among readers. 
                                                 
 
 
