@@ -27,8 +27,8 @@ public partial class RecommendationSystems : System.Web.UI.Page
     public static string GetRecommendationSystemslist()
     {
             List<Book> bookList = new List<Book>();
-            string url = "http://gopala-krishna/docs/ProductManagement/RecommendationSystems/HowRecommendationSystemsWork/";
-            string imageurl = "http://gopala-krishna/images/ProductManagement/RecommendationSystems/";
+            string url = "http://gopala-krishna.com/docs/ProductManagement/RecommendationSystems/HowRecommendationSystemsWork/";
+            string imageurl = "http://gopala-krishna.com/images/ProductManagement/RecommendationSystems/";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
