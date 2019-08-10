@@ -46,25 +46,25 @@
                                                         <h3 class="fg-lightPink  ntm">Why Netflix recently removed "User Reviews" feature?</h3>
                                                     </div>
                                                      <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm">Half life of a weblink on internet is 7 years</h3>
+                                                        <h3 class="fg-lightPink  ntm">Half-life of a web link on the internet is 7 years</h3>
                                                     </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink   ntm">Why popular items are less priced in amazon?</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-lightPink   ntm">70% of YouTube views come through recommendation engine</h3>
+                                                        <h3 class="fg-lightPink   ntm">70% of YouTube views come through the recommendation engine</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm">Walmart returns money if competitor has less price for same product</h3>
+                                                        <h3 class="fg-lightPink  ntm">Walmart returns money if the competitor has less price for the same product</h3>
                                                     </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">App Store top 50 games are free</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm">Google index covers only 0.01% of World Wide Web</h3>
+                                                        <h3 class="fg-lightPink  ntm">Google index covers only 0.01% of the World Wide Web</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm">92% users click on an item in the first page of Google search results</h3>
+                                                        <h3 class="fg-lightPink  ntm">92% of users click on an item in the first page of Google search results</h3>
                                                     </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">Facebook uses around 100000 personalization factors</h3>
@@ -73,7 +73,7 @@
                                                         <h3 class="fg-lightPink  ntm">72% of launched products fail</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm">Why Instagram timeline algorithm failed?</h3>
+                                                        <h3 class="fg-lightPink  ntm">Why did the Instagram timeline algorithm fail?</h3>
                                                     </div>
                                                     <div class="slide">
                                                         <h3 class="fg-lightPink  ntm">90% of freemium products fail</h3>
@@ -82,7 +82,7 @@
                                                         <h3 class="fg-lightPink  ntm">A hire is made every 10 seconds on LinkedIn</h3>
                                                     </div>
                                                     <div class="slide">
-                                                        <h3 class="fg-lightPink  ntm"> VisiCalc was the first spreadsheet originally released for the Apple</h3>
+                                                        <h3 class="fg-lightPink  ntm">VisiCalc was the first spreadsheet originally released for the Apple</h3>
                                                     </div>
                                                 </div>
 
