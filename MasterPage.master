@@ -519,7 +519,7 @@
                         <div class="span3 padding0">
                             <a class="button bg-green fg-white" style="width: 100%; margin-bottom: 5px" href=" ../UIProductManagement/MyProductPage.aspx">Product Management</a>
                             <a class="button bg-blue fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Growth Hacking</a>
-                            <a class="button bg-olive fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Monetzation Strategies</a>
+                            <a class="button bg-olive fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Monetization Strategies</a>
                             <a class="button bg-darkBrown fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Why Products Fail</a>
                             <a class="button bg-magenta fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Objectivism-Irrationality</a>
                             <a class="button bg-red fg-white" style="width: 100%; margin-bottom: 5px" href="../UIProductManagement/MyPMArticles.aspx">Business Strategy</a>

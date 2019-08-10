@@ -111,7 +111,7 @@
                             </div>
 
                             <p>
-                                Work-afrolic product leader.Entrepreneur.Growth hacker.Curiosity is my biggest strength. Ability to produce interesting data through research is my biggest capability.
+                                Work-afrolic product leader.Entrepreneur. Growth hacker. Curiosity is my biggest strength. Ability to produce interesting data through research is my biggest capability.
                                 <br />
                                 <br />
 
@@ -120,8 +120,8 @@
                                 <br />
                                 <br />
                                 •	Indian subsidiaries setup for 2 companies. 1 start-up failure. Helped 1 company in acquisition<br />
-                                •	Driven 3 B2B, 2 B2C products and 1 platform from concept to launch as product owner<br />
-                                •	Cumulative increase of revenue : US $25 M<br />
+                                •	Driven 3 B2B, 2 B2C products and 1 platform from concept to launch as a product owner<br />
+                                •	Cumulative increase of revenue: US $25 M<br />
                                 <br />
 
 
@@ -131,13 +131,13 @@
 
                                 <b>Products:</b><br />
                                 <br />
-                                I obsess over products and have good understanding on why products fail and what do to do to mitigate the risk of product failures. Know how to leverage technology to build innovative products. I like defining product vision, roadmap and execution strategy.
+                                I obsess over products and have a good understanding of why products fail and what do to do to mitigate the risk of product failures. Know how to leverage technology to build innovative products. I like defining product vision, roadmap and execution strategy.
                                 <br />
                                 <br />
 
                                 <b>Strategy:</b><br />
                                 <br />
-                                Now a days, my core focus is on designing and developing counter-intuitive strategies. I have good understanding on:<br />
+                                Nowadays, my core focus is on designing and developing counter-intuitive strategies. I have a good understanding of:<br />
                                 •	Monetization Strategies - Pricing strategies, Growth hacking, Engagement strategies.<br />
                                 •	Product Strategies - Time to market, Feature acceptance, Market research, Metrics.<br />
                                 •	Business Strategies - Branding, Partnership, Segmentation, Acquisition, Competitive Analysis.<br />
@@ -145,8 +145,8 @@
 
                                 <b>Technology:</b><br />
                                 <br />
-                                I have good understanding on:<br />
-                                Scaling the systems from 100 users to 1M users and designing the systems for availability or consistency.Evaluating technical possibilities and trade-offs.
+                                I have a good understanding of:<br />
+                                Scaling the systems from 100 users to 1M users and designing the systems for availability or consistency. Evaluating technical possibilities and trade-offs.
                                 <br />
                                 <br />
 
@@ -158,7 +158,7 @@
                                 <br />
 
                                 •	Curiosity – I always start with why and I like to question everything including my existence and why I am writing this summary.<br />
-                                •	Persistence – I believe, if we persistently try for something we can definitely achieve it.<br />
+                                •	Persistence – I believe, if we persistently try for something we can achieve it.<br />
                                 •	Honesty – I like to be honest though this attitude landed me in trouble many times.<br />
                                 <br />
 
@@ -166,16 +166,16 @@
                                 Amazon, Uber and Mackbook Air are my favorite products. Steve Jobs, Elon Musk, Bill Gurley and Jeff Bezos are my favorite visionaries.<br />
                                 <br />
 
-                                Reach out to me if you are like minded.<br />
+                                Reach out to me if you are like-minded.<br />
                                 <br />
 
                                 <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Professional Interests</a><br />
                                 <br />
 
-                                If you would like to see the pich decks of popular startups, please have a look at : <a href="http://gopala-krishna.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a><br />
-                                If you would like to know the internals of  how products work, please have a look at : <a href="http://gopala-krishna.com/UIProductManagement/HowSystemsWork.aspx">How Products Work</a>
+                                If you would like to see the pitch decks of popular startups, please have a look at: <a href="http://gopala-krishna.com/UIEntrepreneurship/StartupResources/PitchDecks.aspx">Pitch Decks</a><br />
+                                If you would like to know the internals of  how products work, please have a look at: <a href="http://gopala-krishna.com/UIProductManagement/HowSystemsWork.aspx">How Products Work</a>
                                 <br />
-                                If you would like to know the technologies used to power a website, please have a look at : <a href="http://gopala-krishna.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
+                                If you would like to know the technologies used to power a website, please have a look at: <a href="http://gopala-krishna.com/UITechnology/TechnologyStacks/WebTechStackSearch.aspx">Technology Stacks</a><br />
 
 
                                 <br />
@@ -215,18 +215,18 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
-                                    Indoor Asset Tracker provides location based visualization, reporting and management for all classes of assets
-                                    in indoor locations like mines, buildings and warehouses. It enables the enrolment of tags and assets into the system, inclusion
+                                    Indoor Asset Tracker provides location-based visualization, reporting, and management for all classes of assets
+                                    in indoor locations like mines, buildings, and warehouses. It enables the enrolment of tags and assets into the system, the inclusion
                                     of maps and floor plans, reporting of current and historical data.<br />
-                                    Some typlical applications of Indoor Asset Tracker include:<br />
+                                    Some typical applications of Indoor Asset Tracker include:<br />
                                     <br />
                                     •	Healthcare - Locate and track patients, equipment like scanner machines 
                                     <br />
-                                    •	Mines - Locate and track miners, equipment like crushers. Get alerts during man down situations.Track temperature & humidity 
-                                       levels at various mining zones to &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ensure safety of miners.Ensure smooth rescue operations and providing exact location of personnel
+                                    •	Mines - Locate and track miners, equipment like crushers. Get alerts during man-down situations. Track temperature & humidity 
+                                       levels at various mining zones to ensure safety of miners.Ensure smooth rescue operations and providing the exact location of personnel
                                     in the emergency zones<br />
-                                    •	Airports - Locate and track ground staff, equipment like trolleys, terminal buses.Locatenearest medical assistance equipment such as wheelchairs<br />
-                                    •	Warehouses - Locate and track ground staff, equipment like trolleys.Reduce inaccurate floor inventories, reduce order-time-to-delivery and prevent 
+                                    •	Airports - Locate and track ground staff, equipment like trolleys, terminal buses.Locate nearest medical assistance equipment such as wheelchairs<br />
+                                    •	Warehouses - Locate and track ground staff, equipment like trolleys. Reduce inaccurate floor inventories, reduce order-time-to-delivery and prevent 
                                    costly assembly &nbsp &nbsp &nbsp &nbsp  line stoppages due to unavailable inventories<br />
                                     <br />
 
@@ -243,16 +243,16 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
                                     <br />
                                     •	<b>Product:</b> Complete re-design of the product including UI, Removed redundant features, Polished must-have features, Raised and resolved >350 UAT bugs<br />
-                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP-level stakeholders<br />
-                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing colleterals, UAT cases, Short term and longterm strategy<br />
-                                    •	<b>Customer:</b> Go-To-Market strategy, Segmentation, Buy-In, Presentations, Deployments, RFP's, Requrements including unspoken needs, Competitive analysis<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product Managers, Designers, Sales, C, and VP-level stakeholders<br />
+                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing collaterals, UAT cases, Short term, and longterm strategy<br />
+                                    •	<b>Customer:</b> Go-To-Market Strategy, Segmentation, Buy-In, Presentations, Deployments, RFP's, Requirements including unspoken needs, Competitive analysis<br />
                                     <br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
                                     <br />
                                     •	Started with zero customers. Acquired 7 customers (2-Large, 5-Midsized)<br />
                                     •	Generated close to US$1.5M revenue<br />
-                                    •	User-centric and bug free product with de-coupled modules, Mobile-friendly, Seamlesss deployment architecture<br />
+                                    •	User-centric and bug-free product with de-coupled modules, Mobile-friendly, Seamless deployment architecture<br />
                                     <br />
 
                                 </p>
@@ -280,7 +280,7 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
                                     Pick to Light is the most flexible and powerful  light directed system used for accurate and fast picking of assets in a warehouse.<br />
-                                    Some typlical benefits of Pick to Light include:<br />
+                                    Some typical benefits of Pick to Light include:<br />
                                     <br />
                                     •	Increases Productivity - Increases the productivity of the picker by reducing the time spent walking between warehouse racks<br />
                                     •	Reduces Errors - removes the pick errors associated with reading paper pick lists<br />
@@ -301,16 +301,16 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
                                     <br />
                                     •	<b>Product:</b> Concept to launch, Added competitive features, MVP, Environment pluggable<br />
-                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP-level stakeholders<br />
-                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing colleterals, UAT cases, Short term and longterm strategy<br />
-                                    •	<b>Customer:</b> Go-To-Market strategy, Segmentation, Buy-In, Presentations, Deployments, RFP's, Requrements including unspoken needs, Competitive analysis<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product Managers, Designers, Sales, C, and VP-level stakeholders<br />
+                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing collaterals, UAT cases, Short term, and longterm strategy<br />
+                                    •	<b>Customer:</b> Go-To-Market Strategy, Segmentation, Buy-In, Presentations, Deployments, RFP's, Requirements including unspoken needs, Competitive analysis<br />
                                     <br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
                                     <br />
-                                    •	Acquired 4 customers (3-Large, 1-Midsized). Got 2 references from these acquired cusomers<br />
+                                    •	Acquired 4 customers (3-Large, 1-Midsized). Got 2 references from these acquired customers<br />
                                     •	Generated close to US$1.0M revenue<br />
-                                    •	User-centric and bug free product suitable for different environments, Mobile-friendly, Seamlesss deployment architecture, Highly configurable<br />
+                                    •	User-centric and bug-free product suitable for different environments, Mobile-friendly, Seamless deployment architecture, Highly configurable<br />
                                     <br />
 
 
@@ -330,7 +330,7 @@
                                             </div>
                                             <div class="span10">
                                                 <br />
-                                                <h3 class="fg-lightPink   ntm">"Travel on shortest path in indoor locations with navigation assistance" </h3>
+                                                <h3 class="fg-lightPink   ntm">"Travel on the shortest path in indoor locations with navigation assistance" </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -342,13 +342,13 @@
                                     <br />
 
                                     Indoor navigation provides the shortest path to navigate in indoor locations like buildings and warehouses.
-                                    Because GPS reception is normally non-existent inside buildings, other positioning technologies like WiFi, BLE are used 
+                                    Because GPS reception is normally non-existent inside buildings, other positioning technologies like WiFi, BLE are used to
                                     create a so-called "indoor GPS".  Indoor navigation with Wi-Fi has an accuracy of 5-15 meters.<br />
                                     <br />
-                                    Some typlical applications of Indoor navigation app include:<br />
+                                    Some typical applications of Indoor navigation app include:<br />
                                     <br />
                                     •	Warehouses - Picking operations in large warehouses<br />
-                                    •	Musems - Guided tour to places of interest<br />
+                                    •	Museums - Guided tour to places of interest<br />
                                     •	Shopping malls - View current location and reach sopping destination from current location<br />
                                     
                                     <br />
@@ -362,9 +362,9 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
                                     <br />
                                     •	<b>Product:</b> Concept to launch, MVP, Mobile app in Android and iOS<br />
-                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP-level stakeholders<br />
-                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing colleterals, UAT cases, Short term and longterm strategy<br />
-                                    •	<b>Customer:</b> Go-To-Market strategy, Buy-In, Presentations, Deployments, RFP's, Requrements including unspoken needs, Competitive analysis<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 27 members which includes Developers, Testers, Product Managers, Designers, Sales, C, and VP-level stakeholders<br />
+                                    •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales & Marketing collaterals, UAT cases, Short term, and longterm strategy<br />
+                                    •	<b>Customer:</b> Go-To-Market strategy, Buy-In, Presentations, Deployments, RFP's, Requirements including unspoken needs, Competitive analysis<br />
                                     <br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
@@ -400,8 +400,8 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
 
-                                    Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Order Allocation System" at the backend. 
-                                    Executed complete e-commerce webstore for the client FabIndia including  "Order Allocation System" and "Rules Engine"
+                                    Martjack SAAS platform enables us to set up a complete online eCommerce store or market place with "Order Allocation System" at the backend. 
+                                    Executed complete eCommerce web store for the client FabIndia including  "Order Allocation System" and "Rules Engine"
                                     <br />
                                     <br />
 
@@ -418,7 +418,7 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
                                     <br />
                                     •	<b>Product:</b> Complete setup of web store for Fabindia, Re-design of the framework from manual to algorithmic, Added 12 features, Added REST API<br />
-                                    •	<b>Team:</b> Handled a cross-functional team of 26 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP level stakeholders<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 26 members which includes Developers, Testers, Product Managers, Designers, Sales, C, and VP level stakeholders<br />
                                     •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales collaterals, Product, engagement and monetization strategies<br />
                                     •	<b>Customer:</b> Go-To-Market strategy, Segmentation, Buy-in, Presentations, Deployments, RFP's, Requirements including unspoken needs<br />
                                     <br />
@@ -426,7 +426,7 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
                                     <br />
                                     •	23 existing customers have signed up for the order allocation module (6-Large, 19-Midsized).<br />
-                                    •	Helped to get acquired. Generated close to US$13M revenue. <br />
+                                    •	Helped to get acquired. Generated close to US$13M in revenue. <br />
                                     •	Completely algorithmic (automatic) user-centric e-Commerce Platform, Pluggable order allocation rules and payment gateways, Mobile friendly, 96% UAT success rate<br />
                                     <br />
 
@@ -456,8 +456,8 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Product Description</a><br />
                                     <br />
 
-                                    Martjack SAAS platform enables us to setup complete online ecommerce store or market place with "Courier Allocation System" at the backend. 
-                                    Executed complete e-commerce webstore for the client BIBA including "Courier Allocation System" and "Courier Agonistic Tracking"
+                                    Martjack SAAS platform enables us to set up a complete online eCommerce store or market place with "Courier Allocation System" at the backend. 
+                                    Executed complete eCommerce web store for the client BIBA including "Courier Allocation System" and "Courier Agonistic Tracking"
                                     <br />
                                     <br />
 
@@ -474,9 +474,9 @@
                                      <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
                                     <br />
                                     •	<b>Product:</b> Complete setup of web store for BIBA, Re-design of the framework from manual to algorithmic, Added 12 features, Added REST API<br />
-                                    •	<b>Team:</b> Handled a cross-functional team of 26 members which includes Developers, Testers, Product managers, Designers, Sales, C and VP level stakeholders<br />
+                                    •	<b>Team:</b> Handled a cross-functional team of 26 members which includes Developers, Testers, Product Managers, Designers, Sales, C and VP level stakeholders<br />
                                     •	<b>Author:</b> Short term and long term backlog, PRD, Wireframes, Detailed user stories, Sales collaterals, Product, engagement and monetization strategies<br />
-                                    •	<b>Customer:</b> Go-To-Market strategy, Segmentation, Buy-in, Presentations, Deployments, RFP's, Requirements including unspoken needs<br />
+                                    •	<b>Customer:</b> Go-To-Market Strategy, Segmentation, Buy-in, Presentations, Deployments, RFP's, Requirements including unspoken needs<br />
                                     <br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Key Results</a><br />
