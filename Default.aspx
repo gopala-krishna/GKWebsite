@@ -31,9 +31,9 @@
 
                                         <p> This is Gopala Krishna.U landed at a place
 
-                                            where u can find information about my interests, hobbies
+                                            where u can find information about my interests, hobbies,
 
-                                            and traits.Beware this is not the home page of a geek !!
+                                            and traits. Beware this is not the home page of a geek !!
 
                                             To verify this browse through all the links.</p>
 
@@ -45,14 +45,14 @@
 
                                             interpret binary and those who cannot.
 
-                                            (Please don't ask me in which category i fit in)</P>
+                                            (Please don't ask me in which category I fit in)</P>
 
 
                                             <p>My passion for technology and my passion for product management
 
-                                            dragged me into places where i learnt much
+                                            dragged me into places where I learned much
 
-                                            more than what i wanted.Though i stumbled at times
+                                            more than what i wanted. Though i stumbled at times
 
                                             my bouncing back attitude and my questioning attitdue always fetched me big
 
@@ -62,13 +62,13 @@
 
                                             went to <a href="http://www.iitb.ac.in/"><font color="blue">IIT Bombay</font></a> and earned B.Tech in mechanical
 
-                                            engineering. I'm official mentor for the students at IIT Bombay. </p>
+                                            engineering. I'm the official mentor for the students at IIT Bombay. </p>
 
                                                 <p>Product management and technology are my core passions and I believe if passion matches 
-                                                with profession we enjoy our work and don’t get bored. I know how to leverage technology and 
-                                                algorithms to build innovative products.My personal strengths - curiosity, honesty and persistence.
+                                                with the profession we enjoy our work and don’t get bored. I know how to leverage technology and 
+                                                algorithms to build innovative products. My personal strengths - curiosity, honesty, and persistence.
 
-                                               I maintain my own <a href="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"><font color="blue">Product Portfolio Page</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
+                                               I maintain my own <a href="http://gopala-krishna.com/UIProductManagement/MyProductPage.aspx"><font color="blue">Product Portfolio Page</font></a>, <a href="http://gopalakrishnaiitb.blogspot.com"><font color="blue">Personal Blog</font></a> ,and <a href="http://gopalakrishnatech.blogspot.com"><font color="blue">Technical Blog</font></a>. 
                                               Mostly I share interesting facts which raise curiosity among readers. 
                                                 
 
@@ -83,9 +83,9 @@
 
                                              I will keep on updating the content of this
 
-                                            website.Feel free to contact me for any type of
+                                            website. Feel free to contact me for any type of
 
-                                            queries. Sign my <a href ="http://gopala-krishna.com/UIGuestbook/Guestbook.aspx"><font color="blue">Guestbook</font></a> with ur valuble
+                                            queries. Sign my <a href ="http://gopala-krishna.com/UIGuestbook/Guestbook.aspx"><font color="blue">Guestbook</font></a> with ur valuable
 
                                             suggestions/comments</p>
                                         <div class ="text-bold text-center text-italic text-shadow ">
