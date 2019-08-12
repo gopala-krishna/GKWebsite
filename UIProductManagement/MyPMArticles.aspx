@@ -97,9 +97,7 @@
 
 
                         </div>
-                        <%--<div class="panel no-border">
-                            <div class="panel-header bg-blue fg-white text-center">Popular Bugs</div><br />
-
+                      
                             
                                
                                
