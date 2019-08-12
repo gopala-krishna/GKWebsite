@@ -43,11 +43,34 @@
                                 <br />
                                 <br />
 
+                            </p>
+                                <hr style="border: 0px; border-top: 2px  solid gray;" />
+
+                            <p>
+
+                                <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Bug Description</a>
+                                <br />
+                                <br />
+                                As per the screenshot, LinkedIn shows there are 20,804 new openings for Microsoft.
+                                <br />
+                                But if we drill down to the details page, we can see only 40 pages with 25 openings on each page i.e. 40x25 = 1000 openings.
+                                <br />
+                                20,804 is far away from 1000!
+                                <br />
+                                Also, the details page shows 1,072,177 results!!!!!
+                                <br />
+                                <br />
+
+
+                                <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
+                                <br />
 
 
 
-
-
+                                <img src="../../images/ProductManagement/Bugs/bug6-1.jpg" class="margin15 nlm ntm size9">
+                                <img src="../../images/ProductManagement/Bugs/bug6-2.jpg" class="margin15 nlm ntm size9">
+                                <br />
+                                <br />
 
                             </p>
                                 <hr style="border: 0px; border-top: 2px  solid gray;" />
