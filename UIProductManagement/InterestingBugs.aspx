@@ -38,8 +38,8 @@
 
 
 
-                                <img src="../../images/Bugs/bug1-1.jpg" class="margin15 nlm ntm size9">
-                                <img src="../../images/Bugs/bug1-2.jpg" class="margin15 nlm ntm size5">
+                                <img src="../../images/ProductManagement/Bugs/bug1-1.jpg" class="margin15 nlm ntm size9">
+                                <img src="../../images/ProductManagement/Bugs/bug1-2.jpg" class="margin15 nlm ntm size5">
                                 <br />
                                 <br />
 
@@ -66,7 +66,7 @@
 
 
 
-                                <img src="../../images/Bugs/bug2-1.jpg" class="margin15 nlm ntm size7">
+                                <img src="../../images/ProductManagement/Bugs/bug2-1.jpg" class="margin15 nlm ntm size7">
                                 <br />
                                 <br />
 
@@ -92,7 +92,7 @@
 
 
 
-                                <img src="../../images/Bugs/bug3-1.jpg" class="margin15 nlm ntm size7">
+                                <img src="../../images/ProductManagement/Bugs/bug3-1.jpg" class="margin15 nlm ntm size7">
                                 <br />
                                 <br />
                             </p>
@@ -111,7 +111,7 @@
 
 
 
-                                <img src="../../images/Bugs/bug4-1.jpeg" class="margin15 nlm ntm size4">
+                                <img src="../../images/ProductManagement/Bugs/bug4-1.jpeg" class="margin15 nlm ntm size4">
                                 <br />
                                 <br />
                             </p>
@@ -130,7 +130,7 @@
 
 
 
-                                <img src="../../images/Bugs/bug5-1.jpeg" class="margin15 nlm ntm size10">
+                                <img src="../../images/ProductManagement/Bugs/bug5-1.jpeg" class="margin15 nlm ntm size10">
                                 <br />
                                 <br />
                             </p>

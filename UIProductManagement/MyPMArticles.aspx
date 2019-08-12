@@ -13,7 +13,7 @@
                             </div>
                             <br />
                             <div class="text-center">
-                                <img src="../../images/Articles/A1.png" class="margin15 nlm ntm size9">
+                                <img src="../../images/ProductManagement/Articles/A1.png" class="margin15 nlm ntm size9">
                             </div>
 
                             <p>

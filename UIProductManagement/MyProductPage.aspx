@@ -233,10 +233,10 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
-                                    <img src="../../images/Productpage/iat1.jpg" class="margin15 nlm ntm size7">
-                                    <img src="../../images/Productpage/iat2.jpg" class="margin15 nlm ntm size7">
-                                    <img src="../../images/Productpage/iat3.jpg" class="margin15 nlm ntm size7">
-                                    <img src="../../images/Productpage/iat4.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/iat1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/iat2.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/iat3.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/iat4.jpg" class="margin15 nlm ntm size7">
                                     <br />
 
 
@@ -294,8 +294,8 @@
                                     <br />
 
 
-                                    <img src="../../images/Productpage/ptl1.jpg" class="margin15 nlm ntm size7">
-                                    <img src="../../images/Productpage/ptl2.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/ptl1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/ptl2.jpg" class="margin15 nlm ntm size7">
                                     <br />
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
@@ -355,8 +355,8 @@
 
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
-                                    <img src="../../images/Productpage/inav1.jpg" class="margin20 nlm ntm size4">
-                                    <img src="../../images/Productpage/inav2.jpg" class="margin20 nlm ntm size4">
+                                    <img src="../../images/ProductManagement/ProductPage/inav1.jpg" class="margin20 nlm ntm size4">
+                                    <img src="../../images/ProductManagement/ProductPage/inav2.jpg" class="margin20 nlm ntm size4">
                                     <br />
                                     
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />
@@ -465,10 +465,10 @@
                                     <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">Screenshots</a><br />
                                     <br />
 
-                                    <img src="../../images/biba1.jpg" class="margin15 nlm ntm size7">
-                                    <img src="../../images/biba2.jpg" class="margin15 nlm ntm size7">
-                                    <img src="../../images/Productpage/Martjack1.jpg" class="margin15 nlm ntm size7">
-                                    <img src="../../images/Productpage/Martjack2.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/biba1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/biba2.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/Martjack1.jpg" class="margin15 nlm ntm size7">
+                                    <img src="../../images/ProductManagement/ProductPage/Martjack2.jpg" class="margin15 nlm ntm size7">
                                     <br />
                                     
                                      <a class="button bg-teal fg-white" style="width: 180px; margin-bottom: 5px">My Contribution</a><br />

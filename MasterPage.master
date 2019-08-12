@@ -418,6 +418,7 @@
                         <ul class="dropdown-menu dark" data-role="dropdown" data-show="hover">
                             <li><a href="../../../UIProductManagement/MyProductPage.aspx">My Product Page</a></li>
                             <li><a href="../../../UIProductManagement/HowSystemsWork.aspx">How Systems Work</a></li>
+                            <li><a href="../../../UIProductManagement/MonetizationStrategies.aspx">Monetization Strategies</a></li>
 
                              <li>
                                 <a href="#" class="dropdown-toggle">Recommendation Systems</a>
