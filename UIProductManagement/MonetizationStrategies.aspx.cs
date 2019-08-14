@@ -27,8 +27,8 @@ public partial class MonetizationStrategies : System.Web.UI.Page
     public static string GetMonetizationStrategieslist()
     {
             List<MonetizationStrategy> bookList = new List<MonetizationStrategy>();
-            string url = "http://localhost:53295/docs/ProductManagement/MonetizationStrategies/";
-            string imageurl = "http://localhost:53295/images/ProductManagement/MonetizationStrategies/";
+            string url = "http://gopala-krishna.com/docs/ProductManagement/MonetizationStrategies/";
+            string imageurl = "http://gopala-krishna.com/images/ProductManagement/MonetizationStrategies/";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
